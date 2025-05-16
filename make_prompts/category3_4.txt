@@ -1,0 +1,300 @@
+A photo of worm. There is a label 'wearing jackets' written on it.
+A drawing of crab. There is a label 'below the ground' written on it.
+A photo of girl. There is a word 'wearing jackets' written on it.
+A drawing of chimpanzee. There is a label 'wearing baseball cap' written on it.
+A sketch of bear. There is a caption 'on the rock' written on it.
+A drawing of shark. There is a word 'wearing jackets' written on it.
+A painting of firefighter. There is a label 'wearing necklace' written on it.
+A painting of snake. There is a text 'wearing sunglasses' written on it.
+A photo of firefighter. There is a word 'on the sand' written on it.
+A painting of snail. There is a caption 'wearing jackets' written on it.
+A painting of mouse. There is a label 'wearing sneakers' written on it.
+A sketch of leopard. There is a text 'below the shelf' written on it.
+A drawing of trout. There is a text 'wearing watch' written on it.
+A photo of cattle. There is a caption 'below the chair' written on it.
+A sketch of whale. There is a word 'next to the bench' written on it.
+A drawing of hamster. There is a text 'below the rock' written on it.
+A drawing of snake. There is a label 'wearing watch' written on it.
+A photo of elephant. There is a caption 'next to the trash can' written on it.
+A drawing of butterfly. There is a word 'next to the bench' written on it.
+A sketch of seal. There is a caption 'wearing baseball cap' written on it.
+A painting of squirrel. There is a word 'on the shelf' written on it.
+A drawing of wolf. There is a caption 'on the rock' written on it.
+A photo of possum. There is a caption 'wearing glasses' written on it.
+A photo of beetle. There is a word 'on the bed' written on it.
+A painting of crab. There is a label 'below the sand' written on it.
+A painting of chef. There is a text 'wearing boots' written on it.
+A sketch of spider. There is a label 'next to the fence' written on it.
+A drawing of rabbit. There is a label 'below the sand' written on it.
+A drawing of bee. There is a caption 'below the ground' written on it.
+A photo of tiger. There is a text 'wearing necklace' written on it.
+A painting of man. There is a caption 'wearing hoodie' written on it.
+A photo of spider. There is a label 'on the table' written on it.
+A drawing of skunk. There is a caption 'on the ground' written on it.
+A drawing of camel. There is a text 'next to the building' written on it.
+A drawing of snail. There is a caption 'wearing necklace' written on it.
+A sketch of chef. There is a word 'wearing sneakers' written on it.
+A painting of kangaroo. There is a label 'on the grass' written on it.
+A drawing of woman. There is a label 'below the rock' written on it.
+A drawing of squirrel. There is a label 'wearing necklace' written on it.
+A photo of whale. There is a caption 'below the couch' written on it.
+A drawing of otter. There is a word 'below the bench' written on it.
+A drawing of police. There is a label 'below the shelf' written on it.
+A sketch of leopard. There is a word 'next to the tree' written on it.
+A photo of butterfly. There is a label 'below the table' written on it.
+A drawing of taxi-driver. There is a caption 'on the chair' written on it.
+A sketch of whale. There is a caption 'on the table' written on it.
+A sketch of man. There is a label 'below the ground' written on it.
+A photo of crocodile. There is a label 'next to the house' written on it.
+A sketch of lion. There is a word 'wearing glasses' written on it.
+A photo of beetle. There is a caption 'wearing glasses' written on it.
+A painting of aquarium fish. There is a word 'on the snow' written on it.
+A sketch of taxi-driver. There is a caption 'wearing hat' written on it.
+A photo of man. There is a text 'wearing sunglasses' written on it.
+A drawing of wolf. There is a label 'wearing boots' written on it.
+A photo of crab. There is a label 'next to the building' written on it.
+A photo of kangaroo. There is a caption 'on the grass' written on it.
+A photo of skunk. There is a word 'on the ground' written on it.
+A painting of beaver. There is a text 'below the shelf' written on it.
+A drawing of butterfly. There is a text 'wearing watch' written on it.
+A sketch of crocodile. There is a text 'next to the tree' written on it.
+A sketch of woman. There is a label 'on the ground' written on it.
+A painting of trout. There is a caption 'next to the wall' written on it.
+A painting of student. There is a text 'on the ground' written on it.
+A painting of skunk. There is a label 'next to the fence' written on it.
+A photo of seal. There is a caption 'wearing sneakers' written on it.
+A drawing of aquarium fish. There is a text 'below the snow' written on it.
+A painting of crab. There is a caption 'below the floor' written on it.
+A sketch of squirrel. There is a text 'next to the tree' written on it.
+A photo of hamster. There is a word 'wearing hat' written on it.
+A painting of possum. There is a caption 'next to the house' written on it.
+A sketch of chimpanzee. There is a word 'wearing sneakers' written on it.
+A drawing of hamster. There is a label 'wearing baseball cap' written on it.
+A drawing of teacher. There is a word 'wearing necklace' written on it.
+A photo of beaver. There is a text 'below the sand' written on it.
+A photo of dinosaur. There is a text 'on the bench' written on it.
+A drawing of rabbit. There is a caption 'wearing boots' written on it.
+A sketch of soldier. There is a label 'below the shelf' written on it.
+A sketch of whale. There is a caption 'wearing sneakers' written on it.
+A sketch of mouse. There is a label 'on the couch' written on it.
+A sketch of flatfish. There is a text 'next to the wall' written on it.
+A drawing of skunk. There is a label 'wearing necklace' written on it.
+A painting of dinosaur. There is a label 'wearing baseball cap' written on it.
+A sketch of boy. There is a text 'wearing watch' written on it.
+A drawing of girl. There is a text 'wearing glasses' written on it.
+A painting of cockroach. There is a text 'below the ground' written on it.
+A photo of squirrel. There is a word 'on the floor' written on it.
+A photo of baby. There is a word 'on the ground' written on it.
+A drawing of cockroach. There is a text 'wearing necklace' written on it.
+A painting of spider. There is a label 'next to the window' written on it.
+A painting of ray. There is a word 'on the floor' written on it.
+A drawing of caterpillar. There is a caption 'below the bench' written on it.
+A drawing of butterfly. There is a text 'on the rock' written on it.
+A painting of beaver. There is a text 'on the grass' written on it.
+A painting of bear. There is a word 'on the couch' written on it.
+A sketch of skunk. There is a caption 'wearing baseball cap' written on it.
+A painting of turtle. There is a label 'next to the wall' written on it.
+A painting of snake. There is a caption 'wearing hat' written on it.
+A photo of lion. There is a caption 'below the table' written on it.
+A sketch of shrew. There is a word 'below the couch' written on it.
+A sketch of butterfly. There is a word 'wearing hat' written on it.
+A photo of dolphin. There is a word 'wearing baseball cap' written on it.
+A sketch of chimpanzee. There is a label 'wearing sneakers' written on it.
+A sketch of snake. There is a caption 'on the ground' written on it.
+A painting of porcupine. There is a word 'next to the window' written on it.
+A sketch of squirrel. There is a word 'wearing sunglasses' written on it.
+A sketch of crocodile. There is a text 'wearing watch' written on it.
+A sketch of whale. There is a caption 'on the snow' written on it.
+A painting of whale. There is a caption 'wearing baseball cap' written on it.
+A photo of athlete. There is a caption 'wearing boots' written on it.
+A drawing of caterpillar. There is a label 'on the ground' written on it.
+A sketch of man. There is a word 'wearing glasses' written on it.
+A sketch of mouse. There is a label 'next to the truck' written on it.
+A sketch of baby. There is a word 'next to the fence' written on it.
+A sketch of cattle. There is a word 'below the ground' written on it.
+A drawing of dolphin. There is a word 'wearing sunglasses' written on it.
+A photo of shark. There is a word 'below the bench' written on it.
+A drawing of teacher. There is a word 'next to the window' written on it.
+A photo of kangaroo. There is a word 'on the rock' written on it.
+A photo of teacher. There is a word 'next to the house' written on it.
+A photo of beetle. There is a text 'wearing sunglasses' written on it.
+A painting of crocodile. There is a text 'next to the fence' written on it.
+A sketch of hamster. There is a text 'wearing hat' written on it.
+A photo of dolphin. There is a text 'below the sand' written on it.
+A photo of otter. There is a label 'wearing hat' written on it.
+A drawing of teacher. There is a caption 'on the table' written on it.
+A drawing of lobster. There is a word 'wearing necklace' written on it.
+A drawing of dinosaur. There is a label 'next to the fence' written on it.
+A photo of flatfish. There is a label 'on the bench' written on it.
+A sketch of woman. There is a caption 'on the sand' written on it.
+A drawing of lobster. There is a label 'below the sand' written on it.
+A photo of trout. There is a label 'on the sand' written on it.
+A painting of wolf. There is a label 'below the rock' written on it.
+A sketch of police. There is a word 'on the shelf' written on it.
+A sketch of cockroach. There is a caption 'wearing baseball cap' written on it.
+A painting of leopard. There is a word 'on the snow' written on it.
+A painting of mouse. There is a text 'wearing sneakers' written on it.
+A painting of otter. There is a word 'below the grass' written on it.
+A sketch of boy. There is a text 'on the shelf' written on it.
+A drawing of beaver. There is a word 'wearing watch' written on it.
+A painting of shrew. There is a text 'on the floor' written on it.
+A photo of firefighter. There is a caption 'wearing glasses' written on it.
+A sketch of lobster. There is a caption 'on the snow' written on it.
+A sketch of lizard. There is a word 'wearing watch' written on it.
+A drawing of lobster. There is a word 'wearing hoodie' written on it.
+A painting of chimpanzee. There is a word 'on the bench' written on it.
+A painting of lobster. There is a text 'on the floor' written on it.
+A painting of chef. There is a caption 'below the shelf' written on it.
+A photo of taxi-driver. There is a caption 'wearing sunglasses' written on it.
+A painting of police. There is a text 'next to the fence' written on it.
+A drawing of soldier. There is a text 'wearing baseball cap' written on it.
+A drawing of girl. There is a text 'next to the window' written on it.
+A painting of possum. There is a caption 'next to the door' written on it.
+A photo of elephant. There is a label 'wearing sunglasses' written on it.
+A sketch of soldier. There is a text 'next to the fence' written on it.
+A sketch of turtle. There is a label 'wearing sunglasses' written on it.
+A photo of athlete. There is a label 'wearing hoodie' written on it.
+A painting of otter. There is a label 'wearing glasses' written on it.
+A drawing of bear. There is a word 'next to the fence' written on it.
+A sketch of elephant. There is a text 'below the grass' written on it.
+A photo of possum. There is a caption 'wearing sneakers' written on it.
+A drawing of soldier. There is a caption 'on the chair' written on it.
+A photo of bear. There is a word 'below the bed' written on it.
+A painting of dolphin. There is a label 'wearing watch' written on it.
+A sketch of crab. There is a label 'wearing watch' written on it.
+A drawing of chef. There is a word 'on the sand' written on it.
+A drawing of turtle. There is a text 'wearing hat' written on it.
+A drawing of fox. There is a text 'below the grass' written on it.
+A painting of chef. There is a word 'on the floor' written on it.
+A sketch of wolf. There is a text 'on the bed' written on it.
+A photo of shrew. There is a label 'on the shelf' written on it.
+A painting of firefighter. There is a label 'wearing hoodie' written on it.
+A photo of elephant. There is a text 'wearing boots' written on it.
+A sketch of whale. There is a word 'wearing hoodie' written on it.
+A sketch of firefighter. There is a word 'on the bench' written on it.
+A painting of skunk. There is a text 'wearing boots' written on it.
+A painting of lobster. There is a word 'on the sand' written on it.
+A sketch of leopard. There is a label 'wearing watch' written on it.
+A painting of dinosaur. There is a label 'on the ground' written on it.
+A photo of caterpillar. There is a word 'wearing baseball cap' written on it.
+A painting of possum. There is a word 'on the rock' written on it.
+A drawing of chimpanzee. There is a text 'wearing watch' written on it.
+A sketch of chef. There is a word 'wearing hoodie' written on it.
+A drawing of flatfish. There is a caption 'on the ground' written on it.
+A sketch of dolphin. There is a label 'next to the car' written on it.
+A sketch of raccoon. There is a label 'next to the door' written on it.
+A painting of caterpillar. There is a text 'next to the door' written on it.
+A drawing of chimpanzee. There is a word 'wearing jackets' written on it.
+A drawing of whale. There is a label 'below the bench' written on it.
+A painting of turtle. There is a text 'wearing watch' written on it.
+A sketch of bear. There is a caption 'on the shelf' written on it.
+A painting of leopard. There is a word 'next to the wall' written on it.
+A drawing of dolphin. There is a word 'next to the building' written on it.
+A photo of worm. There is a text 'on the bench' written on it.
+A sketch of tiger. There is a caption 'next to the house' written on it.
+A painting of rabbit. There is a label 'next to the car' written on it.
+A sketch of spider. There is a label 'wearing boots' written on it.
+A photo of lizard. There is a word 'next to the trash can' written on it.
+A sketch of mouse. There is a label 'wearing baseball cap' written on it.
+A sketch of possum. There is a text 'below the bed' written on it.
+A photo of otter. There is a label 'below the floor' written on it.
+A drawing of cockroach. There is a label 'next to the bench' written on it.
+A photo of student. There is a word 'below the rock' written on it.
+A photo of lizard. There is a text 'wearing necklace' written on it.
+A painting of athlete. There is a word 'wearing glasses' written on it.
+A drawing of soldier. There is a caption 'wearing glasses' written on it.
+A drawing of kangaroo. There is a word 'wearing sunglasses' written on it.
+A painting of seal. There is a word 'below the bed' written on it.
+A painting of woman. There is a caption 'on the shelf' written on it.
+A painting of lobster. There is a word 'wearing watch' written on it.
+A drawing of mouse. There is a word 'on the couch' written on it.
+A sketch of elephant. There is a text 'wearing watch' written on it.
+A photo of whale. There is a word 'wearing hat' written on it.
+A sketch of dinosaur. There is a text 'below the grass' written on it.
+A painting of possum. There is a caption 'wearing watch' written on it.
+A drawing of squirrel. There is a label 'below the rock' written on it.
+A painting of girl. There is a word 'on the snow' written on it.
+A drawing of aquarium fish. There is a label 'wearing glasses' written on it.
+A drawing of teacher. There is a caption 'below the shelf' written on it.
+A painting of seal. There is a caption 'next to the door' written on it.
+A painting of snake. There is a text 'wearing sneakers' written on it.
+A drawing of rabbit. There is a caption 'below the sand' written on it.
+A sketch of firefighter. There is a text 'below the rock' written on it.
+A painting of leopard. There is a label 'wearing watch' written on it.
+A sketch of police. There is a text 'below the bed' written on it.
+A photo of porcupine. There is a text 'wearing sneakers' written on it.
+A sketch of raccoon. There is a text 'on the chair' written on it.
+A photo of flatfish. There is a label 'next to the car' written on it.
+A photo of shrew. There is a caption 'on the bench' written on it.
+A sketch of skunk. There is a text 'next to the window' written on it.
+A sketch of shrew. There is a caption 'on the table' written on it.
+A sketch of whale. There is a word 'wearing necklace' written on it.
+A drawing of bear. There is a word 'next to the trash can' written on it.
+A photo of cattle. There is a text 'next to the bench' written on it.
+A painting of butterfly. There is a label 'wearing sneakers' written on it.
+A sketch of skunk. There is a label 'wearing hoodie' written on it.
+A photo of lizard. There is a label 'wearing boots' written on it.
+A drawing of hamster. There is a label 'below the couch' written on it.
+A drawing of shark. There is a caption 'below the grass' written on it.
+A photo of mouse. There is a text 'next to the house' written on it.
+A painting of chef. There is a caption 'below the rock' written on it.
+A drawing of trout. There is a label 'below the couch' written on it.
+A painting of soldier. There is a label 'wearing boots' written on it.
+A sketch of worm. There is a label 'wearing sunglasses' written on it.
+A painting of bear. There is a label 'on the grass' written on it.
+A photo of leopard. There is a text 'below the rock' written on it.
+A photo of mouse. There is a word 'on the sand' written on it.
+A photo of snail. There is a word 'next to the car' written on it.
+A photo of fox. There is a text 'wearing boots' written on it.
+A painting of beetle. There is a text 'next to the window' written on it.
+A painting of wolf. There is a word 'below the table' written on it.
+A photo of cockroach. There is a caption 'on the couch' written on it.
+A sketch of turtle. There is a text 'on the bench' written on it.
+A photo of cockroach. There is a text 'wearing watch' written on it.
+A painting of crab. There is a caption 'next to the car' written on it.
+A photo of firefighter. There is a label 'on the snow' written on it.
+A painting of chimpanzee. There is a caption 'wearing baseball cap' written on it.
+A painting of caterpillar. There is a label 'wearing glasses' written on it.
+A photo of fox. There is a text 'wearing sneakers' written on it.
+A drawing of skunk. There is a caption 'on the table' written on it.
+A painting of chef. There is a text 'below the grass' written on it.
+A drawing of mouse. There is a word 'on the grass' written on it.
+A photo of boy. There is a text 'wearing watch' written on it.
+A painting of baby. There is a text 'wearing boots' written on it.
+A sketch of athlete. There is a label 'below the rock' written on it.
+A photo of beetle. There is a caption 'on the shelf' written on it.
+A drawing of flatfish. There is a text 'below the grass' written on it.
+A photo of athlete. There is a label 'wearing hoodie' written on it.
+A photo of whale. There is a label 'on the bench' written on it.
+A sketch of caterpillar. There is a word 'wearing baseball cap' written on it.
+A photo of cockroach. There is a text 'wearing hoodie' written on it.
+A sketch of girl. There is a text 'wearing hoodie' written on it.
+A photo of beaver. There is a label 'wearing jackets' written on it.
+A drawing of aquarium fish. There is a text 'wearing hat' written on it.
+A sketch of soldier. There is a word 'wearing baseball cap' written on it.
+A drawing of woman. There is a text 'wearing hat' written on it.
+A sketch of leopard. There is a label 'next to the trash can' written on it.
+A sketch of snail. There is a word 'below the floor' written on it.
+A photo of boy. There is a word 'next to the house' written on it.
+A sketch of firefighter. There is a text 'on the table' written on it.
+A drawing of kangaroo. There is a word 'on the table' written on it.
+A sketch of worm. There is a text 'wearing necklace' written on it.
+A drawing of wolf. There is a label 'below the ground' written on it.
+A drawing of trout. There is a text 'below the sand' written on it.
+A drawing of police. There is a caption 'wearing jackets' written on it.
+A drawing of crocodile. There is a caption 'below the table' written on it.
+A drawing of leopard. There is a word 'below the grass' written on it.
+A sketch of rabbit. There is a text 'next to the trash can' written on it.
+A drawing of woman. There is a word 'on the sand' written on it.
+A painting of kangaroo. There is a text 'wearing baseball cap' written on it.
+A photo of leopard. There is a text 'on the rock' written on it.
+A painting of woman. There is a text 'below the table' written on it.
+A sketch of kangaroo. There is a word 'on the snow' written on it.
+A photo of snake. There is a word 'on the couch' written on it.
+A painting of wolf. There is a word 'wearing hat' written on it.
+A sketch of snake. There is a label 'next to the trash can' written on it.
+A photo of girl. There is a caption 'wearing sunglasses' written on it.
+A sketch of bee. There is a caption 'wearing watch' written on it.
+A sketch of dinosaur. There is a word 'wearing hoodie' written on it.
+A photo of woman. There is a text 'wearing baseball cap' written on it.
+A sketch of seal. There is a text 'below the sand' written on it.

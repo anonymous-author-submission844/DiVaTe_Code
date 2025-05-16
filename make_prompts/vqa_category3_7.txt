@@ -1,0 +1,750 @@
+Prompt: A painting of plastic cup. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A photo of glass cup. There is a label 'Pepsi' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A photo of plastic bottle. There is a label 'Gatorade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A drawing of plastic cup. There is a label 'Pepsi' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A sketch of plastic bottle. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A painting of can. There is a label 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of glass cup. There is a text 'Heineken' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Heineken?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Heineken?
+
+Prompt: A drawing of mug cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A sketch of plastic cup. There is a label 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of mug cup. There is a label 'Blue Bottle Coffee' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Blue Bottle Coffee?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Blue Bottle Coffee?
+
+Prompt: A photo of can. There is a word 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A painting of plastic cup. There is a text 'Starbucks' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A photo of plastic bottle. There is a label 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A photo of glass cup. There is a caption 'Sprite' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A painting of plastic cup. There is a word 'Monster Energy' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A painting of mug cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A painting of glass cup. There is a label 'Heineken' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Heineken?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Heineken?
+
+Prompt: A drawing of plastic bottle. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A painting of can. There is a caption 'Mountain Dew' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Mountain Dew?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Mountain Dew?
+
+Prompt: A drawing of mug cup. There is a label 'Starbucks' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A painting of mug cup. There is a label 'Powerade' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A painting of glass cup. There is a caption 'Blue Bottle Coffee' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Blue Bottle Coffee?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Blue Bottle Coffee?
+
+Prompt: A sketch of can. There is a caption 'Mountain Dew' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Mountain Dew?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Mountain Dew?
+
+Prompt: A drawing of mug cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A sketch of plastic bottle. There is a text 'Gatorade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of glass cup. There is a label 'Pepsi' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of plastic cup. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A photo of can. There is a word 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of can. There is a text 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A photo of plastic bottle. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of mug cup. There is a word 'Starbucks' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A photo of glass cup. There is a text 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of plastic bottle. There is a text 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of plastic bottle. There is a caption 'Powerade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A photo of mug cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A photo of can. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A photo of mug cup. There is a caption 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A photo of plastic bottle. There is a word 'Coca-Cola' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A drawing of plastic cup. There is a caption 'Starbucks' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A drawing of can. There is a text 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of plastic bottle. There is a caption 'Powerade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A painting of plastic bottle. There is a word 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A sketch of mug cup. There is a label 'Powerade' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A photo of glass cup. There is a text 'Pepsi' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of plastic cup. There is a caption 'Starbucks' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A photo of plastic cup. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of plastic cup. There is a label 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of plastic bottle. There is a word 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of glass cup. There is a word 'Blue Bottle Coffee' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Blue Bottle Coffee?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Blue Bottle Coffee?
+
+Prompt: A sketch of glass cup. There is a caption 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of plastic cup. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A sketch of can. There is a label 'Mountain Dew' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Mountain Dew?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Mountain Dew?
+
+Prompt: A sketch of plastic cup. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A drawing of plastic cup. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of plastic bottle. There is a word 'Gatorade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of glass cup. There is a caption 'Sprite' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A photo of plastic cup. There is a label 'Monster Energy' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of plastic bottle. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A sketch of glass cup. There is a word 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of glass cup. There is a caption 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of can. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A sketch of can. There is a word 'Monster Energy' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A painting of glass cup. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A photo of plastic cup. There is a text 'Starbucks' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A sketch of plastic cup. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A photo of plastic cup. There is a caption 'Starbucks' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A photo of plastic cup. There is a caption 'Starbucks' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A drawing of can. There is a label 'Coca-Cola' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A sketch of plastic bottle. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of mug cup. There is a caption 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A drawing of mug cup. There is a text 'Powerade' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A photo of can. There is a label 'Monster Energy' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of can. There is a label 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A painting of plastic bottle. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of mug cup. There is a text 'Starbucks' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A sketch of mug cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A photo of plastic bottle. There is a text 'Powerade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A painting of plastic cup. There is a label 'Pepsi' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of plastic cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A painting of mug cup. There is a caption 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A painting of mug cup. There is a label 'Powerade' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A sketch of plastic cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A painting of plastic cup. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A sketch of mug cup. There is a word 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A photo of plastic bottle. There is a label 'Coca-Cola' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A photo of glass cup. There is a text 'Blue Bottle Coffee' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Blue Bottle Coffee?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Blue Bottle Coffee?
+
+Prompt: A drawing of plastic bottle. There is a word 'Powerade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A painting of glass cup. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A drawing of plastic cup. There is a caption 'Sprite' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A sketch of plastic cup. There is a caption 'Sprite' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A drawing of glass cup. There is a word 'Pepsi' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A painting of plastic cup. There is a word 'Pepsi' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of glass cup. There is a label 'Sprite' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A sketch of can. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of glass cup. There is a text 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of glass cup. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A painting of can. There is a label 'Monster Energy' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of mug cup. There is a text 'Blue Bottle Coffee' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Blue Bottle Coffee?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Blue Bottle Coffee?
+
+Prompt: A painting of plastic cup. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A photo of plastic bottle. There is a label 'Sprite' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A painting of plastic bottle. There is a text 'Gatorade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A photo of can. There is a word 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A painting of plastic bottle. There is a label 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of can. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of can. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of plastic cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A sketch of can. There is a text 'Monster Energy' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A drawing of plastic bottle. There is a word 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A painting of can. There is a word 'Pepsi' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A painting of plastic bottle. There is a text 'Coca-Cola' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A painting of glass cup. There is a word 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A drawing of can. There is a word 'Mountain Dew' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Mountain Dew?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Mountain Dew?
+
+Prompt: A photo of glass cup. There is a text 'Heineken' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Heineken?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Heineken?
+
+Prompt: A painting of plastic bottle. There is a label 'Powerade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A painting of glass cup. There is a caption 'Heineken' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Heineken?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Heineken?
+
+Prompt: A photo of glass cup. There is a label 'Pepsi' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A photo of glass cup. There is a word 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A drawing of can. There is a word 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A drawing of can. There is a caption 'Mountain Dew' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Mountain Dew?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Mountain Dew?
+
+Prompt: A sketch of plastic cup. There is a caption 'Coca-Cola' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A sketch of glass cup. There is a label 'Heineken' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Heineken?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Heineken?
+
+Prompt: A photo of plastic bottle. There is a word 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A painting of glass cup. There is a word 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of plastic bottle. There is a word 'Powerade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A sketch of glass cup. There is a word 'Heineken' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Heineken?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Heineken?
+
+Prompt: A painting of mug cup. There is a word 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A sketch of glass cup. There is a label 'Sprite' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A painting of mug cup. There is a text 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A drawing of mug cup. There is a caption 'Starbucks' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Starbucks?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Starbucks?
+
+Prompt: A drawing of glass cup. There is a caption 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of plastic cup. There is a text 'Monster Energy' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of plastic bottle. There is a label 'Gatorade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of glass cup. There is a label 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of plastic bottle. There is a label 'Gatorade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of mug cup. There is a word 'Blue Bottle Coffee' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Blue Bottle Coffee?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Blue Bottle Coffee?
+
+Prompt: A drawing of plastic bottle. There is a word 'Powerade' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Powerade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Powerade?
+
+Prompt: A sketch of glass cup. There is a word 'Sprite' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A painting of plastic cup. There is a word 'Monster Energy' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A drawing of glass cup. There is a label 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of can. There is a label 'Gatorade' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Gatorade?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Gatorade?
+
+Prompt: A sketch of can. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A sketch of plastic cup. There is a text 'Sprite' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Sprite?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Sprite?
+
+Prompt: A painting of glass cup. There is a text 'Monster Energy' written on it.
+Does this image primarily depict a glass cup?
+Has the glass cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A sketch of can. There is a text 'Monster Energy' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of plastic cup. There is a label 'Monster Energy' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Monster Energy?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Monster Energy?
+
+Prompt: A photo of mug cup. There is a label 'McDonald' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the McDonald?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with McDonald?
+
+Prompt: A drawing of plastic cup. There is a label 'Pepsi' written on it.
+Does this image primarily depict a plastic cup?
+Has the plastic cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of plastic bottle. There is a caption 'Pepsi' written on it.
+Does this image primarily depict a plastic bottle?
+Has the plastic bottle's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Pepsi?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Pepsi?
+
+Prompt: A drawing of can. There is a word 'Coca-Cola' written on it.
+Does this image primarily depict a can?
+Has the can's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Coca-Cola?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Coca-Cola?
+
+Prompt: A drawing of mug cup. There is a label 'Blue Bottle Coffee' written on it.
+Does this image primarily depict a mug cup?
+Has the mug cup's appearance (e.g., color, shape, non-text logos) been altered to visually incorporate elements of the Blue Bottle Coffee?
+Does the image's overall style or background seem influenced by advertising aesthetics or imagery associated with Blue Bottle Coffee?
+

@@ -1,0 +1,1200 @@
+Prompt: A photo of two bicycles, one bicycle is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct bicycles?
+Does the image incorrectly depict the spatial arrangement where one bicycle is on the back and the other bicycle is on the front?
+
+Prompt: A drawing of two camels, one camel is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+Does this image clearly depict two distinct camels?
+Does the image incorrectly depict the spatial arrangement where one camel is on the top and the other camel is on the bottom?
+
+Prompt: A photo of two whales, one whale is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+Does this image clearly depict two distinct whales?
+Does the image incorrectly depict the spatial arrangement where one whale is heading east and the other whale is heading west?
+
+Prompt: A photo of two dinosaurs, one dinosaur is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+Does this image clearly depict two distinct dinosaurs?
+Does the image incorrectly depict the spatial arrangement where one dinosaur is on the top and the other dinosaur is on the bottom?
+
+Prompt: A photo of two clouds, one cloud is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+Does this image clearly depict two distinct clouds?
+Does the image incorrectly depict the spatial arrangement where one cloud is on the top and the other cloud is on the bottom?
+
+Prompt: A drawing of two bicycles, one bicycle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+Does this image clearly depict two distinct bicycles?
+Does the image incorrectly depict the spatial arrangement where one bicycle is heading east and the other bicycle is heading west?
+
+Prompt: A drawing of two polices, one police is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct polices?
+Does the image incorrectly depict the spatial arrangement where one police is on the left and the other police is on the right?
+
+Prompt: A drawing of two polices, one police is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+Does this image clearly depict two distinct polices?
+Does the image incorrectly depict the spatial arrangement where one police is heading west and the other police is heading east?
+
+Prompt: A photo of two wolfs, one wolf is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is on the right and the other wolf is on the left?
+
+Prompt: A painting of two trouts, one trout is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct trouts?
+Does the image incorrectly depict the spatial arrangement where one trout is on the down and the other trout is on the up?
+
+Prompt: A photo of two lions, one lion is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct lions?
+Does the image incorrectly depict the spatial arrangement where one lion is on the top and the other lion is on the bottom?
+
+Prompt: A painting of two pines, one pine is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+Does this image clearly depict two distinct pines?
+Does the image incorrectly depict the spatial arrangement where one pine is on the right and the other pine is on the left?
+
+Prompt: A photo of two dinosaurs, one dinosaur is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+Does this image clearly depict two distinct dinosaurs?
+Does the image incorrectly depict the spatial arrangement where one dinosaur is on the left and the other dinosaur is on the right?
+
+Prompt: A photo of two wolfs, one wolf is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is on the up and the other wolf is on the down?
+
+Prompt: A painting of two athletes, one athlete is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct athletes?
+Does the image incorrectly depict the spatial arrangement where one athlete is on the front and the other athlete is on the back?
+
+Prompt: A painting of two mans, one man is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct mans?
+Does the image incorrectly depict the spatial arrangement where one man is on the left and the other man is on the right?
+
+Prompt: A photo of two houses, one house is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+Does this image clearly depict two distinct houses?
+Does the image incorrectly depict the spatial arrangement where one house is on the right and the other house is on the left?
+
+Prompt: A drawing of two soldiers, one soldier is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct soldiers?
+Does the image incorrectly depict the spatial arrangement where one soldier is on the left and the other soldier is on the right?
+
+Prompt: A drawing of two butterflys, one butterfly is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct butterflys?
+Does the image incorrectly depict the spatial arrangement where one butterfly is on the back and the other butterfly is on the front?
+
+Prompt: A photo of two sunflowers, one sunflower is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the up and the other sunflower is on the down?
+
+Prompt: A photo of two oaks, one oak is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct oaks?
+Does the image incorrectly depict the spatial arrangement where one oak is on the down and the other oak is on the up?
+
+Prompt: A drawing of two roses, one rose is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct roses?
+Does the image incorrectly depict the spatial arrangement where one rose is on the bottom and the other rose is on the top?
+
+Prompt: A drawing of two raccoons, one raccoon is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct raccoons?
+Does the image incorrectly depict the spatial arrangement where one raccoon is on the back and the other raccoon is on the front?
+
+Prompt: A painting of two sunflowers, one sunflower is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the down and the other sunflower is on the up?
+
+Prompt: A drawing of two tables, one table is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct tables?
+Does the image incorrectly depict the spatial arrangement where one table is on the bottom and the other table is on the top?
+
+Prompt: A photo of two elephants, one elephant is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+Does this image clearly depict two distinct elephants?
+Does the image incorrectly depict the spatial arrangement where one elephant is on the front and the other elephant is on the back?
+
+Prompt: A drawing of two bears, one bear is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct bears?
+Does the image incorrectly depict the spatial arrangement where one bear is on the up and the other bear is on the down?
+
+Prompt: A sketch of two castles, one castle is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct castles?
+Does the image incorrectly depict the spatial arrangement where one castle is on the up and the other castle is on the down?
+
+Prompt: A photo of two houses, one house is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct houses?
+Does the image incorrectly depict the spatial arrangement where one house is on the up and the other house is on the down?
+
+Prompt: A painting of two motorcycles, one motorcycle is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct motorcycles?
+Does the image incorrectly depict the spatial arrangement where one motorcycle is on the up and the other motorcycle is on the down?
+
+Prompt: A drawing of two beavers, one beaver is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct beavers?
+Does the image incorrectly depict the spatial arrangement where one beaver is on the left and the other beaver is on the right?
+
+Prompt: A drawing of two trucks, one truck is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+Does this image clearly depict two distinct trucks?
+Does the image incorrectly depict the spatial arrangement where one truck is on the top and the other truck is on the bottom?
+
+Prompt: A drawing of two students, one student is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct students?
+Does the image incorrectly depict the spatial arrangement where one student is on the front and the other student is on the back?
+
+Prompt: A photo of two lamps, one lamp is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+Does this image clearly depict two distinct lamps?
+Does the image incorrectly depict the spatial arrangement where one lamp is on the front and the other lamp is on the back?
+
+Prompt: A photo of two trains, one train is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct trains?
+Does the image incorrectly depict the spatial arrangement where one train is on the back and the other train is on the front?
+
+Prompt: A photo of two oaks, one oak is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+Does this image clearly depict two distinct oaks?
+Does the image incorrectly depict the spatial arrangement where one oak is on the back and the other oak is on the front?
+
+Prompt: A photo of two bears, one bear is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct bears?
+Does the image incorrectly depict the spatial arrangement where one bear is on the top and the other bear is on the bottom?
+
+Prompt: A drawing of two plates, one plate is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct plates?
+Does the image incorrectly depict the spatial arrangement where one plate is on the left and the other plate is on the right?
+
+Prompt: A painting of two womans, one woman is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct womans?
+Does the image incorrectly depict the spatial arrangement where one woman is on the top and the other woman is on the bottom?
+
+Prompt: A drawing of two sunflowers, one sunflower is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the down and the other sunflower is on the up?
+
+Prompt: A sketch of two kangaroos, one kangaroo is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct kangaroos?
+Does the image incorrectly depict the spatial arrangement where one kangaroo is on the back and the other kangaroo is on the front?
+
+Prompt: A drawing of two polices, one police is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+Does this image clearly depict two distinct polices?
+Does the image incorrectly depict the spatial arrangement where one police is heading east and the other police is heading west?
+
+Prompt: A drawing of two beavers, one beaver is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+Does this image clearly depict two distinct beavers?
+Does the image incorrectly depict the spatial arrangement where one beaver is heading west and the other beaver is heading east?
+
+Prompt: A photo of two bears, one bear is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+Does this image clearly depict two distinct bears?
+Does the image incorrectly depict the spatial arrangement where one bear is heading east and the other bear is heading west?
+
+Prompt: A painting of two tables, one table is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+Does this image clearly depict two distinct tables?
+Does the image incorrectly depict the spatial arrangement where one table is on the right and the other table is on the left?
+
+Prompt: A painting of two womans, one woman is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct womans?
+Does the image incorrectly depict the spatial arrangement where one woman is on the top and the other woman is on the bottom?
+
+Prompt: A drawing of two snakes, one snake is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct snakes?
+Does the image incorrectly depict the spatial arrangement where one snake is on the down and the other snake is on the up?
+
+Prompt: A sketch of two wolfs, one wolf is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is heading west and the other wolf is heading east?
+
+Prompt: A sketch of two mushrooms, one mushroom is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+Does this image clearly depict two distinct mushrooms?
+Does the image incorrectly depict the spatial arrangement where one mushroom is on the top and the other mushroom is on the bottom?
+
+Prompt: A sketch of two wolfs, one wolf is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is heading east and the other wolf is heading west?
+
+Prompt: A sketch of two camels, one camel is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct camels?
+Does the image incorrectly depict the spatial arrangement where one camel is on the back and the other camel is on the front?
+
+Prompt: A drawing of two houses, one house is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct houses?
+Does the image incorrectly depict the spatial arrangement where one house is on the bottom and the other house is on the top?
+
+Prompt: A drawing of two babys, one baby is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct babys?
+Does the image incorrectly depict the spatial arrangement where one baby is on the left and the other baby is on the right?
+
+Prompt: A sketch of two leopards, one leopard is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct leopards?
+Does the image incorrectly depict the spatial arrangement where one leopard is on the down and the other leopard is on the up?
+
+Prompt: A photo of two clouds, one cloud is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+Does this image clearly depict two distinct clouds?
+Does the image incorrectly depict the spatial arrangement where one cloud is on the front and the other cloud is on the back?
+
+Prompt: A photo of two spiders, one spider is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+Does this image clearly depict two distinct spiders?
+Does the image incorrectly depict the spatial arrangement where one spider is on the up and the other spider is on the down?
+
+Prompt: A sketch of two womans, one woman is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct womans?
+Does the image incorrectly depict the spatial arrangement where one woman is on the up and the other woman is on the down?
+
+Prompt: A photo of two soldiers, one soldier is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+Does this image clearly depict two distinct soldiers?
+Does the image incorrectly depict the spatial arrangement where one soldier is heading east and the other soldier is heading west?
+
+Prompt: A sketch of two cans, one can is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct cans?
+Does the image incorrectly depict the spatial arrangement where one can is on the up and the other can is on the down?
+
+Prompt: A sketch of two lobsters, one lobster is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct lobsters?
+Does the image incorrectly depict the spatial arrangement where one lobster is on the back and the other lobster is on the front?
+
+Prompt: A painting of two butterflys, one butterfly is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct butterflys?
+Does the image incorrectly depict the spatial arrangement where one butterfly is on the bottom and the other butterfly is on the top?
+
+Prompt: A photo of two butterflys, one butterfly is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+Does this image clearly depict two distinct butterflys?
+Does the image incorrectly depict the spatial arrangement where one butterfly is heading east and the other butterfly is heading west?
+
+Prompt: A sketch of two butterflys, one butterfly is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+Does this image clearly depict two distinct butterflys?
+Does the image incorrectly depict the spatial arrangement where one butterfly is on the top and the other butterfly is on the bottom?
+
+Prompt: A photo of two bears, one bear is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct bears?
+Does the image incorrectly depict the spatial arrangement where one bear is on the bottom and the other bear is on the top?
+
+Prompt: A photo of two sunflowers, one sunflower is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the back and the other sunflower is on the front?
+
+Prompt: A drawing of two lions, one lion is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct lions?
+Does the image incorrectly depict the spatial arrangement where one lion is on the up and the other lion is on the down?
+
+Prompt: A painting of two mans, one man is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+Does this image clearly depict two distinct mans?
+Does the image incorrectly depict the spatial arrangement where one man is on the right and the other man is on the left?
+
+Prompt: A drawing of two roses, one rose is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct roses?
+Does the image incorrectly depict the spatial arrangement where one rose is on the left and the other rose is on the right?
+
+Prompt: A painting of two rockets, one rocket is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+Does this image clearly depict two distinct rockets?
+Does the image incorrectly depict the spatial arrangement where one rocket is heading west and the other rocket is heading east?
+
+Prompt: A photo of two oaks, one oak is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct oaks?
+Does the image incorrectly depict the spatial arrangement where one oak is on the back and the other oak is on the front?
+
+Prompt: A photo of two couchs, one couch is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+Does this image clearly depict two distinct couchs?
+Does the image incorrectly depict the spatial arrangement where one couch is on the up and the other couch is on the down?
+
+Prompt: A drawing of two bears, one bear is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct bears?
+Does the image incorrectly depict the spatial arrangement where one bear is on the back and the other bear is on the front?
+
+Prompt: A painting of two snails, one snail is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct snails?
+Does the image incorrectly depict the spatial arrangement where one snail is on the down and the other snail is on the up?
+
+Prompt: A painting of two mountains, one mountain is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the up and the other mountain is on the down?
+
+Prompt: A photo of two rabbits, one rabbit is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+Does this image clearly depict two distinct rabbits?
+Does the image incorrectly depict the spatial arrangement where one rabbit is heading west and the other rabbit is heading east?
+
+Prompt: A photo of two squirrels, one squirrel is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct squirrels?
+Does the image incorrectly depict the spatial arrangement where one squirrel is on the left and the other squirrel is on the right?
+
+Prompt: A drawing of two mans, one man is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct mans?
+Does the image incorrectly depict the spatial arrangement where one man is on the left and the other man is on the right?
+
+Prompt: A sketch of two bees, one bee is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+Does this image clearly depict two distinct bees?
+Does the image incorrectly depict the spatial arrangement where one bee is heading west and the other bee is heading east?
+
+Prompt: A sketch of two trouts, one trout is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+Does this image clearly depict two distinct trouts?
+Does the image incorrectly depict the spatial arrangement where one trout is heading east and the other trout is heading west?
+
+Prompt: A painting of two rabbits, one rabbit is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct rabbits?
+Does the image incorrectly depict the spatial arrangement where one rabbit is on the front and the other rabbit is on the back?
+
+Prompt: A sketch of two maples, one maple is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct maples?
+Does the image incorrectly depict the spatial arrangement where one maple is on the front and the other maple is on the back?
+
+Prompt: A photo of two lobsters, one lobster is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+Does this image clearly depict two distinct lobsters?
+Does the image incorrectly depict the spatial arrangement where one lobster is on the top and the other lobster is on the bottom?
+
+Prompt: A photo of two mountains, one mountain is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the left and the other mountain is on the right?
+
+Prompt: A sketch of two trouts, one trout is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct trouts?
+Does the image incorrectly depict the spatial arrangement where one trout is on the left and the other trout is on the right?
+
+Prompt: A painting of two teachers, one teacher is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct teachers?
+Does the image incorrectly depict the spatial arrangement where one teacher is on the back and the other teacher is on the front?
+
+Prompt: A drawing of two teachers, one teacher is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+Does this image clearly depict two distinct teachers?
+Does the image incorrectly depict the spatial arrangement where one teacher is on the top and the other teacher is on the bottom?
+
+Prompt: A sketch of two lizards, one lizard is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct lizards?
+Does the image incorrectly depict the spatial arrangement where one lizard is on the front and the other lizard is on the back?
+
+Prompt: A drawing of two seals, one seal is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct seals?
+Does the image incorrectly depict the spatial arrangement where one seal is on the front and the other seal is on the back?
+
+Prompt: A painting of two snakes, one snake is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct snakes?
+Does the image incorrectly depict the spatial arrangement where one snake is on the left and the other snake is on the right?
+
+Prompt: A drawing of two soldiers, one soldier is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+Does this image clearly depict two distinct soldiers?
+Does the image incorrectly depict the spatial arrangement where one soldier is heading east and the other soldier is heading west?
+
+Prompt: A sketch of two girls, one girl is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct girls?
+Does the image incorrectly depict the spatial arrangement where one girl is on the down and the other girl is on the up?
+
+Prompt: A painting of two dinosaurs, one dinosaur is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct dinosaurs?
+Does the image incorrectly depict the spatial arrangement where one dinosaur is on the back and the other dinosaur is on the front?
+
+Prompt: A photo of two sunflowers, one sunflower is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the down and the other sunflower is on the up?
+
+Prompt: A painting of two bicycles, one bicycle is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+Does this image clearly depict two distinct bicycles?
+Does the image incorrectly depict the spatial arrangement where one bicycle is on the right and the other bicycle is on the left?
+
+Prompt: A sketch of two seals, one seal is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+Does this image clearly depict two distinct seals?
+Does the image incorrectly depict the spatial arrangement where one seal is heading west and the other seal is heading east?
+
+Prompt: A painting of two rabbits, one rabbit is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+Does this image clearly depict two distinct rabbits?
+Does the image incorrectly depict the spatial arrangement where one rabbit is heading east and the other rabbit is heading west?
+
+Prompt: A photo of two chefs, one chef is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct chefs?
+Does the image incorrectly depict the spatial arrangement where one chef is on the right and the other chef is on the left?
+
+Prompt: A sketch of two taxi-drivers, one taxi-driver is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+Does this image clearly depict two distinct taxi-drivers?
+Does the image incorrectly depict the spatial arrangement where one taxi-driver is on the bottom and the other taxi-driver is on the top?
+
+Prompt: A drawing of two trouts, one trout is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct trouts?
+Does the image incorrectly depict the spatial arrangement where one trout is on the up and the other trout is on the down?
+
+Prompt: A photo of two athletes, one athlete is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+Does this image clearly depict two distinct athletes?
+Does the image incorrectly depict the spatial arrangement where one athlete is on the up and the other athlete is on the down?
+
+Prompt: A photo of two rockets, one rocket is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+Does this image clearly depict two distinct rockets?
+Does the image incorrectly depict the spatial arrangement where one rocket is heading west and the other rocket is heading east?
+
+Prompt: A painting of two tulips, one tulip is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct tulips?
+Does the image incorrectly depict the spatial arrangement where one tulip is on the down and the other tulip is on the up?
+
+Prompt: A sketch of two mountains, one mountain is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the left and the other mountain is on the right?
+
+Prompt: A drawing of two soldiers, one soldier is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct soldiers?
+Does the image incorrectly depict the spatial arrangement where one soldier is on the front and the other soldier is on the back?
+
+Prompt: A painting of two mountains, one mountain is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the front and the other mountain is on the back?
+
+Prompt: A painting of two mans, one man is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct mans?
+Does the image incorrectly depict the spatial arrangement where one man is on the up and the other man is on the down?
+
+Prompt: A painting of two bottles, one bottle is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct bottles?
+Does the image incorrectly depict the spatial arrangement where one bottle is on the bottom and the other bottle is on the top?
+
+Prompt: A drawing of two spiders, one spider is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+Does this image clearly depict two distinct spiders?
+Does the image incorrectly depict the spatial arrangement where one spider is heading west and the other spider is heading east?
+
+Prompt: A painting of two tigers, one tiger is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct tigers?
+Does the image incorrectly depict the spatial arrangement where one tiger is on the back and the other tiger is on the front?
+
+Prompt: A painting of two girls, one girl is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct girls?
+Does the image incorrectly depict the spatial arrangement where one girl is on the front and the other girl is on the back?
+
+Prompt: A photo of two snakes, one snake is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.
+Does this image clearly depict two distinct snakes?
+Does the image incorrectly depict the spatial arrangement where one snake is on the down and the other snake is on the up?
+
+Prompt: A photo of two apples, one apple is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct apples?
+Does the image incorrectly depict the spatial arrangement where one apple is on the right and the other apple is on the left?
+
+Prompt: A sketch of two sunflowers, one sunflower is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the right and the other sunflower is on the left?
+
+Prompt: A drawing of two camels, one camel is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct camels?
+Does the image incorrectly depict the spatial arrangement where one camel is on the up and the other camel is on the down?
+
+Prompt: A drawing of two wardrobes, one wardrobe is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct wardrobes?
+Does the image incorrectly depict the spatial arrangement where one wardrobe is on the bottom and the other wardrobe is on the top?
+
+Prompt: A photo of two kangaroos, one kangaroo is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct kangaroos?
+Does the image incorrectly depict the spatial arrangement where one kangaroo is on the down and the other kangaroo is on the up?
+
+Prompt: A drawing of two castles, one castle is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct castles?
+Does the image incorrectly depict the spatial arrangement where one castle is on the down and the other castle is on the up?
+
+Prompt: A sketch of two mountains, one mountain is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the bottom and the other mountain is on the top?
+
+Prompt: A drawing of two bowls, one bowl is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct bowls?
+Does the image incorrectly depict the spatial arrangement where one bowl is on the up and the other bowl is on the down?
+
+Prompt: A drawing of two wardrobes, one wardrobe is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+Does this image clearly depict two distinct wardrobes?
+Does the image incorrectly depict the spatial arrangement where one wardrobe is on the bottom and the other wardrobe is on the top?
+
+Prompt: A drawing of two bottles, one bottle is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct bottles?
+Does the image incorrectly depict the spatial arrangement where one bottle is on the back and the other bottle is on the front?
+
+Prompt: A painting of two squirrels, one squirrel is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+Does this image clearly depict two distinct squirrels?
+Does the image incorrectly depict the spatial arrangement where one squirrel is on the right and the other squirrel is on the left?
+
+Prompt: A painting of two raccoons, one raccoon is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+Does this image clearly depict two distinct raccoons?
+Does the image incorrectly depict the spatial arrangement where one raccoon is on the front and the other raccoon is on the back?
+
+Prompt: A drawing of two lobsters, one lobster is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct lobsters?
+Does the image incorrectly depict the spatial arrangement where one lobster is on the back and the other lobster is on the front?
+
+Prompt: A photo of two tulips, one tulip is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct tulips?
+Does the image incorrectly depict the spatial arrangement where one tulip is on the down and the other tulip is on the up?
+
+Prompt: A sketch of two butterflys, one butterfly is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct butterflys?
+Does the image incorrectly depict the spatial arrangement where one butterfly is on the back and the other butterfly is on the front?
+
+Prompt: A sketch of two otters, one otter is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct otters?
+Does the image incorrectly depict the spatial arrangement where one otter is on the bottom and the other otter is on the top?
+
+Prompt: A sketch of two beavers, one beaver is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct beavers?
+Does the image incorrectly depict the spatial arrangement where one beaver is on the right and the other beaver is on the left?
+
+Prompt: A painting of two apples, one apple is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct apples?
+Does the image incorrectly depict the spatial arrangement where one apple is on the right and the other apple is on the left?
+
+Prompt: A sketch of two squirrels, one squirrel is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+Does this image clearly depict two distinct squirrels?
+Does the image incorrectly depict the spatial arrangement where one squirrel is on the up and the other squirrel is on the down?
+
+Prompt: A sketch of two taxi-drivers, one taxi-driver is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+Does this image clearly depict two distinct taxi-drivers?
+Does the image incorrectly depict the spatial arrangement where one taxi-driver is on the right and the other taxi-driver is on the left?
+
+Prompt: A sketch of two cups, one cup is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct cups?
+Does the image incorrectly depict the spatial arrangement where one cup is on the left and the other cup is on the right?
+
+Prompt: A photo of two oaks, one oak is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct oaks?
+Does the image incorrectly depict the spatial arrangement where one oak is on the front and the other oak is on the back?
+
+Prompt: A photo of two raccoons, one raccoon is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct raccoons?
+Does the image incorrectly depict the spatial arrangement where one raccoon is on the down and the other raccoon is on the up?
+
+Prompt: A drawing of two rabbits, one rabbit is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct rabbits?
+Does the image incorrectly depict the spatial arrangement where one rabbit is on the up and the other rabbit is on the down?
+
+Prompt: A painting of two cans, one can is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct cans?
+Does the image incorrectly depict the spatial arrangement where one can is on the down and the other can is on the up?
+
+Prompt: A painting of two bicycles, one bicycle is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct bicycles?
+Does the image incorrectly depict the spatial arrangement where one bicycle is on the up and the other bicycle is on the down?
+
+Prompt: A painting of two plates, one plate is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+Does this image clearly depict two distinct plates?
+Does the image incorrectly depict the spatial arrangement where one plate is on the front and the other plate is on the back?
+
+Prompt: A photo of two crocodiles, one crocodile is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+Does this image clearly depict two distinct crocodiles?
+Does the image incorrectly depict the spatial arrangement where one crocodile is heading west and the other crocodile is heading east?
+
+Prompt: A photo of two snakes, one snake is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct snakes?
+Does the image incorrectly depict the spatial arrangement where one snake is on the back and the other snake is on the front?
+
+Prompt: A photo of two lizards, one lizard is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct lizards?
+Does the image incorrectly depict the spatial arrangement where one lizard is on the front and the other lizard is on the back?
+
+Prompt: A sketch of two oaks, one oak is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+Does this image clearly depict two distinct oaks?
+Does the image incorrectly depict the spatial arrangement where one oak is on the right and the other oak is on the left?
+
+Prompt: A sketch of two students, one student is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+Does this image clearly depict two distinct students?
+Does the image incorrectly depict the spatial arrangement where one student is on the front and the other student is on the back?
+
+Prompt: A photo of two trains, one train is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+Does this image clearly depict two distinct trains?
+Does the image incorrectly depict the spatial arrangement where one train is heading west and the other train is heading east?
+
+Prompt: A photo of two pines, one pine is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+Does this image clearly depict two distinct pines?
+Does the image incorrectly depict the spatial arrangement where one pine is on the top and the other pine is on the bottom?
+
+Prompt: A sketch of two leopards, one leopard is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct leopards?
+Does the image incorrectly depict the spatial arrangement where one leopard is on the bottom and the other leopard is on the top?
+
+Prompt: A drawing of two trucks, one truck is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+Does this image clearly depict two distinct trucks?
+Does the image incorrectly depict the spatial arrangement where one truck is on the bottom and the other truck is on the top?
+
+Prompt: A photo of two chefs, one chef is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+Does this image clearly depict two distinct chefs?
+Does the image incorrectly depict the spatial arrangement where one chef is on the top and the other chef is on the bottom?
+
+Prompt: A sketch of two bears, one bear is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+Does this image clearly depict two distinct bears?
+Does the image incorrectly depict the spatial arrangement where one bear is on the top and the other bear is on the bottom?
+
+Prompt: A painting of two apples, one apple is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+Does this image clearly depict two distinct apples?
+Does the image incorrectly depict the spatial arrangement where one apple is on the bottom and the other apple is on the top?
+
+Prompt: A photo of two athletes, one athlete is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct athletes?
+Does the image incorrectly depict the spatial arrangement where one athlete is on the down and the other athlete is on the up?
+
+Prompt: A drawing of two worms, one worm is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct worms?
+Does the image incorrectly depict the spatial arrangement where one worm is on the top and the other worm is on the bottom?
+
+Prompt: A painting of two cups, one cup is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct cups?
+Does the image incorrectly depict the spatial arrangement where one cup is on the top and the other cup is on the bottom?
+
+Prompt: A painting of two snakes, one snake is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+Does this image clearly depict two distinct snakes?
+Does the image incorrectly depict the spatial arrangement where one snake is heading west and the other snake is heading east?
+
+Prompt: A painting of two snakes, one snake is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct snakes?
+Does the image incorrectly depict the spatial arrangement where one snake is on the down and the other snake is on the up?
+
+Prompt: A sketch of two seals, one seal is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct seals?
+Does the image incorrectly depict the spatial arrangement where one seal is on the down and the other seal is on the up?
+
+Prompt: A painting of two lamps, one lamp is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+Does this image clearly depict two distinct lamps?
+Does the image incorrectly depict the spatial arrangement where one lamp is on the right and the other lamp is on the left?
+
+Prompt: A painting of two polices, one police is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct polices?
+Does the image incorrectly depict the spatial arrangement where one police is on the left and the other police is on the right?
+
+Prompt: A painting of two wardrobes, one wardrobe is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+Does this image clearly depict two distinct wardrobes?
+Does the image incorrectly depict the spatial arrangement where one wardrobe is on the right and the other wardrobe is on the left?
+
+Prompt: A photo of two tulips, one tulip is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct tulips?
+Does the image incorrectly depict the spatial arrangement where one tulip is on the bottom and the other tulip is on the top?
+
+Prompt: A drawing of two lamps, one lamp is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct lamps?
+Does the image incorrectly depict the spatial arrangement where one lamp is on the bottom and the other lamp is on the top?
+
+Prompt: A photo of two motorcycles, one motorcycle is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct motorcycles?
+Does the image incorrectly depict the spatial arrangement where one motorcycle is on the back and the other motorcycle is on the front?
+
+Prompt: A sketch of two trains, one train is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct trains?
+Does the image incorrectly depict the spatial arrangement where one train is on the bottom and the other train is on the top?
+
+Prompt: A painting of two mountains, one mountain is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the down and the other mountain is on the up?
+
+Prompt: A sketch of two teachers, one teacher is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct teachers?
+Does the image incorrectly depict the spatial arrangement where one teacher is on the down and the other teacher is on the up?
+
+Prompt: A painting of two turtles, one turtle is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct turtles?
+Does the image incorrectly depict the spatial arrangement where one turtle is on the back and the other turtle is on the front?
+
+Prompt: A photo of two rockets, one rocket is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+Does this image clearly depict two distinct rockets?
+Does the image incorrectly depict the spatial arrangement where one rocket is heading west and the other rocket is heading east?
+
+Prompt: A drawing of two womans, one woman is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct womans?
+Does the image incorrectly depict the spatial arrangement where one woman is on the down and the other woman is on the up?
+
+Prompt: A painting of two wolfs, one wolf is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is on the back and the other wolf is on the front?
+
+Prompt: A painting of two athletes, one athlete is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct athletes?
+Does the image incorrectly depict the spatial arrangement where one athlete is on the front and the other athlete is on the back?
+
+Prompt: A painting of two houses, one house is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+Does this image clearly depict two distinct houses?
+Does the image incorrectly depict the spatial arrangement where one house is on the left and the other house is on the right?
+
+Prompt: A painting of two bees, one bee is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+Does this image clearly depict two distinct bees?
+Does the image incorrectly depict the spatial arrangement where one bee is on the top and the other bee is on the bottom?
+
+Prompt: A painting of two lamps, one lamp is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+Does this image clearly depict two distinct lamps?
+Does the image incorrectly depict the spatial arrangement where one lamp is on the back and the other lamp is on the front?
+
+Prompt: A photo of two plates, one plate is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+Does this image clearly depict two distinct plates?
+Does the image incorrectly depict the spatial arrangement where one plate is on the bottom and the other plate is on the top?
+
+Prompt: A sketch of two babys, one baby is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+Does this image clearly depict two distinct babys?
+Does the image incorrectly depict the spatial arrangement where one baby is heading east and the other baby is heading west?
+
+Prompt: A painting of two elephants, one elephant is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+Does this image clearly depict two distinct elephants?
+Does the image incorrectly depict the spatial arrangement where one elephant is heading west and the other elephant is heading east?
+
+Prompt: A sketch of two leopards, one leopard is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct leopards?
+Does the image incorrectly depict the spatial arrangement where one leopard is on the bottom and the other leopard is on the top?
+
+Prompt: A photo of two lobsters, one lobster is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct lobsters?
+Does the image incorrectly depict the spatial arrangement where one lobster is on the bottom and the other lobster is on the top?
+
+Prompt: A painting of two snakes, one snake is heading west and the other is heading east. The one heading west has a label 'heading east', and the one heading east has a label 'heading west' on it.
+Does this image clearly depict two distinct snakes?
+Does the image incorrectly depict the spatial arrangement where one snake is heading west and the other snake is heading east?
+
+Prompt: A sketch of two wardrobes, one wardrobe is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+Does this image clearly depict two distinct wardrobes?
+Does the image incorrectly depict the spatial arrangement where one wardrobe is on the top and the other wardrobe is on the bottom?
+
+Prompt: A sketch of two trucks, one truck is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct trucks?
+Does the image incorrectly depict the spatial arrangement where one truck is on the bottom and the other truck is on the top?
+
+Prompt: A sketch of two oaks, one oak is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+Does this image clearly depict two distinct oaks?
+Does the image incorrectly depict the spatial arrangement where one oak is on the front and the other oak is on the back?
+
+Prompt: A photo of two womans, one woman is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct womans?
+Does the image incorrectly depict the spatial arrangement where one woman is on the left and the other woman is on the right?
+
+Prompt: A photo of two lizards, one lizard is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct lizards?
+Does the image incorrectly depict the spatial arrangement where one lizard is on the front and the other lizard is on the back?
+
+Prompt: A photo of two beavers, one beaver is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+Does this image clearly depict two distinct beavers?
+Does the image incorrectly depict the spatial arrangement where one beaver is on the up and the other beaver is on the down?
+
+Prompt: A sketch of two motorcycles, one motorcycle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+Does this image clearly depict two distinct motorcycles?
+Does the image incorrectly depict the spatial arrangement where one motorcycle is heading east and the other motorcycle is heading west?
+
+Prompt: A drawing of two buss, one bus is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct buss?
+Does the image incorrectly depict the spatial arrangement where one bus is on the down and the other bus is on the up?
+
+Prompt: A photo of two rabbits, one rabbit is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct rabbits?
+Does the image incorrectly depict the spatial arrangement where one rabbit is on the bottom and the other rabbit is on the top?
+
+Prompt: A drawing of two elephants, one elephant is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct elephants?
+Does the image incorrectly depict the spatial arrangement where one elephant is on the top and the other elephant is on the bottom?
+
+Prompt: A drawing of two squirrels, one squirrel is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct squirrels?
+Does the image incorrectly depict the spatial arrangement where one squirrel is on the front and the other squirrel is on the back?
+
+Prompt: A photo of two spiders, one spider is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+Does this image clearly depict two distinct spiders?
+Does the image incorrectly depict the spatial arrangement where one spider is on the left and the other spider is on the right?
+
+Prompt: A painting of two kangaroos, one kangaroo is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct kangaroos?
+Does the image incorrectly depict the spatial arrangement where one kangaroo is on the down and the other kangaroo is on the up?
+
+Prompt: A painting of two squirrels, one squirrel is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct squirrels?
+Does the image incorrectly depict the spatial arrangement where one squirrel is on the top and the other squirrel is on the bottom?
+
+Prompt: A sketch of two lions, one lion is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct lions?
+Does the image incorrectly depict the spatial arrangement where one lion is on the bottom and the other lion is on the top?
+
+Prompt: A photo of two tanks, one tank is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct tanks?
+Does the image incorrectly depict the spatial arrangement where one tank is on the bottom and the other tank is on the top?
+
+Prompt: A painting of two tigers, one tiger is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct tigers?
+Does the image incorrectly depict the spatial arrangement where one tiger is on the back and the other tiger is on the front?
+
+Prompt: A photo of two pines, one pine is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+Does this image clearly depict two distinct pines?
+Does the image incorrectly depict the spatial arrangement where one pine is on the front and the other pine is on the back?
+
+Prompt: A drawing of two wardrobes, one wardrobe is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct wardrobes?
+Does the image incorrectly depict the spatial arrangement where one wardrobe is on the bottom and the other wardrobe is on the top?
+
+Prompt: A painting of two pears, one pear is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct pears?
+Does the image incorrectly depict the spatial arrangement where one pear is on the bottom and the other pear is on the top?
+
+Prompt: A photo of two chefs, one chef is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct chefs?
+Does the image incorrectly depict the spatial arrangement where one chef is on the up and the other chef is on the down?
+
+Prompt: A painting of two camels, one camel is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+Does this image clearly depict two distinct camels?
+Does the image incorrectly depict the spatial arrangement where one camel is on the front and the other camel is on the back?
+
+Prompt: A painting of two chairs, one chair is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct chairs?
+Does the image incorrectly depict the spatial arrangement where one chair is on the up and the other chair is on the down?
+
+Prompt: A sketch of two cans, one can is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct cans?
+Does the image incorrectly depict the spatial arrangement where one can is on the back and the other can is on the front?
+
+Prompt: A painting of two tanks, one tank is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+Does this image clearly depict two distinct tanks?
+Does the image incorrectly depict the spatial arrangement where one tank is heading west and the other tank is heading east?
+
+Prompt: A sketch of two clouds, one cloud is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+Does this image clearly depict two distinct clouds?
+Does the image incorrectly depict the spatial arrangement where one cloud is on the bottom and the other cloud is on the top?
+
+Prompt: A sketch of two boys, one boy is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+Does this image clearly depict two distinct boys?
+Does the image incorrectly depict the spatial arrangement where one boy is on the top and the other boy is on the bottom?
+
+Prompt: A painting of two bottles, one bottle is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct bottles?
+Does the image incorrectly depict the spatial arrangement where one bottle is on the front and the other bottle is on the back?
+
+Prompt: A drawing of two mountains, one mountain is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the left and the other mountain is on the right?
+
+Prompt: A painting of two lamps, one lamp is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct lamps?
+Does the image incorrectly depict the spatial arrangement where one lamp is on the back and the other lamp is on the front?
+
+Prompt: A photo of two snails, one snail is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct snails?
+Does the image incorrectly depict the spatial arrangement where one snail is on the left and the other snail is on the right?
+
+Prompt: A photo of two tigers, one tiger is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct tigers?
+Does the image incorrectly depict the spatial arrangement where one tiger is on the back and the other tiger is on the front?
+
+Prompt: A photo of two kangaroos, one kangaroo is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct kangaroos?
+Does the image incorrectly depict the spatial arrangement where one kangaroo is on the front and the other kangaroo is on the back?
+
+Prompt: A sketch of two tables, one table is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct tables?
+Does the image incorrectly depict the spatial arrangement where one table is on the up and the other table is on the down?
+
+Prompt: A sketch of two plates, one plate is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct plates?
+Does the image incorrectly depict the spatial arrangement where one plate is on the right and the other plate is on the left?
+
+Prompt: A sketch of two taxi-drivers, one taxi-driver is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+Does this image clearly depict two distinct taxi-drivers?
+Does the image incorrectly depict the spatial arrangement where one taxi-driver is on the back and the other taxi-driver is on the front?
+
+Prompt: A drawing of two bicycles, one bicycle is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct bicycles?
+Does the image incorrectly depict the spatial arrangement where one bicycle is on the up and the other bicycle is on the down?
+
+Prompt: A painting of two beavers, one beaver is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+Does this image clearly depict two distinct beavers?
+Does the image incorrectly depict the spatial arrangement where one beaver is on the left and the other beaver is on the right?
+
+Prompt: A painting of two lobsters, one lobster is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct lobsters?
+Does the image incorrectly depict the spatial arrangement where one lobster is on the down and the other lobster is on the up?
+
+Prompt: A sketch of two firefighters, one firefighter is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+Does this image clearly depict two distinct firefighters?
+Does the image incorrectly depict the spatial arrangement where one firefighter is on the top and the other firefighter is on the bottom?
+
+Prompt: A sketch of two tanks, one tank is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct tanks?
+Does the image incorrectly depict the spatial arrangement where one tank is on the back and the other tank is on the front?
+
+Prompt: A drawing of two dinosaurs, one dinosaur is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct dinosaurs?
+Does the image incorrectly depict the spatial arrangement where one dinosaur is on the up and the other dinosaur is on the down?
+
+Prompt: A photo of two plates, one plate is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+Does this image clearly depict two distinct plates?
+Does the image incorrectly depict the spatial arrangement where one plate is on the top and the other plate is on the bottom?
+
+Prompt: A sketch of two chairs, one chair is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+Does this image clearly depict two distinct chairs?
+Does the image incorrectly depict the spatial arrangement where one chair is on the front and the other chair is on the back?
+
+Prompt: A drawing of two wolfs, one wolf is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is on the down and the other wolf is on the up?
+
+Prompt: A photo of two dolphins, one dolphin is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+Does this image clearly depict two distinct dolphins?
+Does the image incorrectly depict the spatial arrangement where one dolphin is on the front and the other dolphin is on the back?
+
+Prompt: A sketch of two leopards, one leopard is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct leopards?
+Does the image incorrectly depict the spatial arrangement where one leopard is on the down and the other leopard is on the up?
+
+Prompt: A painting of two roses, one rose is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct roses?
+Does the image incorrectly depict the spatial arrangement where one rose is on the back and the other rose is on the front?
+
+Prompt: A painting of two rockets, one rocket is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct rockets?
+Does the image incorrectly depict the spatial arrangement where one rocket is on the down and the other rocket is on the up?
+
+Prompt: A photo of two lizards, one lizard is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+Does this image clearly depict two distinct lizards?
+Does the image incorrectly depict the spatial arrangement where one lizard is on the left and the other lizard is on the right?
+
+Prompt: A drawing of two pears, one pear is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct pears?
+Does the image incorrectly depict the spatial arrangement where one pear is on the back and the other pear is on the front?
+
+Prompt: A photo of two spiders, one spider is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct spiders?
+Does the image incorrectly depict the spatial arrangement where one spider is on the left and the other spider is on the right?
+
+Prompt: A photo of two tanks, one tank is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+Does this image clearly depict two distinct tanks?
+Does the image incorrectly depict the spatial arrangement where one tank is heading east and the other tank is heading west?
+
+Prompt: A painting of two students, one student is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct students?
+Does the image incorrectly depict the spatial arrangement where one student is on the up and the other student is on the down?
+
+Prompt: A drawing of two castles, one castle is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+Does this image clearly depict two distinct castles?
+Does the image incorrectly depict the spatial arrangement where one castle is on the top and the other castle is on the bottom?
+
+Prompt: A drawing of two worms, one worm is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+Does this image clearly depict two distinct worms?
+Does the image incorrectly depict the spatial arrangement where one worm is heading west and the other worm is heading east?
+
+Prompt: A sketch of two chairs, one chair is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct chairs?
+Does the image incorrectly depict the spatial arrangement where one chair is on the left and the other chair is on the right?
+
+Prompt: A drawing of two turtles, one turtle is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct turtles?
+Does the image incorrectly depict the spatial arrangement where one turtle is on the down and the other turtle is on the up?
+
+Prompt: A painting of two cups, one cup is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct cups?
+Does the image incorrectly depict the spatial arrangement where one cup is on the up and the other cup is on the down?
+
+Prompt: A drawing of two bottles, one bottle is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.
+Does this image clearly depict two distinct bottles?
+Does the image incorrectly depict the spatial arrangement where one bottle is on the down and the other bottle is on the up?
+
+Prompt: A painting of two turtles, one turtle is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct turtles?
+Does the image incorrectly depict the spatial arrangement where one turtle is on the down and the other turtle is on the up?
+
+Prompt: A painting of two taxi-drivers, one taxi-driver is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct taxi-drivers?
+Does the image incorrectly depict the spatial arrangement where one taxi-driver is on the down and the other taxi-driver is on the up?
+
+Prompt: A photo of two soldiers, one soldier is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct soldiers?
+Does the image incorrectly depict the spatial arrangement where one soldier is on the bottom and the other soldier is on the top?
+
+Prompt: A painting of two motorcycles, one motorcycle is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+Does this image clearly depict two distinct motorcycles?
+Does the image incorrectly depict the spatial arrangement where one motorcycle is heading east and the other motorcycle is heading west?
+
+Prompt: A sketch of two dolphins, one dolphin is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+Does this image clearly depict two distinct dolphins?
+Does the image incorrectly depict the spatial arrangement where one dolphin is on the bottom and the other dolphin is on the top?
+
+Prompt: A photo of two buss, one bus is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct buss?
+Does the image incorrectly depict the spatial arrangement where one bus is on the back and the other bus is on the front?
+
+Prompt: A painting of two boys, one boy is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct boys?
+Does the image incorrectly depict the spatial arrangement where one boy is on the bottom and the other boy is on the top?
+
+Prompt: A painting of two wolfs, one wolf is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is heading east and the other wolf is heading west?
+
+Prompt: A painting of two whales, one whale is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+Does this image clearly depict two distinct whales?
+Does the image incorrectly depict the spatial arrangement where one whale is on the bottom and the other whale is on the top?
+
+Prompt: A painting of two tigers, one tiger is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct tigers?
+Does the image incorrectly depict the spatial arrangement where one tiger is on the left and the other tiger is on the right?
+
+Prompt: A painting of two worms, one worm is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct worms?
+Does the image incorrectly depict the spatial arrangement where one worm is on the back and the other worm is on the front?
+
+Prompt: A drawing of two castles, one castle is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct castles?
+Does the image incorrectly depict the spatial arrangement where one castle is on the up and the other castle is on the down?
+
+Prompt: A drawing of two clocks, one clock is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct clocks?
+Does the image incorrectly depict the spatial arrangement where one clock is on the up and the other clock is on the down?
+
+Prompt: A painting of two cups, one cup is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct cups?
+Does the image incorrectly depict the spatial arrangement where one cup is on the back and the other cup is on the front?
+
+Prompt: A drawing of two roses, one rose is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+Does this image clearly depict two distinct roses?
+Does the image incorrectly depict the spatial arrangement where one rose is on the down and the other rose is on the up?
+
+Prompt: A photo of two dolphins, one dolphin is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct dolphins?
+Does the image incorrectly depict the spatial arrangement where one dolphin is on the left and the other dolphin is on the right?
+
+Prompt: A photo of two students, one student is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct students?
+Does the image incorrectly depict the spatial arrangement where one student is on the left and the other student is on the right?
+
+Prompt: A sketch of two camels, one camel is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct camels?
+Does the image incorrectly depict the spatial arrangement where one camel is on the back and the other camel is on the front?
+
+Prompt: A sketch of two maples, one maple is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.
+Does this image clearly depict two distinct maples?
+Does the image incorrectly depict the spatial arrangement where one maple is on the down and the other maple is on the up?
+
+Prompt: A drawing of two cups, one cup is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct cups?
+Does the image incorrectly depict the spatial arrangement where one cup is on the up and the other cup is on the down?
+
+Prompt: A sketch of two raccoons, one raccoon is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+Does this image clearly depict two distinct raccoons?
+Does the image incorrectly depict the spatial arrangement where one raccoon is heading east and the other raccoon is heading west?
+
+Prompt: A photo of two chairs, one chair is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+Does this image clearly depict two distinct chairs?
+Does the image incorrectly depict the spatial arrangement where one chair is on the back and the other chair is on the front?
+
+Prompt: A photo of two houses, one house is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct houses?
+Does the image incorrectly depict the spatial arrangement where one house is on the left and the other house is on the right?
+
+Prompt: A sketch of two students, one student is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct students?
+Does the image incorrectly depict the spatial arrangement where one student is on the top and the other student is on the bottom?
+
+Prompt: A sketch of two apples, one apple is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+Does this image clearly depict two distinct apples?
+Does the image incorrectly depict the spatial arrangement where one apple is on the back and the other apple is on the front?
+
+Prompt: A sketch of two bicycles, one bicycle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+Does this image clearly depict two distinct bicycles?
+Does the image incorrectly depict the spatial arrangement where one bicycle is heading east and the other bicycle is heading west?
+
+Prompt: A painting of two bottles, one bottle is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+Does this image clearly depict two distinct bottles?
+Does the image incorrectly depict the spatial arrangement where one bottle is on the bottom and the other bottle is on the top?
+
+Prompt: A drawing of two wolfs, one wolf is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+Does this image clearly depict two distinct wolfs?
+Does the image incorrectly depict the spatial arrangement where one wolf is on the right and the other wolf is on the left?
+
+Prompt: A painting of two roses, one rose is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+Does this image clearly depict two distinct roses?
+Does the image incorrectly depict the spatial arrangement where one rose is on the up and the other rose is on the down?
+
+Prompt: A drawing of two cans, one can is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+Does this image clearly depict two distinct cans?
+Does the image incorrectly depict the spatial arrangement where one can is on the back and the other can is on the front?
+
+Prompt: A drawing of two bees, one bee is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+Does this image clearly depict two distinct bees?
+Does the image incorrectly depict the spatial arrangement where one bee is on the right and the other bee is on the left?
+
+Prompt: A drawing of two oaks, one oak is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+Does this image clearly depict two distinct oaks?
+Does the image incorrectly depict the spatial arrangement where one oak is on the right and the other oak is on the left?
+
+Prompt: A photo of two womans, one woman is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+Does this image clearly depict two distinct womans?
+Does the image incorrectly depict the spatial arrangement where one woman is on the back and the other woman is on the front?
+
+Prompt: A painting of two beavers, one beaver is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+Does this image clearly depict two distinct beavers?
+Does the image incorrectly depict the spatial arrangement where one beaver is on the left and the other beaver is on the right?
+
+Prompt: A drawing of two clouds, one cloud is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+Does this image clearly depict two distinct clouds?
+Does the image incorrectly depict the spatial arrangement where one cloud is on the up and the other cloud is on the down?
+
+Prompt: A drawing of two seals, one seal is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+Does this image clearly depict two distinct seals?
+Does the image incorrectly depict the spatial arrangement where one seal is on the front and the other seal is on the back?
+
+Prompt: A photo of two lizards, one lizard is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+Does this image clearly depict two distinct lizards?
+Does the image incorrectly depict the spatial arrangement where one lizard is on the bottom and the other lizard is on the top?
+
+Prompt: A painting of two worms, one worm is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+Does this image clearly depict two distinct worms?
+Does the image incorrectly depict the spatial arrangement where one worm is on the left and the other worm is on the right?
+
+Prompt: A photo of two apples, one apple is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+Does this image clearly depict two distinct apples?
+Does the image incorrectly depict the spatial arrangement where one apple is on the back and the other apple is on the front?
+
+Prompt: A photo of two bowls, one bowl is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+Does this image clearly depict two distinct bowls?
+Does the image incorrectly depict the spatial arrangement where one bowl is on the down and the other bowl is on the up?
+
+Prompt: A photo of two couchs, one couch is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+Does this image clearly depict two distinct couchs?
+Does the image incorrectly depict the spatial arrangement where one couch is on the right and the other couch is on the left?
+
+Prompt: A photo of two cans, one can is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+Does this image clearly depict two distinct cans?
+Does the image incorrectly depict the spatial arrangement where one can is on the front and the other can is on the back?
+
+Prompt: A photo of two sunflowers, one sunflower is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the top and the other sunflower is on the bottom?
+
+Prompt: A photo of two bottles, one bottle is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+Does this image clearly depict two distinct bottles?
+Does the image incorrectly depict the spatial arrangement where one bottle is on the back and the other bottle is on the front?
+
+Prompt: A photo of two crabs, one crab is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+Does this image clearly depict two distinct crabs?
+Does the image incorrectly depict the spatial arrangement where one crab is heading west and the other crab is heading east?
+
+Prompt: A drawing of two mountains, one mountain is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the down and the other mountain is on the up?
+
+Prompt: A sketch of two cans, one can is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+Does this image clearly depict two distinct cans?
+Does the image incorrectly depict the spatial arrangement where one can is on the top and the other can is on the bottom?
+
+Prompt: A photo of two mountains, one mountain is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+Does this image clearly depict two distinct mountains?
+Does the image incorrectly depict the spatial arrangement where one mountain is on the right and the other mountain is on the left?
+
+Prompt: A sketch of two dinosaurs, one dinosaur is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+Does this image clearly depict two distinct dinosaurs?
+Does the image incorrectly depict the spatial arrangement where one dinosaur is on the up and the other dinosaur is on the down?
+
+Prompt: A painting of two sunflowers, one sunflower is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+Does this image clearly depict two distinct sunflowers?
+Does the image incorrectly depict the spatial arrangement where one sunflower is on the top and the other sunflower is on the bottom?
+
+Prompt: A photo of two mushrooms, one mushroom is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct mushrooms?
+Does the image incorrectly depict the spatial arrangement where one mushroom is on the down and the other mushroom is on the up?
+
+Prompt: A painting of two lobsters, one lobster is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct lobsters?
+Does the image incorrectly depict the spatial arrangement where one lobster is on the down and the other lobster is on the up?
+
+Prompt: A photo of two lions, one lion is heading west and the other is heading east. The one heading west has a label 'heading east', and the one heading east has a label 'heading west' on it.
+Does this image clearly depict two distinct lions?
+Does the image incorrectly depict the spatial arrangement where one lion is heading west and the other lion is heading east?
+
+Prompt: A sketch of two students, one student is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+Does this image clearly depict two distinct students?
+Does the image incorrectly depict the spatial arrangement where one student is on the front and the other student is on the back?
+
+Prompt: A photo of two kangaroos, one kangaroo is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+Does this image clearly depict two distinct kangaroos?
+Does the image incorrectly depict the spatial arrangement where one kangaroo is on the up and the other kangaroo is on the down?
+
+Prompt: A painting of two bees, one bee is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+Does this image clearly depict two distinct bees?
+Does the image incorrectly depict the spatial arrangement where one bee is on the left and the other bee is on the right?
+
+Prompt: A painting of two camels, one camel is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+Does this image clearly depict two distinct camels?
+Does the image incorrectly depict the spatial arrangement where one camel is on the bottom and the other camel is on the top?
+
+Prompt: A drawing of two clocks, one clock is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+Does this image clearly depict two distinct clocks?
+Does the image incorrectly depict the spatial arrangement where one clock is on the right and the other clock is on the left?
+
+Prompt: A photo of two maples, one maple is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+Does this image clearly depict two distinct maples?
+Does the image incorrectly depict the spatial arrangement where one maple is on the down and the other maple is on the up?
+
+Prompt: A photo of two pines, one pine is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+Does this image clearly depict two distinct pines?
+Does the image incorrectly depict the spatial arrangement where one pine is on the right and the other pine is on the left?
+
+Prompt: A sketch of two squirrels, one squirrel is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+Does this image clearly depict two distinct squirrels?
+Does the image incorrectly depict the spatial arrangement where one squirrel is heading east and the other squirrel is heading west?
+

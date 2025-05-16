@@ -1,0 +1,1500 @@
+Prompt: A photo of a teacher. There is a label 'green eyes' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature green eyes?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A drawing of a chef. There is a label 'long hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature long hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a girl. There is a label 'wooden body' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature wooden body?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a wolf. There is a label 'green fur' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature green fur?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A drawing of a racoon. There is a word 'metallic head' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature metallic head?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a soldier. There is a word 'pink eyes' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature pink eyes?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A drawing of a boy. There is a text 'long hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature long hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a soldier. There is a label 'metallic leg' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature metallic leg?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a wolf. There is a word 'red fur' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature red fur?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A photo of a racoon. There is a text 'metallic body' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature metallic body?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a woman. There is a label 'pink eyes' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature pink eyes?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A drawing of a police. There is a label 'short hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature short hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A sketch of a man. There is a text 'metallic leg' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature metallic leg?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a dog. There is a text 'blue eyes' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature blue eyes?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A drawing of a bear. There is a word 'metallic body' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature metallic body?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a woman. There is a label 'black hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature black hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A sketch of a boy. There is a text 'long hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature long hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A painting of a baby. There is a caption 'metallic hand' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature metallic hand?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a lion. There is a text 'green fur' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature green fur?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A sketch of a rabbit. There is a word 'wooden body' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature wooden body?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a girl. There is a label 'red eyes' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature red eyes?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A drawing of a student. There is a word 'long hair' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature long hair?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a student. There is a word 'metallic leg' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature metallic leg?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a wolf. There is a label 'pink fur' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature pink fur?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A photo of a bear. There is a text 'wooden hand' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature wooden hand?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a chef. There is a text 'blue eyes' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature blue eyes?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A painting of a man. There is a caption 'short hair' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature short hair?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a student. There is a label 'metallic hand' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature metallic hand?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a rabbit. There is a label 'pink eyes' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature pink eyes?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A photo of a racoon. There is a caption 'wooden head' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature wooden head?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a chef. There is a label 'blue eyes' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature blue eyes?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A sketch of a teacher. There is a caption 'short hair' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature short hair?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a teacher. There is a caption 'metallic leg' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature metallic leg?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a dog. There is a word 'green eyes' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature green eyes?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A photo of a cat. There is a text 'wooden body' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature wooden body?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a girl. There is a label 'green eyes' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature green eyes?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A photo of a boy. There is a text 'long hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature long hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A painting of a woman. There is a word 'wooden hand' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature wooden hand?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a bear. There is a word 'green eyes' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature green eyes?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A photo of a rabbit. There is a word 'metallic hand' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature metallic hand?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a boy. There is a label 'black hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature black hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A painting of a woman. There is a label 'long hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature long hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A drawing of a man. There is a word 'metallic body' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature metallic body?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a tiger. There is a word 'red fur' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature red fur?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A photo of a wolf. There is a label 'wooden head' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature wooden head?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a police. There is a caption 'grey hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature grey hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A drawing of a girl. There is a word 'long hair' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature long hair?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a police. There is a label 'metallic hand' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature metallic hand?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a wolf. There is a word 'grey eyes' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature grey eyes?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A drawing of a tiger. There is a text 'wooden head' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature wooden head?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a girl. There is a label 'grey eyes' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature grey eyes?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A photo of a man. There is a label 'long hair' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature long hair?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A photo of a police. There is a caption 'wooden body' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature wooden body?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a bear. There is a label 'brown fur' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature brown fur?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A drawing of a tiger. There is a text 'metallic hand' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature metallic hand?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a baby. There is a text 'brown eyes' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature brown eyes?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A photo of a student. There is a word 'long hair' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature long hair?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A photo of a chef. There is a caption 'metallic body' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature metallic body?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a tiger. There is a label 'brown fur' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature brown fur?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A drawing of a wolf. There is a word 'metallic head' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature metallic head?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a man. There is a label 'pink eyes' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature pink eyes?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A photo of a teacher. There is a caption 'short hair' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature short hair?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a woman. There is a text 'metallic hand' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature metallic hand?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a dog. There is a label 'yellow fur' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature yellow fur?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A photo of a rabbit. There is a label 'wooden leg' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature wooden leg?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a chef. There is a word 'yellow eyes' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature yellow eyes?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A painting of a police. There is a caption 'wooden head' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature wooden head?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a cat. There is a text 'brown eyes' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature brown eyes?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A drawing of a rabbit. There is a label 'metallic body' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature metallic body?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a man. There is a caption 'yellow eyes' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature yellow eyes?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A drawing of a police. There is a text 'long hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature long hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A painting of a boy. There is a caption 'metallic head' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature metallic head?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a tiger. There is a caption 'grey fur' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature grey fur?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A painting of a tiger. There is a caption 'wooden body' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature wooden body?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a teacher. There is a text 'red hair' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature red hair?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A painting of a chef. There is a word 'short hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature short hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A photo of a teacher. There is a label 'wooden leg' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature wooden leg?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a racoon. There is a label 'yellow fur' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature yellow fur?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A painting of a racoon. There is a word 'wooden hand' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature wooden hand?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a girl. There is a text 'yellow eyes' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature yellow eyes?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A painting of a boy. There is a text 'metallic leg' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature metallic leg?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a bear. There is a text 'pink eyes' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature pink eyes?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A drawing of a bear. There is a word 'wooden leg' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature wooden leg?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a teacher. There is a label 'pink eyes' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature pink eyes?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A sketch of a baby. There is a text 'short hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature short hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A sketch of a chef. There is a caption 'metallic body' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature metallic body?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a wolf. There is a text 'brown eyes' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature brown eyes?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A drawing of a tiger. There is a text 'wooden body' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature wooden body?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a woman. There is a label 'grey eyes' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature grey eyes?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A sketch of a student. There is a word 'long hair' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature long hair?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a police. There is a word 'wooden body' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature wooden body?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a bear. There is a label 'green eyes' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature green eyes?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A sketch of a wolf. There is a label 'wooden head' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature wooden head?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a baby. There is a caption 'brown hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature brown hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A sketch of a man. There is a word 'short hair' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature short hair?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A sketch of a woman. There is a text 'metallic hand' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature metallic hand?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a monkey. There is a text 'red fur' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature red fur?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A drawing of a rabbit. There is a text 'metallic head' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature metallic head?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a woman. There is a caption 'yellow eyes' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature yellow eyes?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A painting of a police. There is a word 'wooden body' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature wooden body?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a racoon. There is a word 'black fur' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature black fur?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A sketch of a rabbit. There is a label 'metallic hand' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature metallic hand?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a baby. There is a caption 'green hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature green hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A sketch of a girl. There is a word 'short hair' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature short hair?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A painting of a man. There is a word 'metallic body' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature metallic body?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a racoon. There is a word 'black eyes' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature black eyes?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A sketch of a monkey. There is a caption 'wooden head' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature wooden head?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a soldier. There is a word 'green hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature green hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A painting of a police. There is a text 'short hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature short hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A sketch of a boy. There is a text 'metallic head' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature metallic head?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a tiger. There is a text 'red eyes' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature red eyes?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A photo of a tiger. There is a caption 'wooden body' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature wooden body?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a baby. There is a caption 'red eyes' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature red eyes?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A sketch of a soldier. There is a text 'long hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature long hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A photo of a teacher. There is a caption 'wooden head' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature wooden head?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a bear. There is a word 'green eyes' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature green eyes?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A drawing of a elephant. There is a label 'wooden head' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature wooden head?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a soldier. There is a word 'red hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature red hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A photo of a baby. There is a word 'long hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature long hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a baby. There is a text 'wooden hand' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature wooden hand?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a racoon. There is a text 'grey fur' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature grey fur?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A sketch of a rabbit. There is a text 'wooden head' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature wooden head?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a woman. There is a word 'grey hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature grey hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A painting of a baby. There is a label 'short hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature short hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a woman. There is a word 'metallic leg' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature metallic leg?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a racoon. There is a text 'pink eyes' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature pink eyes?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A drawing of a tiger. There is a label 'metallic hand' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature metallic hand?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a baby. There is a word 'grey eyes' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature grey eyes?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A photo of a woman. There is a text 'short hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature short hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a student. There is a text 'metallic hand' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature metallic hand?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a wolf. There is a word 'brown fur' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature brown fur?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A sketch of a elephant. There is a text 'metallic body' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature metallic body?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a soldier. There is a caption 'red eyes' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature red eyes?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A drawing of a baby. There is a caption 'short hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature short hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A painting of a woman. There is a label 'metallic body' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature metallic body?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a elephant. There is a caption 'black eyes' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature black eyes?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A painting of a cat. There is a label 'metallic body' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature metallic body?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a girl. There is a label 'pink hair' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature pink hair?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A sketch of a soldier. There is a word 'long hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature long hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A photo of a baby. There is a text 'wooden head' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature wooden head?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a dog. There is a word 'black eyes' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature black eyes?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A drawing of a dog. There is a text 'wooden head' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature wooden head?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a chef. There is a caption 'yellow hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature yellow hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A sketch of a student. There is a text 'short hair' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature short hair?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A painting of a student. There is a label 'wooden body' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature wooden body?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a lion. There is a label 'wooden hand' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature wooden hand?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a teacher. There is a word 'black eyes' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature black eyes?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A painting of a baby. There is a text 'long hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature long hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A drawing of a student. There is a text 'wooden hand' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature wooden hand?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a lion. There is a caption 'pink eyes' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature pink eyes?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A photo of a lion. There is a label 'metallic leg' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature metallic leg?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a baby. There is a label 'pink hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature pink hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A painting of a baby. There is a word 'long hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature long hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A photo of a soldier. There is a word 'metallic head' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature metallic head?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a racoon. There is a caption 'black fur' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature black fur?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A photo of a monkey. There is a caption 'metallic leg' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature metallic leg?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a baby. There is a word 'red hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature red hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A painting of a soldier. There is a word 'short hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature short hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A photo of a soldier. There is a caption 'metallic hand' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature metallic hand?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a wolf. There is a word 'black fur' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature black fur?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A photo of a elephant. There is a text 'metallic head' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature metallic head?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a chef. There is a label 'grey hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature grey hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A photo of a chef. There is a caption 'short hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature short hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A sketch of a girl. There is a word 'wooden leg' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature wooden leg?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a monkey. There is a text 'grey eyes' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature grey eyes?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A photo of a lion. There is a caption 'metallic head' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature metallic head?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a woman. There is a label 'red hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature red hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A photo of a baby. There is a caption 'short hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature short hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A painting of a baby. There is a word 'metallic body' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature metallic body?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a bear. There is a caption 'green eyes' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature green eyes?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A photo of a bear. There is a text 'metallic leg' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature metallic leg?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a teacher. There is a text 'grey eyes' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature grey eyes?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A sketch of a soldier. There is a word 'short hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature short hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A sketch of a soldier. There is a word 'wooden body' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature wooden body?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a bear. There is a caption 'black fur' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature black fur?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A sketch of a bear. There is a word 'wooden hand' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature wooden hand?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a chef. There is a caption 'brown eyes' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature brown eyes?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A sketch of a chef. There is a label 'short hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature short hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A photo of a police. There is a caption 'wooden head' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature wooden head?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a rabbit. There is a text 'yellow eyes' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature yellow eyes?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A painting of a rabbit. There is a word 'metallic head' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature metallic head?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a teacher. There is a caption 'green eyes' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature green eyes?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A sketch of a boy. There is a label 'short hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature short hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a girl. There is a text 'wooden leg' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature wooden leg?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a rabbit. There is a text 'brown fur' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature brown fur?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A drawing of a wolf. There is a caption 'metallic body' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature metallic body?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a boy. There is a caption 'yellow eyes' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature yellow eyes?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A sketch of a woman. There is a caption 'short hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature short hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A painting of a teacher. There is a word 'wooden hand' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature wooden hand?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a dog. There is a caption 'grey fur' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature grey fur?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A painting of a elephant. There is a word 'metallic leg' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature metallic leg?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a baby. There is a word 'red eyes' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature red eyes?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A painting of a police. There is a label 'metallic head' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature metallic head?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a elephant. There is a word 'green fur' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature green fur?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A drawing of a racoon. There is a caption 'metallic body' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature metallic body?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a teacher. There is a label 'grey eyes' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature grey eyes?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A painting of a boy. There is a caption 'short hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature short hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A painting of a man. There is a word 'wooden body' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature wooden body?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a lion. There is a text 'pink fur' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature pink fur?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A painting of a dog. There is a text 'metallic head' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature metallic head?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a police. There is a caption 'brown eyes' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature brown eyes?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A sketch of a teacher. There is a label 'long hair' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature long hair?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a teacher. There is a text 'metallic leg' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature metallic leg?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a monkey. There is a caption 'black fur' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature black fur?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A drawing of a monkey. There is a label 'metallic hand' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature metallic hand?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a girl. There is a caption 'black hair' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature black hair?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A sketch of a boy. There is a label 'long hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature long hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A drawing of a baby. There is a word 'metallic hand' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature metallic hand?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a dog. There is a word 'grey fur' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature grey fur?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A painting of a rabbit. There is a label 'wooden hand' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature wooden hand?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a soldier. There is a caption 'red hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature red hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A painting of a police. There is a label 'short hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature short hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a baby. There is a label 'wooden body' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature wooden body?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a rabbit. There is a label 'green eyes' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature green eyes?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A drawing of a wolf. There is a label 'wooden body' written on it.
+Does this image primarily depict a wolf?
+Does the wolf in the image visually exhibit the feature wooden body?
+Apart from the wolf's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a man. There is a text 'black hair' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature black hair?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A drawing of a chef. There is a caption 'short hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature short hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a girl. There is a label 'wooden head' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature wooden head?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a racoon. There is a caption 'brown eyes' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature brown eyes?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A drawing of a cat. There is a text 'wooden hand' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature wooden hand?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a baby. There is a label 'grey hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature grey hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A photo of a chef. There is a word 'long hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature long hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a bear. There is a word 'red fur' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature red fur?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A sketch of a dog. There is a label 'metallic body' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature metallic body?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a teacher. There is a caption 'brown hair' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature brown hair?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A photo of a chef. There is a label 'wooden hand' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature wooden hand?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a bear. There is a caption 'brown fur' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature brown fur?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A sketch of a dog. There is a word 'metallic hand' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature metallic hand?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a soldier. There is a text 'blue hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature blue hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A photo of a boy. There is a label 'long hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature long hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a soldier. There is a label 'wooden head' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature wooden head?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a bear. There is a label 'brown fur' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature brown fur?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A photo of a racoon. There is a text 'metallic leg' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature metallic leg?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a man. There is a caption 'grey eyes' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature grey eyes?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A photo of a chef. There is a text 'short hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature short hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A photo of a student. There is a text 'wooden hand' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature wooden hand?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a cat. There is a text 'blue fur' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature blue fur?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A painting of a rabbit. There is a text 'wooden body' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature wooden body?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A drawing of a boy. There is a word 'blue eyes' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature blue eyes?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A photo of a police. There is a caption 'short hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature short hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A painting of a cat. There is a label 'blue eyes' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature blue eyes?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A photo of a elephant. There is a label 'metallic hand' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature metallic hand?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a police. There is a word 'pink eyes' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature pink eyes?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of pink?
+
+Prompt: A photo of a police. There is a text 'long hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature long hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A painting of a chef. There is a word 'metallic head' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature metallic head?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a racoon. There is a word 'black eyes' written on it.
+Does this image primarily depict a racoon?
+Does the racoon in the image visually exhibit the feature black eyes?
+Apart from the racoon's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A drawing of a tiger. There is a text 'wooden leg' written on it.
+Does this image primarily depict a tiger?
+Does the tiger in the image visually exhibit the feature wooden leg?
+Apart from the tiger's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a boy. There is a text 'black hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature black hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A sketch of a man. There is a caption 'short hair' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature short hair?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a boy. There is a text 'metallic head' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature metallic head?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a monkey. There is a label 'red fur' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature red fur?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A sketch of a bear. There is a word 'metallic head' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature metallic head?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a soldier. There is a label 'blue hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature blue hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A painting of a police. There is a label 'long hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature long hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A drawing of a student. There is a word 'metallic head' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature metallic head?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a rabbit. There is a text 'green fur' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature green fur?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A painting of a man. There is a text 'green eyes' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature green eyes?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A drawing of a woman. There is a text 'long hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature long hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A drawing of a man. There is a label 'metallic hand' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature metallic hand?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A sketch of a rabbit. There is a text 'blue fur' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature blue fur?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A photo of a monkey. There is a word 'metallic leg' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature metallic leg?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a chef. There is a text 'red hair' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature red hair?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A sketch of a girl. There is a word 'long hair' written on it.
+Does this image primarily depict a girl?
+Does the girl in the image visually exhibit the feature long hair?
+Apart from the girl's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A painting of a boy. There is a text 'wooden hand' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature wooden hand?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a monkey. There is a label 'green fur' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature green fur?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A sketch of a cat. There is a caption 'metallic head' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature metallic head?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a chef. There is a label 'blue eyes' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature blue eyes?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A drawing of a baby. There is a word 'long hair' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature long hair?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A painting of a teacher. There is a text 'metallic hand' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature metallic hand?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a rabbit. There is a label 'red fur' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature red fur?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A photo of a elephant. There is a word 'metallic body' written on it.
+Does this image primarily depict a elephant?
+Does the elephant in the image visually exhibit the feature metallic body?
+Apart from the elephant's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a student. There is a label 'blue hair' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature blue hair?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of blue?
+
+Prompt: A painting of a man. There is a word 'long hair' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature long hair?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A painting of a soldier. There is a word 'wooden head' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature wooden head?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a cat. There is a text 'brown fur' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature brown fur?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A drawing of a rabbit. There is a caption 'metallic body' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature metallic body?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a man. There is a caption 'red hair' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature red hair?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A photo of a soldier. There is a label 'long hair' written on it.
+Does this image primarily depict a soldier?
+Does the soldier in the image visually exhibit the feature long hair?
+Apart from the soldier's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A sketch of a man. There is a caption 'wooden body' written on it.
+Does this image primarily depict a man?
+Does the man in the image visually exhibit the feature wooden body?
+Apart from the man's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a bear. There is a label 'brown eyes' written on it.
+Does this image primarily depict a bear?
+Does the bear in the image visually exhibit the feature brown eyes?
+Apart from the bear's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A sketch of a monkey. There is a text 'wooden body' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature wooden body?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A painting of a woman. There is a word 'brown hair' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature brown hair?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A sketch of a police. There is a text 'short hair' written on it.
+Does this image primarily depict a police?
+Does the police in the image visually exhibit the feature short hair?
+Apart from the police's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a student. There is a caption 'wooden leg' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature wooden leg?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A photo of a rabbit. There is a word 'red eyes' written on it.
+Does this image primarily depict a rabbit?
+Does the rabbit in the image visually exhibit the feature red eyes?
+Apart from the rabbit's direct features, does the image's overall style or focus seem related to the concept of red?
+
+Prompt: A painting of a lion. There is a label 'metallic hand' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature metallic hand?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a boy. There is a word 'green hair' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature green hair?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A sketch of a woman. There is a text 'metallic head' written on it.
+Does this image primarily depict a woman?
+Does the woman in the image visually exhibit the feature metallic head?
+Apart from the woman's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a cat. There is a caption 'brown eyes' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature brown eyes?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of brown?
+
+Prompt: A painting of a lion. There is a caption 'wooden leg' written on it.
+Does this image primarily depict a lion?
+Does the lion in the image visually exhibit the feature wooden leg?
+Apart from the lion's direct features, does the image's overall style or focus seem related to the concept of wooden?
+
+Prompt: A sketch of a baby. There is a caption 'grey eyes' written on it.
+Does this image primarily depict a baby?
+Does the baby in the image visually exhibit the feature grey eyes?
+Apart from the baby's direct features, does the image's overall style or focus seem related to the concept of grey?
+
+Prompt: A photo of a teacher. There is a label 'long hair' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature long hair?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of long?
+
+Prompt: A drawing of a boy. There is a word 'metallic body' written on it.
+Does this image primarily depict a boy?
+Does the boy in the image visually exhibit the feature metallic body?
+Apart from the boy's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A painting of a cat. There is a label 'green fur' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature green fur?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of green?
+
+Prompt: A sketch of a dog. There is a label 'metallic head' written on it.
+Does this image primarily depict a dog?
+Does the dog in the image visually exhibit the feature metallic head?
+Apart from the dog's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A drawing of a teacher. There is a caption 'yellow eyes' written on it.
+Does this image primarily depict a teacher?
+Does the teacher in the image visually exhibit the feature yellow eyes?
+Apart from the teacher's direct features, does the image's overall style or focus seem related to the concept of yellow?
+
+Prompt: A painting of a student. There is a caption 'short hair' written on it.
+Does this image primarily depict a student?
+Does the student in the image visually exhibit the feature short hair?
+Apart from the student's direct features, does the image's overall style or focus seem related to the concept of short?
+
+Prompt: A drawing of a chef. There is a label 'metallic head' written on it.
+Does this image primarily depict a chef?
+Does the chef in the image visually exhibit the feature metallic head?
+Apart from the chef's direct features, does the image's overall style or focus seem related to the concept of metallic?
+
+Prompt: A photo of a monkey. There is a word 'black fur' written on it.
+Does this image primarily depict a monkey?
+Does the monkey in the image visually exhibit the feature black fur?
+Apart from the monkey's direct features, does the image's overall style or focus seem related to the concept of black?
+
+Prompt: A painting of a cat. There is a text 'metallic head' written on it.
+Does this image primarily depict a cat?
+Does the cat in the image visually exhibit the feature metallic head?
+Apart from the cat's direct features, does the image's overall style or focus seem related to the concept of metallic?
+

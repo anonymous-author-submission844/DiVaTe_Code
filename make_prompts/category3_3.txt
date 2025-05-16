@@ -1,0 +1,300 @@
+A painting of man. There is a caption 'Doctor' written on it.
+A photo of woman. There is a label 'Engineer' written on it.
+A photo of old woman. There is a label 'Police' written on it.
+A photo of woman. There is a caption 'Chef' written on it.
+A sketch of old woman. There is a text 'Chef' written on it.
+A sketch of man. There is a text 'Teacher' written on it.
+A drawing of old man. There is a text 'Engineer' written on it.
+A sketch of man. There is a label 'Soldier' written on it.
+A painting of old man. There is a label 'Astronaut' written on it.
+A sketch of old woman. There is a label 'Firefighter' written on it.
+A drawing of old man. There is a label 'Astronaut' written on it.
+A painting of man. There is a label 'Chef' written on it.
+A sketch of woman. There is a text 'Firefighter' written on it.
+A drawing of old woman. There is a text 'Astronaut' written on it.
+A painting of old man. There is a label 'Artist' written on it.
+A drawing of woman. There is a word 'Chef' written on it.
+A drawing of old woman. There is a text 'Pilot' written on it.
+A photo of man. There is a text 'Chef' written on it.
+A photo of old woman. There is a caption 'Pilot' written on it.
+A sketch of old man. There is a word 'Artist' written on it.
+A painting of old woman. There is a caption 'Engineer' written on it.
+A sketch of woman. There is a word 'Pilot' written on it.
+A drawing of old man. There is a word 'Chef' written on it.
+A photo of man. There is a caption 'Police' written on it.
+A photo of woman. There is a word 'Basketball Player' written on it.
+A painting of old woman. There is a label 'Taxi Driver' written on it.
+A painting of man. There is a label 'Pilot' written on it.
+A drawing of old man. There is a word 'Basketball Player' written on it.
+A drawing of man. There is a label 'Pilot' written on it.
+A drawing of old man. There is a caption 'Singer' written on it.
+A photo of old man. There is a text 'Teacher' written on it.
+A photo of old woman. There is a text 'Doctor' written on it.
+A photo of old man. There is a caption 'Chef' written on it.
+A sketch of woman. There is a caption 'Engineer' written on it.
+A sketch of old man. There is a caption 'Singer' written on it.
+A sketch of woman. There is a text 'Librarian' written on it.
+A sketch of old woman. There is a label 'Singer' written on it.
+A photo of woman. There is a text 'Chef' written on it.
+A drawing of man. There is a label 'Chef' written on it.
+A drawing of man. There is a label 'Police' written on it.
+A photo of man. There is a caption 'Gamer' written on it.
+A drawing of old man. There is a caption 'Bus Driver' written on it.
+A sketch of old woman. There is a word 'Chef' written on it.
+A photo of woman. There is a word 'Firefighter' written on it.
+A sketch of old man. There is a word 'Basketball Player' written on it.
+A photo of man. There is a word 'Firefighter' written on it.
+A drawing of old man. There is a caption 'Firefighter' written on it.
+A drawing of woman. There is a word 'Taxi Driver' written on it.
+A sketch of woman. There is a caption 'Pilot' written on it.
+A photo of man. There is a label 'Taxi Driver' written on it.
+A drawing of man. There is a caption 'Soldier' written on it.
+A sketch of old woman. There is a caption 'Bus Driver' written on it.
+A drawing of old woman. There is a word 'Police' written on it.
+A painting of man. There is a word 'Soccer Player' written on it.
+A sketch of old man. There is a caption 'Basketball Player' written on it.
+A drawing of woman. There is a label 'Librarian' written on it.
+A photo of man. There is a label 'Gamer' written on it.
+A drawing of old woman. There is a label 'Singer' written on it.
+A photo of man. There is a label 'Teacher' written on it.
+A photo of woman. There is a caption 'Soccer Player' written on it.
+A sketch of man. There is a text 'Soldier' written on it.
+A painting of old man. There is a caption 'Artist' written on it.
+A drawing of old man. There is a text 'Soccer Player' written on it.
+A photo of old woman. There is a label 'Gamer' written on it.
+A photo of old woman. There is a caption 'Firefighter' written on it.
+A painting of old man. There is a label 'Engineer' written on it.
+A painting of woman. There is a caption 'Astronaut' written on it.
+A photo of old woman. There is a text 'Librarian' written on it.
+A painting of man. There is a label 'Engineer' written on it.
+A painting of man. There is a text 'Engineer' written on it.
+A drawing of woman. There is a text 'Gamer' written on it.
+A photo of old woman. There is a label 'Pilot' written on it.
+A painting of old man. There is a caption 'Engineer' written on it.
+A photo of old woman. There is a label 'Basketball Player' written on it.
+A photo of man. There is a text 'Engineer' written on it.
+A drawing of woman. There is a label 'Basketball Player' written on it.
+A photo of old man. There is a text 'Astronaut' written on it.
+A drawing of old woman. There is a caption 'Engineer' written on it.
+A photo of woman. There is a caption 'Basketball Player' written on it.
+A drawing of old man. There is a text 'Basketball Player' written on it.
+A sketch of woman. There is a label 'Firefighter' written on it.
+A drawing of old woman. There is a word 'Chef' written on it.
+A drawing of old man. There is a caption 'Librarian' written on it.
+A sketch of man. There is a text 'Artist' written on it.
+A painting of old man. There is a text 'Soldier' written on it.
+A painting of old man. There is a label 'Teacher' written on it.
+A painting of man. There is a text 'Basketball Player' written on it.
+A photo of old woman. There is a word 'Singer' written on it.
+A photo of woman. There is a word 'Pilot' written on it.
+A drawing of man. There is a text 'Singer' written on it.
+A painting of old woman. There is a text 'Soldier' written on it.
+A painting of man. There is a word 'Librarian' written on it.
+A painting of old man. There is a caption 'Soccer Player' written on it.
+A sketch of woman. There is a caption 'Basketball Player' written on it.
+A photo of old man. There is a text 'Soccer Player' written on it.
+A sketch of old man. There is a text 'Artist' written on it.
+A sketch of old woman. There is a caption 'Taxi Driver' written on it.
+A photo of old woman. There is a text 'Teacher' written on it.
+A drawing of old man. There is a text 'Soldier' written on it.
+A drawing of woman. There is a label 'Artist' written on it.
+A sketch of man. There is a label 'Chef' written on it.
+A drawing of old woman. There is a word 'Basketball Player' written on it.
+A drawing of old woman. There is a caption 'Soccer Player' written on it.
+A sketch of man. There is a caption 'Firefighter' written on it.
+A sketch of woman. There is a label 'Singer' written on it.
+A sketch of woman. There is a caption 'Firefighter' written on it.
+A painting of old woman. There is a word 'Singer' written on it.
+A drawing of old woman. There is a word 'Taxi Driver' written on it.
+A painting of old woman. There is a word 'Chef' written on it.
+A drawing of man. There is a text 'Librarian' written on it.
+A photo of old man. There is a caption 'Gamer' written on it.
+A sketch of woman. There is a caption 'Chef' written on it.
+A sketch of woman. There is a word 'Soldier' written on it.
+A sketch of old man. There is a label 'Taxi Driver' written on it.
+A sketch of woman. There is a label 'Basketball Player' written on it.
+A photo of old woman. There is a text 'Bus Driver' written on it.
+A sketch of old man. There is a caption 'Soccer Player' written on it.
+A sketch of old woman. There is a text 'Doctor' written on it.
+A sketch of old woman. There is a caption 'Teacher' written on it.
+A photo of man. There is a label 'Soccer Player' written on it.
+A sketch of old woman. There is a caption 'Engineer' written on it.
+A sketch of man. There is a text 'Pilot' written on it.
+A painting of woman. There is a text 'Taxi Driver' written on it.
+A sketch of old woman. There is a text 'Pilot' written on it.
+A photo of man. There is a label 'Bus Driver' written on it.
+A photo of old man. There is a label 'Chef' written on it.
+A photo of old man. There is a caption 'Teacher' written on it.
+A photo of old man. There is a text 'Firefighter' written on it.
+A drawing of old woman. There is a label 'Soccer Player' written on it.
+A painting of woman. There is a label 'Firefighter' written on it.
+A sketch of man. There is a text 'Astronaut' written on it.
+A painting of man. There is a label 'Singer' written on it.
+A photo of old woman. There is a word 'Bus Driver' written on it.
+A drawing of old man. There is a word 'Taxi Driver' written on it.
+A painting of woman. There is a word 'Singer' written on it.
+A painting of old woman. There is a text 'Basketball Player' written on it.
+A painting of woman. There is a word 'Soldier' written on it.
+A sketch of woman. There is a text 'Taxi Driver' written on it.
+A painting of man. There is a caption 'Bus Driver' written on it.
+A painting of old woman. There is a text 'Artist' written on it.
+A painting of old man. There is a label 'Pilot' written on it.
+A drawing of woman. There is a word 'Soldier' written on it.
+A drawing of woman. There is a text 'Soccer Player' written on it.
+A painting of old man. There is a word 'Bus Driver' written on it.
+A sketch of old man. There is a text 'Astronaut' written on it.
+A drawing of old man. There is a label 'Pilot' written on it.
+A photo of woman. There is a caption 'Gamer' written on it.
+A sketch of woman. There is a text 'Artist' written on it.
+A drawing of old man. There is a text 'Firefighter' written on it.
+A drawing of woman. There is a text 'Astronaut' written on it.
+A drawing of man. There is a word 'Librarian' written on it.
+A painting of man. There is a word 'Doctor' written on it.
+A painting of old woman. There is a caption 'Taxi Driver' written on it.
+A sketch of man. There is a label 'Pilot' written on it.
+A sketch of man. There is a label 'Soccer Player' written on it.
+A drawing of man. There is a text 'Engineer' written on it.
+A photo of man. There is a word 'Chef' written on it.
+A sketch of woman. There is a word 'Singer' written on it.
+A sketch of old woman. There is a text 'Librarian' written on it.
+A drawing of man. There is a caption 'Firefighter' written on it.
+A drawing of old man. There is a caption 'Soldier' written on it.
+A drawing of woman. There is a label 'Soldier' written on it.
+A sketch of old woman. There is a text 'Taxi Driver' written on it.
+A painting of man. There is a text 'Chef' written on it.
+A drawing of old woman. There is a text 'Soldier' written on it.
+A drawing of woman. There is a label 'Pilot' written on it.
+A painting of man. There is a text 'Teacher' written on it.
+A sketch of old woman. There is a text 'Firefighter' written on it.
+A sketch of old woman. There is a word 'Pilot' written on it.
+A sketch of man. There is a text 'Police' written on it.
+A photo of old man. There is a caption 'Doctor' written on it.
+A photo of man. There is a caption 'Pilot' written on it.
+A sketch of old woman. There is a text 'Singer' written on it.
+A sketch of old woman. There is a text 'Astronaut' written on it.
+A painting of old woman. There is a word 'Bus Driver' written on it.
+A photo of man. There is a text 'Taxi Driver' written on it.
+A photo of old man. There is a word 'Gamer' written on it.
+A sketch of man. There is a label 'Taxi Driver' written on it.
+A drawing of old woman. There is a text 'Police' written on it.
+A sketch of woman. There is a word 'Librarian' written on it.
+A drawing of man. There is a caption 'Doctor' written on it.
+A sketch of old man. There is a label 'Doctor' written on it.
+A painting of woman. There is a text 'Bus Driver' written on it.
+A painting of old man. There is a label 'Singer' written on it.
+A sketch of old man. There is a caption 'Librarian' written on it.
+A painting of old woman. There is a text 'Bus Driver' written on it.
+A drawing of woman. There is a word 'Soccer Player' written on it.
+A sketch of man. There is a word 'Gamer' written on it.
+A sketch of old woman. There is a label 'Engineer' written on it.
+A painting of woman. There is a label 'Singer' written on it.
+A painting of old woman. There is a word 'Pilot' written on it.
+A sketch of man. There is a text 'Gamer' written on it.
+A photo of old woman. There is a caption 'Police' written on it.
+A photo of old man. There is a word 'Chef' written on it.
+A photo of old man. There is a text 'Doctor' written on it.
+A painting of man. There is a text 'Librarian' written on it.
+A drawing of old woman. There is a word 'Engineer' written on it.
+A drawing of woman. There is a label 'Teacher' written on it.
+A sketch of old woman. There is a caption 'Chef' written on it.
+A painting of woman. There is a word 'Taxi Driver' written on it.
+A sketch of old man. There is a text 'Doctor' written on it.
+A sketch of woman. There is a text 'Soldier' written on it.
+A painting of old man. There is a word 'Basketball Player' written on it.
+A sketch of man. There is a text 'Chef' written on it.
+A photo of old man. There is a word 'Librarian' written on it.
+A photo of old man. There is a word 'Doctor' written on it.
+A painting of old man. There is a caption 'Chef' written on it.
+A sketch of man. There is a label 'Librarian' written on it.
+A photo of old man. There is a text 'Engineer' written on it.
+A drawing of old man. There is a caption 'Basketball Player' written on it.
+A painting of old man. There is a text 'Bus Driver' written on it.
+A photo of man. There is a caption 'Taxi Driver' written on it.
+A painting of woman. There is a label 'Soccer Player' written on it.
+A painting of old woman. There is a label 'Doctor' written on it.
+A painting of old woman. There is a word 'Astronaut' written on it.
+A drawing of old man. There is a word 'Firefighter' written on it.
+A drawing of man. There is a label 'Gamer' written on it.
+A sketch of old woman. There is a label 'Librarian' written on it.
+A photo of woman. There is a text 'Police' written on it.
+A sketch of woman. There is a text 'Soccer Player' written on it.
+A painting of old woman. There is a label 'Basketball Player' written on it.
+A photo of woman. There is a text 'Astronaut' written on it.
+A sketch of old man. There is a text 'Police' written on it.
+A photo of woman. There is a text 'Doctor' written on it.
+A drawing of woman. There is a label 'Engineer' written on it.
+A drawing of woman. There is a text 'Artist' written on it.
+A painting of woman. There is a caption 'Doctor' written on it.
+A drawing of old man. There is a word 'Police' written on it.
+A sketch of man. There is a word 'Soldier' written on it.
+A photo of old man. There is a word 'Singer' written on it.
+A painting of woman. There is a word 'Police' written on it.
+A sketch of man. There is a word 'Police' written on it.
+A sketch of old woman. There is a word 'Firefighter' written on it.
+A painting of man. There is a caption 'Soldier' written on it.
+A sketch of old man. There is a word 'Taxi Driver' written on it.
+A drawing of old man. There is a word 'Astronaut' written on it.
+A photo of man. There is a label 'Soldier' written on it.
+A painting of old woman. There is a caption 'Firefighter' written on it.
+A photo of man. There is a word 'Gamer' written on it.
+A photo of old man. There is a text 'Basketball Player' written on it.
+A photo of old man. There is a caption 'Astronaut' written on it.
+A drawing of woman. There is a label 'Bus Driver' written on it.
+A photo of woman. There is a text 'Basketball Player' written on it.
+A drawing of man. There is a word 'Soldier' written on it.
+A painting of old man. There is a label 'Librarian' written on it.
+A drawing of man. There is a label 'Engineer' written on it.
+A sketch of man. There is a word 'Pilot' written on it.
+A photo of woman. There is a text 'Singer' written on it.
+A painting of old woman. There is a word 'Firefighter' written on it.
+A drawing of man. There is a text 'Doctor' written on it.
+A painting of woman. There is a text 'Engineer' written on it.
+A photo of old man. There is a word 'Firefighter' written on it.
+A drawing of old woman. There is a word 'Teacher' written on it.
+A sketch of old woman. There is a label 'Police' written on it.
+A painting of old woman. There is a word 'Soldier' written on it.
+A painting of old woman. There is a caption 'Doctor' written on it.
+A photo of old woman. There is a word 'Astronaut' written on it.
+A sketch of man. There is a word 'Chef' written on it.
+A painting of man. There is a text 'Soccer Player' written on it.
+A drawing of woman. There is a label 'Gamer' written on it.
+A drawing of old man. There is a label 'Engineer' written on it.
+A drawing of woman. There is a caption 'Pilot' written on it.
+A painting of old woman. There is a text 'Taxi Driver' written on it.
+A photo of woman. There is a word 'Taxi Driver' written on it.
+A painting of old woman. There is a label 'Librarian' written on it.
+A photo of old man. There is a text 'Singer' written on it.
+A photo of old woman. There is a label 'Taxi Driver' written on it.
+A photo of old man. There is a label 'Librarian' written on it.
+A photo of old woman. There is a word 'Taxi Driver' written on it.
+A sketch of woman. There is a caption 'Gamer' written on it.
+A drawing of man. There is a label 'Singer' written on it.
+A sketch of woman. There is a caption 'Taxi Driver' written on it.
+A painting of old man. There is a word 'Astronaut' written on it.
+A photo of old woman. There is a text 'Gamer' written on it.
+A drawing of old man. There is a text 'Pilot' written on it.
+A photo of old woman. There is a text 'Engineer' written on it.
+A drawing of old woman. There is a label 'Gamer' written on it.
+A painting of old woman. There is a label 'Singer' written on it.
+A photo of woman. There is a text 'Engineer' written on it.
+A photo of man. There is a text 'Singer' written on it.
+A drawing of woman. There is a caption 'Soccer Player' written on it.
+A sketch of woman. There is a label 'Teacher' written on it.
+A drawing of old woman. There is a word 'Astronaut' written on it.
+A drawing of old man. There is a caption 'Taxi Driver' written on it.
+A drawing of old man. There is a text 'Bus Driver' written on it.
+A painting of old woman. There is a word 'Taxi Driver' written on it.
+A drawing of old woman. There is a caption 'Teacher' written on it.
+A painting of man. There is a word 'Teacher' written on it.
+A painting of man. There is a caption 'Soccer Player' written on it.
+A painting of old woman. There is a caption 'Soldier' written on it.
+A photo of man. There is a text 'Gamer' written on it.
+A sketch of old woman. There is a word 'Engineer' written on it.
+A photo of man. There is a text 'Soldier' written on it.
+A sketch of woman. There is a label 'Engineer' written on it.
+A painting of old man. There is a label 'Chef' written on it.
+A sketch of man. There is a label 'Firefighter' written on it.
+A painting of woman. There is a word 'Engineer' written on it.
+A drawing of man. There is a word 'Astronaut' written on it.
+A painting of woman. There is a label 'Soldier' written on it.
+A painting of old woman. There is a label 'Astronaut' written on it.

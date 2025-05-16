@@ -1,0 +1,1500 @@
+Prompt: A photo of worm. There is a label 'wearing jackets' written on it.
+Does this image primarily depict a worm?
+Is the worm wearing jackets?
+Beyond the worm's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing jackets?
+
+Prompt: A drawing of crab. There is a label 'below the ground' written on it.
+Does this image primarily depict a crab?
+Is the crab below the ground?
+Beyond the crab's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the ground?
+
+Prompt: A photo of girl. There is a word 'wearing jackets' written on it.
+Does this image primarily depict a girl?
+Is the girl wearing jackets?
+Beyond the girl's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing jackets?
+
+Prompt: A drawing of chimpanzee. There is a label 'wearing baseball cap' written on it.
+Does this image primarily depict a chimpanzee?
+Is the chimpanzee wearing baseball cap?
+Beyond the chimpanzee's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A sketch of bear. There is a caption 'on the rock' written on it.
+Does this image primarily depict a bear?
+Is the bear on the rock?
+Beyond the bear's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the rock?
+
+Prompt: A drawing of shark. There is a word 'wearing jackets' written on it.
+Does this image primarily depict a shark?
+Is the shark wearing jackets?
+Beyond the shark's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing jackets?
+
+Prompt: A painting of firefighter. There is a label 'wearing necklace' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter wearing necklace?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A painting of snake. There is a text 'wearing sunglasses' written on it.
+Does this image primarily depict a snake?
+Is the snake wearing sunglasses?
+Beyond the snake's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A photo of firefighter. There is a word 'on the sand' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter on the sand?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the sand?
+
+Prompt: A painting of snail. There is a caption 'wearing jackets' written on it.
+Does this image primarily depict a snail?
+Is the snail wearing jackets?
+Beyond the snail's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing jackets?
+
+Prompt: A painting of mouse. There is a label 'wearing sneakers' written on it.
+Does this image primarily depict a mouse?
+Is the mouse wearing sneakers?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A sketch of leopard. There is a text 'below the shelf' written on it.
+Does this image primarily depict a leopard?
+Is the leopard below the shelf?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the shelf?
+
+Prompt: A drawing of trout. There is a text 'wearing watch' written on it.
+Does this image primarily depict a trout?
+Is the trout wearing watch?
+Beyond the trout's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A photo of cattle. There is a caption 'below the chair' written on it.
+Does this image primarily depict a cattle?
+Is the cattle below the chair?
+Beyond the cattle's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the chair?
+
+Prompt: A sketch of whale. There is a word 'next to the bench' written on it.
+Does this image primarily depict a whale?
+Is the whale next to the bench?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the bench?
+
+Prompt: A drawing of hamster. There is a text 'below the rock' written on it.
+Does this image primarily depict a hamster?
+Is the hamster below the rock?
+Beyond the hamster's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A drawing of snake. There is a label 'wearing watch' written on it.
+Does this image primarily depict a snake?
+Is the snake wearing watch?
+Beyond the snake's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A photo of elephant. There is a caption 'next to the trash can' written on it.
+Does this image primarily depict a elephant?
+Is the elephant next to the trash can?
+Beyond the elephant's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the trash can?
+
+Prompt: A drawing of butterfly. There is a word 'next to the bench' written on it.
+Does this image primarily depict a butterfly?
+Is the butterfly next to the bench?
+Beyond the butterfly's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the bench?
+
+Prompt: A sketch of seal. There is a caption 'wearing baseball cap' written on it.
+Does this image primarily depict a seal?
+Is the seal wearing baseball cap?
+Beyond the seal's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A painting of squirrel. There is a word 'on the shelf' written on it.
+Does this image primarily depict a squirrel?
+Is the squirrel on the shelf?
+Beyond the squirrel's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the shelf?
+
+Prompt: A drawing of wolf. There is a caption 'on the rock' written on it.
+Does this image primarily depict a wolf?
+Is the wolf on the rock?
+Beyond the wolf's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the rock?
+
+Prompt: A photo of possum. There is a caption 'wearing glasses' written on it.
+Does this image primarily depict a possum?
+Is the possum wearing glasses?
+Beyond the possum's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A photo of beetle. There is a word 'on the bed' written on it.
+Does this image primarily depict a beetle?
+Is the beetle on the bed?
+Beyond the beetle's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bed?
+
+Prompt: A painting of crab. There is a label 'below the sand' written on it.
+Does this image primarily depict a crab?
+Is the crab below the sand?
+Beyond the crab's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+
+Prompt: A painting of chef. There is a text 'wearing boots' written on it.
+Does this image primarily depict a chef?
+Is the chef wearing boots?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A sketch of spider. There is a label 'next to the fence' written on it.
+Does this image primarily depict a spider?
+Is the spider next to the fence?
+Beyond the spider's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A drawing of rabbit. There is a label 'below the sand' written on it.
+Does this image primarily depict a rabbit?
+Is the rabbit below the sand?
+Beyond the rabbit's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+
+Prompt: A drawing of bee. There is a caption 'below the ground' written on it.
+Does this image primarily depict a bee?
+Is the bee below the ground?
+Beyond the bee's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the ground?
+
+Prompt: A photo of tiger. There is a text 'wearing necklace' written on it.
+Does this image primarily depict a tiger?
+Is the tiger wearing necklace?
+Beyond the tiger's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A painting of man. There is a caption 'wearing hoodie' written on it.
+Does this image primarily depict a man?
+Is the man wearing hoodie?
+Beyond the man's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A photo of spider. There is a label 'on the table' written on it.
+Does this image primarily depict a spider?
+Is the spider on the table?
+Beyond the spider's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the table?
+
+Prompt: A drawing of skunk. There is a caption 'on the ground' written on it.
+Does this image primarily depict a skunk?
+Is the skunk on the ground?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A drawing of camel. There is a text 'next to the building' written on it.
+Does this image primarily depict a camel?
+Is the camel next to the building?
+Beyond the camel's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the building?
+
+Prompt: A drawing of snail. There is a caption 'wearing necklace' written on it.
+Does this image primarily depict a snail?
+Is the snail wearing necklace?
+Beyond the snail's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A sketch of chef. There is a word 'wearing sneakers' written on it.
+Does this image primarily depict a chef?
+Is the chef wearing sneakers?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A painting of kangaroo. There is a label 'on the grass' written on it.
+Does this image primarily depict a kangaroo?
+Is the kangaroo on the grass?
+Beyond the kangaroo's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the grass?
+
+Prompt: A drawing of woman. There is a label 'below the rock' written on it.
+Does this image primarily depict a woman?
+Is the woman below the rock?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A drawing of squirrel. There is a label 'wearing necklace' written on it.
+Does this image primarily depict a squirrel?
+Is the squirrel wearing necklace?
+Beyond the squirrel's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A photo of whale. There is a caption 'below the couch' written on it.
+Does this image primarily depict a whale?
+Is the whale below the couch?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the couch?
+
+Prompt: A drawing of otter. There is a word 'below the bench' written on it.
+Does this image primarily depict a otter?
+Is the otter below the bench?
+Beyond the otter's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bench?
+
+Prompt: A drawing of police. There is a label 'below the shelf' written on it.
+Does this image primarily depict a police?
+Is the police below the shelf?
+Beyond the police's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the shelf?
+
+Prompt: A sketch of leopard. There is a word 'next to the tree' written on it.
+Does this image primarily depict a leopard?
+Is the leopard next to the tree?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the tree?
+
+Prompt: A photo of butterfly. There is a label 'below the table' written on it.
+Does this image primarily depict a butterfly?
+Is the butterfly below the table?
+Beyond the butterfly's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the table?
+
+Prompt: A drawing of taxi-driver. There is a caption 'on the chair' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver on the chair?
+Beyond the taxi-driver's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the chair?
+
+Prompt: A sketch of whale. There is a caption 'on the table' written on it.
+Does this image primarily depict a whale?
+Is the whale on the table?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the table?
+
+Prompt: A sketch of man. There is a label 'below the ground' written on it.
+Does this image primarily depict a man?
+Is the man below the ground?
+Beyond the man's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the ground?
+
+Prompt: A photo of crocodile. There is a label 'next to the house' written on it.
+Does this image primarily depict a crocodile?
+Is the crocodile next to the house?
+Beyond the crocodile's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the house?
+
+Prompt: A sketch of lion. There is a word 'wearing glasses' written on it.
+Does this image primarily depict a lion?
+Is the lion wearing glasses?
+Beyond the lion's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A photo of beetle. There is a caption 'wearing glasses' written on it.
+Does this image primarily depict a beetle?
+Is the beetle wearing glasses?
+Beyond the beetle's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A painting of aquarium fish. There is a word 'on the snow' written on it.
+Does this image primarily depict a quarium fish?
+Is the quarium fish on the snow?
+Beyond the quarium fish's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the snow?
+
+Prompt: A sketch of taxi-driver. There is a caption 'wearing hat' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver wearing hat?
+Beyond the taxi-driver's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A photo of man. There is a text 'wearing sunglasses' written on it.
+Does this image primarily depict a man?
+Is the man wearing sunglasses?
+Beyond the man's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A drawing of wolf. There is a label 'wearing boots' written on it.
+Does this image primarily depict a wolf?
+Is the wolf wearing boots?
+Beyond the wolf's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A photo of crab. There is a label 'next to the building' written on it.
+Does this image primarily depict a crab?
+Is the crab next to the building?
+Beyond the crab's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the building?
+
+Prompt: A photo of kangaroo. There is a caption 'on the grass' written on it.
+Does this image primarily depict a kangaroo?
+Is the kangaroo on the grass?
+Beyond the kangaroo's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the grass?
+
+Prompt: A photo of skunk. There is a word 'on the ground' written on it.
+Does this image primarily depict a skunk?
+Is the skunk on the ground?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A painting of beaver. There is a text 'below the shelf' written on it.
+Does this image primarily depict a beaver?
+Is the beaver below the shelf?
+Beyond the beaver's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the shelf?
+
+Prompt: A drawing of butterfly. There is a text 'wearing watch' written on it.
+Does this image primarily depict a butterfly?
+Is the butterfly wearing watch?
+Beyond the butterfly's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A sketch of crocodile. There is a text 'next to the tree' written on it.
+Does this image primarily depict a crocodile?
+Is the crocodile next to the tree?
+Beyond the crocodile's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the tree?
+
+Prompt: A sketch of woman. There is a label 'on the ground' written on it.
+Does this image primarily depict a woman?
+Is the woman on the ground?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A painting of trout. There is a caption 'next to the wall' written on it.
+Does this image primarily depict a trout?
+Is the trout next to the wall?
+Beyond the trout's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the wall?
+
+Prompt: A painting of student. There is a text 'on the ground' written on it.
+Does this image primarily depict a student?
+Is the student on the ground?
+Beyond the student's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A painting of skunk. There is a label 'next to the fence' written on it.
+Does this image primarily depict a skunk?
+Is the skunk next to the fence?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A photo of seal. There is a caption 'wearing sneakers' written on it.
+Does this image primarily depict a seal?
+Is the seal wearing sneakers?
+Beyond the seal's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A drawing of aquarium fish. There is a text 'below the snow' written on it.
+Does this image primarily depict a quarium fish?
+Is the quarium fish below the snow?
+Beyond the quarium fish's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the snow?
+
+Prompt: A painting of crab. There is a caption 'below the floor' written on it.
+Does this image primarily depict a crab?
+Is the crab below the floor?
+Beyond the crab's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the floor?
+
+Prompt: A sketch of squirrel. There is a text 'next to the tree' written on it.
+Does this image primarily depict a squirrel?
+Is the squirrel next to the tree?
+Beyond the squirrel's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the tree?
+
+Prompt: A photo of hamster. There is a word 'wearing hat' written on it.
+Does this image primarily depict a hamster?
+Is the hamster wearing hat?
+Beyond the hamster's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A painting of possum. There is a caption 'next to the house' written on it.
+Does this image primarily depict a possum?
+Is the possum next to the house?
+Beyond the possum's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the house?
+
+Prompt: A sketch of chimpanzee. There is a word 'wearing sneakers' written on it.
+Does this image primarily depict a chimpanzee?
+Is the chimpanzee wearing sneakers?
+Beyond the chimpanzee's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A drawing of hamster. There is a label 'wearing baseball cap' written on it.
+Does this image primarily depict a hamster?
+Is the hamster wearing baseball cap?
+Beyond the hamster's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A drawing of teacher. There is a word 'wearing necklace' written on it.
+Does this image primarily depict a teacher?
+Is the teacher wearing necklace?
+Beyond the teacher's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A photo of beaver. There is a text 'below the sand' written on it.
+Does this image primarily depict a beaver?
+Is the beaver below the sand?
+Beyond the beaver's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+
+Prompt: A photo of dinosaur. There is a text 'on the bench' written on it.
+Does this image primarily depict a dinosaur?
+Is the dinosaur on the bench?
+Beyond the dinosaur's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A drawing of rabbit. There is a caption 'wearing boots' written on it.
+Does this image primarily depict a rabbit?
+Is the rabbit wearing boots?
+Beyond the rabbit's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A sketch of soldier. There is a label 'below the shelf' written on it.
+Does this image primarily depict a soldier?
+Is the soldier below the shelf?
+Beyond the soldier's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the shelf?
+
+Prompt: A sketch of whale. There is a caption 'wearing sneakers' written on it.
+Does this image primarily depict a whale?
+Is the whale wearing sneakers?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A sketch of mouse. There is a label 'on the couch' written on it.
+Does this image primarily depict a mouse?
+Is the mouse on the couch?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the couch?
+
+Prompt: A sketch of flatfish. There is a text 'next to the wall' written on it.
+Does this image primarily depict a flatfish?
+Is the flatfish next to the wall?
+Beyond the flatfish's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the wall?
+
+Prompt: A drawing of skunk. There is a label 'wearing necklace' written on it.
+Does this image primarily depict a skunk?
+Is the skunk wearing necklace?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A painting of dinosaur. There is a label 'wearing baseball cap' written on it.
+Does this image primarily depict a dinosaur?
+Is the dinosaur wearing baseball cap?
+Beyond the dinosaur's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A sketch of boy. There is a text 'wearing watch' written on it.
+Does this image primarily depict a boy?
+Is the boy wearing watch?
+Beyond the boy's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A drawing of girl. There is a text 'wearing glasses' written on it.
+Does this image primarily depict a girl?
+Is the girl wearing glasses?
+Beyond the girl's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A painting of cockroach. There is a text 'below the ground' written on it.
+Does this image primarily depict a cockroach?
+Is the cockroach below the ground?
+Beyond the cockroach's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the ground?
+
+Prompt: A photo of squirrel. There is a word 'on the floor' written on it.
+Does this image primarily depict a squirrel?
+Is the squirrel on the floor?
+Beyond the squirrel's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the floor?
+
+Prompt: A photo of baby. There is a word 'on the ground' written on it.
+Does this image primarily depict a baby?
+Is the baby on the ground?
+Beyond the baby's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A drawing of cockroach. There is a text 'wearing necklace' written on it.
+Does this image primarily depict a cockroach?
+Is the cockroach wearing necklace?
+Beyond the cockroach's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A painting of spider. There is a label 'next to the window' written on it.
+Does this image primarily depict a spider?
+Is the spider next to the window?
+Beyond the spider's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the window?
+
+Prompt: A painting of ray. There is a word 'on the floor' written on it.
+Does this image primarily depict a ray?
+Is the ray on the floor?
+Beyond the ray's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the floor?
+
+Prompt: A drawing of caterpillar. There is a caption 'below the bench' written on it.
+Does this image primarily depict a caterpillar?
+Is the caterpillar below the bench?
+Beyond the caterpillar's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bench?
+
+Prompt: A drawing of butterfly. There is a text 'on the rock' written on it.
+Does this image primarily depict a butterfly?
+Is the butterfly on the rock?
+Beyond the butterfly's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the rock?
+
+Prompt: A painting of beaver. There is a text 'on the grass' written on it.
+Does this image primarily depict a beaver?
+Is the beaver on the grass?
+Beyond the beaver's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the grass?
+
+Prompt: A painting of bear. There is a word 'on the couch' written on it.
+Does this image primarily depict a bear?
+Is the bear on the couch?
+Beyond the bear's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the couch?
+
+Prompt: A sketch of skunk. There is a caption 'wearing baseball cap' written on it.
+Does this image primarily depict a skunk?
+Is the skunk wearing baseball cap?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A painting of turtle. There is a label 'next to the wall' written on it.
+Does this image primarily depict a turtle?
+Is the turtle next to the wall?
+Beyond the turtle's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the wall?
+
+Prompt: A painting of snake. There is a caption 'wearing hat' written on it.
+Does this image primarily depict a snake?
+Is the snake wearing hat?
+Beyond the snake's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A photo of lion. There is a caption 'below the table' written on it.
+Does this image primarily depict a lion?
+Is the lion below the table?
+Beyond the lion's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the table?
+
+Prompt: A sketch of shrew. There is a word 'below the couch' written on it.
+Does this image primarily depict a shrew?
+Is the shrew below the couch?
+Beyond the shrew's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the couch?
+
+Prompt: A sketch of butterfly. There is a word 'wearing hat' written on it.
+Does this image primarily depict a butterfly?
+Is the butterfly wearing hat?
+Beyond the butterfly's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A photo of dolphin. There is a word 'wearing baseball cap' written on it.
+Does this image primarily depict a dolphin?
+Is the dolphin wearing baseball cap?
+Beyond the dolphin's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A sketch of chimpanzee. There is a label 'wearing sneakers' written on it.
+Does this image primarily depict a chimpanzee?
+Is the chimpanzee wearing sneakers?
+Beyond the chimpanzee's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A sketch of snake. There is a caption 'on the ground' written on it.
+Does this image primarily depict a snake?
+Is the snake on the ground?
+Beyond the snake's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A painting of porcupine. There is a word 'next to the window' written on it.
+Does this image primarily depict a porcupine?
+Is the porcupine next to the window?
+Beyond the porcupine's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the window?
+
+Prompt: A sketch of squirrel. There is a word 'wearing sunglasses' written on it.
+Does this image primarily depict a squirrel?
+Is the squirrel wearing sunglasses?
+Beyond the squirrel's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A sketch of crocodile. There is a text 'wearing watch' written on it.
+Does this image primarily depict a crocodile?
+Is the crocodile wearing watch?
+Beyond the crocodile's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A sketch of whale. There is a caption 'on the snow' written on it.
+Does this image primarily depict a whale?
+Is the whale on the snow?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the snow?
+
+Prompt: A painting of whale. There is a caption 'wearing baseball cap' written on it.
+Does this image primarily depict a whale?
+Is the whale wearing baseball cap?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A photo of athlete. There is a caption 'wearing boots' written on it.
+Does this image primarily depict a thlete?
+Is the thlete wearing boots?
+Beyond the thlete's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A drawing of caterpillar. There is a label 'on the ground' written on it.
+Does this image primarily depict a caterpillar?
+Is the caterpillar on the ground?
+Beyond the caterpillar's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A sketch of man. There is a word 'wearing glasses' written on it.
+Does this image primarily depict a man?
+Is the man wearing glasses?
+Beyond the man's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A sketch of mouse. There is a label 'next to the truck' written on it.
+Does this image primarily depict a mouse?
+Is the mouse next to the truck?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the truck?
+
+Prompt: A sketch of baby. There is a word 'next to the fence' written on it.
+Does this image primarily depict a baby?
+Is the baby next to the fence?
+Beyond the baby's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A sketch of cattle. There is a word 'below the ground' written on it.
+Does this image primarily depict a cattle?
+Is the cattle below the ground?
+Beyond the cattle's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the ground?
+
+Prompt: A drawing of dolphin. There is a word 'wearing sunglasses' written on it.
+Does this image primarily depict a dolphin?
+Is the dolphin wearing sunglasses?
+Beyond the dolphin's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A photo of shark. There is a word 'below the bench' written on it.
+Does this image primarily depict a shark?
+Is the shark below the bench?
+Beyond the shark's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bench?
+
+Prompt: A drawing of teacher. There is a word 'next to the window' written on it.
+Does this image primarily depict a teacher?
+Is the teacher next to the window?
+Beyond the teacher's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the window?
+
+Prompt: A photo of kangaroo. There is a word 'on the rock' written on it.
+Does this image primarily depict a kangaroo?
+Is the kangaroo on the rock?
+Beyond the kangaroo's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the rock?
+
+Prompt: A photo of teacher. There is a word 'next to the house' written on it.
+Does this image primarily depict a teacher?
+Is the teacher next to the house?
+Beyond the teacher's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the house?
+
+Prompt: A photo of beetle. There is a text 'wearing sunglasses' written on it.
+Does this image primarily depict a beetle?
+Is the beetle wearing sunglasses?
+Beyond the beetle's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A painting of crocodile. There is a text 'next to the fence' written on it.
+Does this image primarily depict a crocodile?
+Is the crocodile next to the fence?
+Beyond the crocodile's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A sketch of hamster. There is a text 'wearing hat' written on it.
+Does this image primarily depict a hamster?
+Is the hamster wearing hat?
+Beyond the hamster's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A photo of dolphin. There is a text 'below the sand' written on it.
+Does this image primarily depict a dolphin?
+Is the dolphin below the sand?
+Beyond the dolphin's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+
+Prompt: A photo of otter. There is a label 'wearing hat' written on it.
+Does this image primarily depict a otter?
+Is the otter wearing hat?
+Beyond the otter's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A drawing of teacher. There is a caption 'on the table' written on it.
+Does this image primarily depict a teacher?
+Is the teacher on the table?
+Beyond the teacher's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the table?
+
+Prompt: A drawing of lobster. There is a word 'wearing necklace' written on it.
+Does this image primarily depict a lobster?
+Is the lobster wearing necklace?
+Beyond the lobster's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A drawing of dinosaur. There is a label 'next to the fence' written on it.
+Does this image primarily depict a dinosaur?
+Is the dinosaur next to the fence?
+Beyond the dinosaur's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A photo of flatfish. There is a label 'on the bench' written on it.
+Does this image primarily depict a flatfish?
+Is the flatfish on the bench?
+Beyond the flatfish's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A sketch of woman. There is a caption 'on the sand' written on it.
+Does this image primarily depict a woman?
+Is the woman on the sand?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the sand?
+
+Prompt: A drawing of lobster. There is a label 'below the sand' written on it.
+Does this image primarily depict a lobster?
+Is the lobster below the sand?
+Beyond the lobster's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+
+Prompt: A photo of trout. There is a label 'on the sand' written on it.
+Does this image primarily depict a trout?
+Is the trout on the sand?
+Beyond the trout's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the sand?
+
+Prompt: A painting of wolf. There is a label 'below the rock' written on it.
+Does this image primarily depict a wolf?
+Is the wolf below the rock?
+Beyond the wolf's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A sketch of police. There is a word 'on the shelf' written on it.
+Does this image primarily depict a police?
+Is the police on the shelf?
+Beyond the police's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the shelf?
+
+Prompt: A sketch of cockroach. There is a caption 'wearing baseball cap' written on it.
+Does this image primarily depict a cockroach?
+Is the cockroach wearing baseball cap?
+Beyond the cockroach's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A painting of leopard. There is a word 'on the snow' written on it.
+Does this image primarily depict a leopard?
+Is the leopard on the snow?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the snow?
+
+Prompt: A painting of mouse. There is a text 'wearing sneakers' written on it.
+Does this image primarily depict a mouse?
+Is the mouse wearing sneakers?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A painting of otter. There is a word 'below the grass' written on it.
+Does this image primarily depict a otter?
+Is the otter below the grass?
+Beyond the otter's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A sketch of boy. There is a text 'on the shelf' written on it.
+Does this image primarily depict a boy?
+Is the boy on the shelf?
+Beyond the boy's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the shelf?
+
+Prompt: A drawing of beaver. There is a word 'wearing watch' written on it.
+Does this image primarily depict a beaver?
+Is the beaver wearing watch?
+Beyond the beaver's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A painting of shrew. There is a text 'on the floor' written on it.
+Does this image primarily depict a shrew?
+Is the shrew on the floor?
+Beyond the shrew's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the floor?
+
+Prompt: A photo of firefighter. There is a caption 'wearing glasses' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter wearing glasses?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A sketch of lobster. There is a caption 'on the snow' written on it.
+Does this image primarily depict a lobster?
+Is the lobster on the snow?
+Beyond the lobster's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the snow?
+
+Prompt: A sketch of lizard. There is a word 'wearing watch' written on it.
+Does this image primarily depict a lizard?
+Is the lizard wearing watch?
+Beyond the lizard's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A drawing of lobster. There is a word 'wearing hoodie' written on it.
+Does this image primarily depict a lobster?
+Is the lobster wearing hoodie?
+Beyond the lobster's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A painting of chimpanzee. There is a word 'on the bench' written on it.
+Does this image primarily depict a chimpanzee?
+Is the chimpanzee on the bench?
+Beyond the chimpanzee's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A painting of lobster. There is a text 'on the floor' written on it.
+Does this image primarily depict a lobster?
+Is the lobster on the floor?
+Beyond the lobster's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the floor?
+
+Prompt: A painting of chef. There is a caption 'below the shelf' written on it.
+Does this image primarily depict a chef?
+Is the chef below the shelf?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the shelf?
+
+Prompt: A photo of taxi-driver. There is a caption 'wearing sunglasses' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver wearing sunglasses?
+Beyond the taxi-driver's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A painting of police. There is a text 'next to the fence' written on it.
+Does this image primarily depict a police?
+Is the police next to the fence?
+Beyond the police's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A drawing of soldier. There is a text 'wearing baseball cap' written on it.
+Does this image primarily depict a soldier?
+Is the soldier wearing baseball cap?
+Beyond the soldier's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A drawing of girl. There is a text 'next to the window' written on it.
+Does this image primarily depict a girl?
+Is the girl next to the window?
+Beyond the girl's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the window?
+
+Prompt: A painting of possum. There is a caption 'next to the door' written on it.
+Does this image primarily depict a possum?
+Is the possum next to the door?
+Beyond the possum's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the door?
+
+Prompt: A photo of elephant. There is a label 'wearing sunglasses' written on it.
+Does this image primarily depict a elephant?
+Is the elephant wearing sunglasses?
+Beyond the elephant's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A sketch of soldier. There is a text 'next to the fence' written on it.
+Does this image primarily depict a soldier?
+Is the soldier next to the fence?
+Beyond the soldier's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A sketch of turtle. There is a label 'wearing sunglasses' written on it.
+Does this image primarily depict a turtle?
+Is the turtle wearing sunglasses?
+Beyond the turtle's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A photo of athlete. There is a label 'wearing hoodie' written on it.
+Does this image primarily depict a thlete?
+Is the thlete wearing hoodie?
+Beyond the thlete's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A painting of otter. There is a label 'wearing glasses' written on it.
+Does this image primarily depict a otter?
+Is the otter wearing glasses?
+Beyond the otter's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A drawing of bear. There is a word 'next to the fence' written on it.
+Does this image primarily depict a bear?
+Is the bear next to the fence?
+Beyond the bear's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the fence?
+
+Prompt: A sketch of elephant. There is a text 'below the grass' written on it.
+Does this image primarily depict a elephant?
+Is the elephant below the grass?
+Beyond the elephant's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A photo of possum. There is a caption 'wearing sneakers' written on it.
+Does this image primarily depict a possum?
+Is the possum wearing sneakers?
+Beyond the possum's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A drawing of soldier. There is a caption 'on the chair' written on it.
+Does this image primarily depict a soldier?
+Is the soldier on the chair?
+Beyond the soldier's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the chair?
+
+Prompt: A photo of bear. There is a word 'below the bed' written on it.
+Does this image primarily depict a bear?
+Is the bear below the bed?
+Beyond the bear's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bed?
+
+Prompt: A painting of dolphin. There is a label 'wearing watch' written on it.
+Does this image primarily depict a dolphin?
+Is the dolphin wearing watch?
+Beyond the dolphin's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A sketch of crab. There is a label 'wearing watch' written on it.
+Does this image primarily depict a crab?
+Is the crab wearing watch?
+Beyond the crab's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A drawing of chef. There is a word 'on the sand' written on it.
+Does this image primarily depict a chef?
+Is the chef on the sand?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the sand?
+
+Prompt: A drawing of turtle. There is a text 'wearing hat' written on it.
+Does this image primarily depict a turtle?
+Is the turtle wearing hat?
+Beyond the turtle's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A drawing of fox. There is a text 'below the grass' written on it.
+Does this image primarily depict a fox?
+Is the fox below the grass?
+Beyond the fox's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A painting of chef. There is a word 'on the floor' written on it.
+Does this image primarily depict a chef?
+Is the chef on the floor?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the floor?
+
+Prompt: A sketch of wolf. There is a text 'on the bed' written on it.
+Does this image primarily depict a wolf?
+Is the wolf on the bed?
+Beyond the wolf's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bed?
+
+Prompt: A photo of shrew. There is a label 'on the shelf' written on it.
+Does this image primarily depict a shrew?
+Is the shrew on the shelf?
+Beyond the shrew's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the shelf?
+
+Prompt: A painting of firefighter. There is a label 'wearing hoodie' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter wearing hoodie?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A photo of elephant. There is a text 'wearing boots' written on it.
+Does this image primarily depict a elephant?
+Is the elephant wearing boots?
+Beyond the elephant's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A sketch of whale. There is a word 'wearing hoodie' written on it.
+Does this image primarily depict a whale?
+Is the whale wearing hoodie?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A sketch of firefighter. There is a word 'on the bench' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter on the bench?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A painting of skunk. There is a text 'wearing boots' written on it.
+Does this image primarily depict a skunk?
+Is the skunk wearing boots?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A painting of lobster. There is a word 'on the sand' written on it.
+Does this image primarily depict a lobster?
+Is the lobster on the sand?
+Beyond the lobster's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the sand?
+
+Prompt: A sketch of leopard. There is a label 'wearing watch' written on it.
+Does this image primarily depict a leopard?
+Is the leopard wearing watch?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A painting of dinosaur. There is a label 'on the ground' written on it.
+Does this image primarily depict a dinosaur?
+Is the dinosaur on the ground?
+Beyond the dinosaur's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A photo of caterpillar. There is a word 'wearing baseball cap' written on it.
+Does this image primarily depict a caterpillar?
+Is the caterpillar wearing baseball cap?
+Beyond the caterpillar's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A painting of possum. There is a word 'on the rock' written on it.
+Does this image primarily depict a possum?
+Is the possum on the rock?
+Beyond the possum's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the rock?
+
+Prompt: A drawing of chimpanzee. There is a text 'wearing watch' written on it.
+Does this image primarily depict a chimpanzee?
+Is the chimpanzee wearing watch?
+Beyond the chimpanzee's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A sketch of chef. There is a word 'wearing hoodie' written on it.
+Does this image primarily depict a chef?
+Is the chef wearing hoodie?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A drawing of flatfish. There is a caption 'on the ground' written on it.
+Does this image primarily depict a flatfish?
+Is the flatfish on the ground?
+Beyond the flatfish's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the ground?
+
+Prompt: A sketch of dolphin. There is a label 'next to the car' written on it.
+Does this image primarily depict a dolphin?
+Is the dolphin next to the car?
+Beyond the dolphin's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the car?
+
+Prompt: A sketch of raccoon. There is a label 'next to the door' written on it.
+Does this image primarily depict a raccoon?
+Is the raccoon next to the door?
+Beyond the raccoon's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the door?
+
+Prompt: A painting of caterpillar. There is a text 'next to the door' written on it.
+Does this image primarily depict a caterpillar?
+Is the caterpillar next to the door?
+Beyond the caterpillar's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the door?
+
+Prompt: A drawing of chimpanzee. There is a word 'wearing jackets' written on it.
+Does this image primarily depict a chimpanzee?
+Is the chimpanzee wearing jackets?
+Beyond the chimpanzee's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing jackets?
+
+Prompt: A drawing of whale. There is a label 'below the bench' written on it.
+Does this image primarily depict a whale?
+Is the whale below the bench?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bench?
+
+Prompt: A painting of turtle. There is a text 'wearing watch' written on it.
+Does this image primarily depict a turtle?
+Is the turtle wearing watch?
+Beyond the turtle's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A sketch of bear. There is a caption 'on the shelf' written on it.
+Does this image primarily depict a bear?
+Is the bear on the shelf?
+Beyond the bear's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the shelf?
+
+Prompt: A painting of leopard. There is a word 'next to the wall' written on it.
+Does this image primarily depict a leopard?
+Is the leopard next to the wall?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the wall?
+
+Prompt: A drawing of dolphin. There is a word 'next to the building' written on it.
+Does this image primarily depict a dolphin?
+Is the dolphin next to the building?
+Beyond the dolphin's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the building?
+
+Prompt: A photo of worm. There is a text 'on the bench' written on it.
+Does this image primarily depict a worm?
+Is the worm on the bench?
+Beyond the worm's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A sketch of tiger. There is a caption 'next to the house' written on it.
+Does this image primarily depict a tiger?
+Is the tiger next to the house?
+Beyond the tiger's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the house?
+
+Prompt: A painting of rabbit. There is a label 'next to the car' written on it.
+Does this image primarily depict a rabbit?
+Is the rabbit next to the car?
+Beyond the rabbit's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the car?
+
+Prompt: A sketch of spider. There is a label 'wearing boots' written on it.
+Does this image primarily depict a spider?
+Is the spider wearing boots?
+Beyond the spider's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A photo of lizard. There is a word 'next to the trash can' written on it.
+Does this image primarily depict a lizard?
+Is the lizard next to the trash can?
+Beyond the lizard's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the trash can?
+
+Prompt: A sketch of mouse. There is a label 'wearing baseball cap' written on it.
+Does this image primarily depict a mouse?
+Is the mouse wearing baseball cap?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A sketch of possum. There is a text 'below the bed' written on it.
+Does this image primarily depict a possum?
+Is the possum below the bed?
+Beyond the possum's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bed?
+
+Prompt: A photo of otter. There is a label 'below the floor' written on it.
+Does this image primarily depict a otter?
+Is the otter below the floor?
+Beyond the otter's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the floor?
+
+Prompt: A drawing of cockroach. There is a label 'next to the bench' written on it.
+Does this image primarily depict a cockroach?
+Is the cockroach next to the bench?
+Beyond the cockroach's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the bench?
+
+Prompt: A photo of student. There is a word 'below the rock' written on it.
+Does this image primarily depict a student?
+Is the student below the rock?
+Beyond the student's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A photo of lizard. There is a text 'wearing necklace' written on it.
+Does this image primarily depict a lizard?
+Is the lizard wearing necklace?
+Beyond the lizard's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A painting of athlete. There is a word 'wearing glasses' written on it.
+Does this image primarily depict a thlete?
+Is the thlete wearing glasses?
+Beyond the thlete's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A drawing of soldier. There is a caption 'wearing glasses' written on it.
+Does this image primarily depict a soldier?
+Is the soldier wearing glasses?
+Beyond the soldier's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A drawing of kangaroo. There is a word 'wearing sunglasses' written on it.
+Does this image primarily depict a kangaroo?
+Is the kangaroo wearing sunglasses?
+Beyond the kangaroo's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A painting of seal. There is a word 'below the bed' written on it.
+Does this image primarily depict a seal?
+Is the seal below the bed?
+Beyond the seal's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bed?
+
+Prompt: A painting of woman. There is a caption 'on the shelf' written on it.
+Does this image primarily depict a woman?
+Is the woman on the shelf?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the shelf?
+
+Prompt: A painting of lobster. There is a word 'wearing watch' written on it.
+Does this image primarily depict a lobster?
+Is the lobster wearing watch?
+Beyond the lobster's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A drawing of mouse. There is a word 'on the couch' written on it.
+Does this image primarily depict a mouse?
+Is the mouse on the couch?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the couch?
+
+Prompt: A sketch of elephant. There is a text 'wearing watch' written on it.
+Does this image primarily depict a elephant?
+Is the elephant wearing watch?
+Beyond the elephant's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A photo of whale. There is a word 'wearing hat' written on it.
+Does this image primarily depict a whale?
+Is the whale wearing hat?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A sketch of dinosaur. There is a text 'below the grass' written on it.
+Does this image primarily depict a dinosaur?
+Is the dinosaur below the grass?
+Beyond the dinosaur's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A painting of possum. There is a caption 'wearing watch' written on it.
+Does this image primarily depict a possum?
+Is the possum wearing watch?
+Beyond the possum's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A drawing of squirrel. There is a label 'below the rock' written on it.
+Does this image primarily depict a squirrel?
+Is the squirrel below the rock?
+Beyond the squirrel's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A painting of girl. There is a word 'on the snow' written on it.
+Does this image primarily depict a girl?
+Is the girl on the snow?
+Beyond the girl's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the snow?
+
+Prompt: A drawing of aquarium fish. There is a label 'wearing glasses' written on it.
+Does this image primarily depict a quarium fish?
+Is the quarium fish wearing glasses?
+Beyond the quarium fish's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A drawing of teacher. There is a caption 'below the shelf' written on it.
+Does this image primarily depict a teacher?
+Is the teacher below the shelf?
+Beyond the teacher's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the shelf?
+
+Prompt: A painting of seal. There is a caption 'next to the door' written on it.
+Does this image primarily depict a seal?
+Is the seal next to the door?
+Beyond the seal's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the door?
+
+Prompt: A painting of snake. There is a text 'wearing sneakers' written on it.
+Does this image primarily depict a snake?
+Is the snake wearing sneakers?
+Beyond the snake's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A drawing of rabbit. There is a caption 'below the sand' written on it.
+Does this image primarily depict a rabbit?
+Is the rabbit below the sand?
+Beyond the rabbit's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+
+Prompt: A sketch of firefighter. There is a text 'below the rock' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter below the rock?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A painting of leopard. There is a label 'wearing watch' written on it.
+Does this image primarily depict a leopard?
+Is the leopard wearing watch?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A sketch of police. There is a text 'below the bed' written on it.
+Does this image primarily depict a police?
+Is the police below the bed?
+Beyond the police's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the bed?
+
+Prompt: A photo of porcupine. There is a text 'wearing sneakers' written on it.
+Does this image primarily depict a porcupine?
+Is the porcupine wearing sneakers?
+Beyond the porcupine's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A sketch of raccoon. There is a text 'on the chair' written on it.
+Does this image primarily depict a raccoon?
+Is the raccoon on the chair?
+Beyond the raccoon's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the chair?
+
+Prompt: A photo of flatfish. There is a label 'next to the car' written on it.
+Does this image primarily depict a flatfish?
+Is the flatfish next to the car?
+Beyond the flatfish's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the car?
+
+Prompt: A photo of shrew. There is a caption 'on the bench' written on it.
+Does this image primarily depict a shrew?
+Is the shrew on the bench?
+Beyond the shrew's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A sketch of skunk. There is a text 'next to the window' written on it.
+Does this image primarily depict a skunk?
+Is the skunk next to the window?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the window?
+
+Prompt: A sketch of shrew. There is a caption 'on the table' written on it.
+Does this image primarily depict a shrew?
+Is the shrew on the table?
+Beyond the shrew's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the table?
+
+Prompt: A sketch of whale. There is a word 'wearing necklace' written on it.
+Does this image primarily depict a whale?
+Is the whale wearing necklace?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A drawing of bear. There is a word 'next to the trash can' written on it.
+Does this image primarily depict a bear?
+Is the bear next to the trash can?
+Beyond the bear's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the trash can?
+
+Prompt: A photo of cattle. There is a text 'next to the bench' written on it.
+Does this image primarily depict a cattle?
+Is the cattle next to the bench?
+Beyond the cattle's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the bench?
+
+Prompt: A painting of butterfly. There is a label 'wearing sneakers' written on it.
+Does this image primarily depict a butterfly?
+Is the butterfly wearing sneakers?
+Beyond the butterfly's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A sketch of skunk. There is a label 'wearing hoodie' written on it.
+Does this image primarily depict a skunk?
+Is the skunk wearing hoodie?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A photo of lizard. There is a label 'wearing boots' written on it.
+Does this image primarily depict a lizard?
+Is the lizard wearing boots?
+Beyond the lizard's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A drawing of hamster. There is a label 'below the couch' written on it.
+Does this image primarily depict a hamster?
+Is the hamster below the couch?
+Beyond the hamster's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the couch?
+
+Prompt: A drawing of shark. There is a caption 'below the grass' written on it.
+Does this image primarily depict a shark?
+Is the shark below the grass?
+Beyond the shark's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A photo of mouse. There is a text 'next to the house' written on it.
+Does this image primarily depict a mouse?
+Is the mouse next to the house?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the house?
+
+Prompt: A painting of chef. There is a caption 'below the rock' written on it.
+Does this image primarily depict a chef?
+Is the chef below the rock?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A drawing of trout. There is a label 'below the couch' written on it.
+Does this image primarily depict a trout?
+Is the trout below the couch?
+Beyond the trout's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the couch?
+
+Prompt: A painting of soldier. There is a label 'wearing boots' written on it.
+Does this image primarily depict a soldier?
+Is the soldier wearing boots?
+Beyond the soldier's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A sketch of worm. There is a label 'wearing sunglasses' written on it.
+Does this image primarily depict a worm?
+Is the worm wearing sunglasses?
+Beyond the worm's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A painting of bear. There is a label 'on the grass' written on it.
+Does this image primarily depict a bear?
+Is the bear on the grass?
+Beyond the bear's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the grass?
+
+Prompt: A photo of leopard. There is a text 'below the rock' written on it.
+Does this image primarily depict a leopard?
+Is the leopard below the rock?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A photo of mouse. There is a word 'on the sand' written on it.
+Does this image primarily depict a mouse?
+Is the mouse on the sand?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the sand?
+
+Prompt: A photo of snail. There is a word 'next to the car' written on it.
+Does this image primarily depict a snail?
+Is the snail next to the car?
+Beyond the snail's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the car?
+
+Prompt: A photo of fox. There is a text 'wearing boots' written on it.
+Does this image primarily depict a fox?
+Is the fox wearing boots?
+Beyond the fox's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A painting of beetle. There is a text 'next to the window' written on it.
+Does this image primarily depict a beetle?
+Is the beetle next to the window?
+Beyond the beetle's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the window?
+
+Prompt: A painting of wolf. There is a word 'below the table' written on it.
+Does this image primarily depict a wolf?
+Is the wolf below the table?
+Beyond the wolf's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the table?
+
+Prompt: A photo of cockroach. There is a caption 'on the couch' written on it.
+Does this image primarily depict a cockroach?
+Is the cockroach on the couch?
+Beyond the cockroach's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the couch?
+
+Prompt: A sketch of turtle. There is a text 'on the bench' written on it.
+Does this image primarily depict a turtle?
+Is the turtle on the bench?
+Beyond the turtle's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A photo of cockroach. There is a text 'wearing watch' written on it.
+Does this image primarily depict a cockroach?
+Is the cockroach wearing watch?
+Beyond the cockroach's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A painting of crab. There is a caption 'next to the car' written on it.
+Does this image primarily depict a crab?
+Is the crab next to the car?
+Beyond the crab's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the car?
+
+Prompt: A photo of firefighter. There is a label 'on the snow' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter on the snow?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the snow?
+
+Prompt: A painting of chimpanzee. There is a caption 'wearing baseball cap' written on it.
+Does this image primarily depict a chimpanzee?
+Is the chimpanzee wearing baseball cap?
+Beyond the chimpanzee's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A painting of caterpillar. There is a label 'wearing glasses' written on it.
+Does this image primarily depict a caterpillar?
+Is the caterpillar wearing glasses?
+Beyond the caterpillar's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing glasses?
+
+Prompt: A photo of fox. There is a text 'wearing sneakers' written on it.
+Does this image primarily depict a fox?
+Is the fox wearing sneakers?
+Beyond the fox's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sneakers?
+
+Prompt: A drawing of skunk. There is a caption 'on the table' written on it.
+Does this image primarily depict a skunk?
+Is the skunk on the table?
+Beyond the skunk's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the table?
+
+Prompt: A painting of chef. There is a text 'below the grass' written on it.
+Does this image primarily depict a chef?
+Is the chef below the grass?
+Beyond the chef's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A drawing of mouse. There is a word 'on the grass' written on it.
+Does this image primarily depict a mouse?
+Is the mouse on the grass?
+Beyond the mouse's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the grass?
+
+Prompt: A photo of boy. There is a text 'wearing watch' written on it.
+Does this image primarily depict a boy?
+Is the boy wearing watch?
+Beyond the boy's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A painting of baby. There is a text 'wearing boots' written on it.
+Does this image primarily depict a baby?
+Is the baby wearing boots?
+Beyond the baby's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing boots?
+
+Prompt: A sketch of athlete. There is a label 'below the rock' written on it.
+Does this image primarily depict a thlete?
+Is the thlete below the rock?
+Beyond the thlete's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the rock?
+
+Prompt: A photo of beetle. There is a caption 'on the shelf' written on it.
+Does this image primarily depict a beetle?
+Is the beetle on the shelf?
+Beyond the beetle's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the shelf?
+
+Prompt: A drawing of flatfish. There is a text 'below the grass' written on it.
+Does this image primarily depict a flatfish?
+Is the flatfish below the grass?
+Beyond the flatfish's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A photo of athlete. There is a label 'wearing hoodie' written on it.
+Does this image primarily depict a thlete?
+Is the thlete wearing hoodie?
+Beyond the thlete's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A photo of whale. There is a label 'on the bench' written on it.
+Does this image primarily depict a whale?
+Is the whale on the bench?
+Beyond the whale's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the bench?
+
+Prompt: A sketch of caterpillar. There is a word 'wearing baseball cap' written on it.
+Does this image primarily depict a caterpillar?
+Is the caterpillar wearing baseball cap?
+Beyond the caterpillar's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A photo of cockroach. There is a text 'wearing hoodie' written on it.
+Does this image primarily depict a cockroach?
+Is the cockroach wearing hoodie?
+Beyond the cockroach's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A sketch of girl. There is a text 'wearing hoodie' written on it.
+Does this image primarily depict a girl?
+Is the girl wearing hoodie?
+Beyond the girl's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A photo of beaver. There is a label 'wearing jackets' written on it.
+Does this image primarily depict a beaver?
+Is the beaver wearing jackets?
+Beyond the beaver's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing jackets?
+
+Prompt: A drawing of aquarium fish. There is a text 'wearing hat' written on it.
+Does this image primarily depict a quarium fish?
+Is the quarium fish wearing hat?
+Beyond the quarium fish's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A sketch of soldier. There is a word 'wearing baseball cap' written on it.
+Does this image primarily depict a soldier?
+Is the soldier wearing baseball cap?
+Beyond the soldier's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A drawing of woman. There is a text 'wearing hat' written on it.
+Does this image primarily depict a woman?
+Is the woman wearing hat?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A sketch of leopard. There is a label 'next to the trash can' written on it.
+Does this image primarily depict a leopard?
+Is the leopard next to the trash can?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the trash can?
+
+Prompt: A sketch of snail. There is a word 'below the floor' written on it.
+Does this image primarily depict a snail?
+Is the snail below the floor?
+Beyond the snail's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the floor?
+
+Prompt: A photo of boy. There is a word 'next to the house' written on it.
+Does this image primarily depict a boy?
+Is the boy next to the house?
+Beyond the boy's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the house?
+
+Prompt: A sketch of firefighter. There is a text 'on the table' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter on the table?
+Beyond the firefighter's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the table?
+
+Prompt: A drawing of kangaroo. There is a word 'on the table' written on it.
+Does this image primarily depict a kangaroo?
+Is the kangaroo on the table?
+Beyond the kangaroo's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the table?
+
+Prompt: A sketch of worm. There is a text 'wearing necklace' written on it.
+Does this image primarily depict a worm?
+Is the worm wearing necklace?
+Beyond the worm's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing necklace?
+
+Prompt: A drawing of wolf. There is a label 'below the ground' written on it.
+Does this image primarily depict a wolf?
+Is the wolf below the ground?
+Beyond the wolf's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the ground?
+
+Prompt: A drawing of trout. There is a text 'below the sand' written on it.
+Does this image primarily depict a trout?
+Is the trout below the sand?
+Beyond the trout's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+
+Prompt: A drawing of police. There is a caption 'wearing jackets' written on it.
+Does this image primarily depict a police?
+Is the police wearing jackets?
+Beyond the police's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing jackets?
+
+Prompt: A drawing of crocodile. There is a caption 'below the table' written on it.
+Does this image primarily depict a crocodile?
+Is the crocodile below the table?
+Beyond the crocodile's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the table?
+
+Prompt: A drawing of leopard. There is a word 'below the grass' written on it.
+Does this image primarily depict a leopard?
+Is the leopard below the grass?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the grass?
+
+Prompt: A sketch of rabbit. There is a text 'next to the trash can' written on it.
+Does this image primarily depict a rabbit?
+Is the rabbit next to the trash can?
+Beyond the rabbit's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the trash can?
+
+Prompt: A drawing of woman. There is a word 'on the sand' written on it.
+Does this image primarily depict a woman?
+Is the woman on the sand?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the sand?
+
+Prompt: A painting of kangaroo. There is a text 'wearing baseball cap' written on it.
+Does this image primarily depict a kangaroo?
+Is the kangaroo wearing baseball cap?
+Beyond the kangaroo's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A photo of leopard. There is a text 'on the rock' written on it.
+Does this image primarily depict a leopard?
+Is the leopard on the rock?
+Beyond the leopard's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the rock?
+
+Prompt: A painting of woman. There is a text 'below the table' written on it.
+Does this image primarily depict a woman?
+Is the woman below the table?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the table?
+
+Prompt: A sketch of kangaroo. There is a word 'on the snow' written on it.
+Does this image primarily depict a kangaroo?
+Is the kangaroo on the snow?
+Beyond the kangaroo's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the snow?
+
+Prompt: A photo of snake. There is a word 'on the couch' written on it.
+Does this image primarily depict a snake?
+Is the snake on the couch?
+Beyond the snake's direct placement, does the broader environment of the scene seem to visually incorporate elements of on the couch?
+
+Prompt: A painting of wolf. There is a word 'wearing hat' written on it.
+Does this image primarily depict a wolf?
+Is the wolf wearing hat?
+Beyond the wolf's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hat?
+
+Prompt: A sketch of snake. There is a label 'next to the trash can' written on it.
+Does this image primarily depict a snake?
+Is the snake next to the trash can?
+Beyond the snake's direct placement, does the broader environment of the scene seem to visually incorporate elements of next to the trash can?
+
+Prompt: A photo of girl. There is a caption 'wearing sunglasses' written on it.
+Does this image primarily depict a girl?
+Is the girl wearing sunglasses?
+Beyond the girl's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing sunglasses?
+
+Prompt: A sketch of bee. There is a caption 'wearing watch' written on it.
+Does this image primarily depict a bee?
+Is the bee wearing watch?
+Beyond the bee's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing watch?
+
+Prompt: A sketch of dinosaur. There is a word 'wearing hoodie' written on it.
+Does this image primarily depict a dinosaur?
+Is the dinosaur wearing hoodie?
+Beyond the dinosaur's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing hoodie?
+
+Prompt: A photo of woman. There is a text 'wearing baseball cap' written on it.
+Does this image primarily depict a woman?
+Is the woman wearing baseball cap?
+Beyond the woman's direct placement, does the broader environment of the scene seem to visually incorporate elements of wearing baseball cap?
+
+Prompt: A sketch of seal. There is a text 'below the sand' written on it.
+Does this image primarily depict a seal?
+Is the seal below the sand?
+Beyond the seal's direct placement, does the broader environment of the scene seem to visually incorporate elements of below the sand?
+

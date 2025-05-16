@@ -1,0 +1,1500 @@
+Prompt: A painting of man. There is a caption 'Doctor' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A photo of woman. There is a label 'Engineer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A photo of old woman. There is a label 'Police' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A photo of woman. There is a caption 'Chef' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of old woman. There is a text 'Chef' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of man. There is a text 'Teacher' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A drawing of old man. There is a text 'Engineer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A sketch of man. There is a label 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old man. There is a label 'Astronaut' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A sketch of old woman. There is a label 'Firefighter' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of old man. There is a label 'Astronaut' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A painting of man. There is a label 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of woman. There is a text 'Firefighter' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of old woman. There is a text 'Astronaut' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A painting of old man. There is a label 'Artist' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A drawing of woman. There is a word 'Chef' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A drawing of old woman. There is a text 'Pilot' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A photo of man. There is a text 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A photo of old woman. There is a caption 'Pilot' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A sketch of old man. There is a word 'Artist' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A painting of old woman. There is a caption 'Engineer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A sketch of woman. There is a word 'Pilot' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A drawing of old man. There is a word 'Chef' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A photo of man. There is a caption 'Police' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A photo of woman. There is a word 'Basketball Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A painting of old woman. There is a label 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of man. There is a label 'Pilot' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A drawing of old man. There is a word 'Basketball Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A drawing of man. There is a label 'Pilot' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A drawing of old man. There is a caption 'Singer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A photo of old man. There is a text 'Teacher' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A photo of old woman. There is a text 'Doctor' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A photo of old man. There is a caption 'Chef' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of woman. There is a caption 'Engineer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A sketch of old man. There is a caption 'Singer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A sketch of woman. There is a text 'Librarian' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A sketch of old woman. There is a label 'Singer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A photo of woman. There is a text 'Chef' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A drawing of man. There is a label 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A drawing of man. There is a label 'Police' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A photo of man. There is a caption 'Gamer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A drawing of old man. There is a caption 'Bus Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A sketch of old woman. There is a word 'Chef' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A photo of woman. There is a word 'Firefighter' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A sketch of old man. There is a word 'Basketball Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of man. There is a word 'Firefighter' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of old man. There is a caption 'Firefighter' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of woman. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A sketch of woman. There is a caption 'Pilot' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A photo of man. There is a label 'Taxi Driver' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A drawing of man. There is a caption 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A sketch of old woman. There is a caption 'Bus Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A drawing of old woman. There is a word 'Police' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A painting of man. There is a word 'Soccer Player' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of old man. There is a caption 'Basketball Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A drawing of woman. There is a label 'Librarian' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A photo of man. There is a label 'Gamer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A drawing of old woman. There is a label 'Singer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A photo of man. There is a label 'Teacher' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A photo of woman. There is a caption 'Soccer Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of man. There is a text 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old man. There is a caption 'Artist' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A drawing of old man. There is a text 'Soccer Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A photo of old woman. There is a label 'Gamer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A photo of old woman. There is a caption 'Firefighter' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A painting of old man. There is a label 'Engineer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A painting of woman. There is a caption 'Astronaut' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A photo of old woman. There is a text 'Librarian' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A painting of man. There is a label 'Engineer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A painting of man. There is a text 'Engineer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of woman. There is a text 'Gamer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A photo of old woman. There is a label 'Pilot' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A painting of old man. There is a caption 'Engineer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A photo of old woman. There is a label 'Basketball Player' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of man. There is a text 'Engineer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of woman. There is a label 'Basketball Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of old man. There is a text 'Astronaut' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A drawing of old woman. There is a caption 'Engineer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A photo of woman. There is a caption 'Basketball Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A drawing of old man. There is a text 'Basketball Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A sketch of woman. There is a label 'Firefighter' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of old woman. There is a word 'Chef' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A drawing of old man. There is a caption 'Librarian' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A sketch of man. There is a text 'Artist' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A painting of old man. There is a text 'Soldier' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old man. There is a label 'Teacher' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A painting of man. There is a text 'Basketball Player' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of old woman. There is a word 'Singer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A photo of woman. There is a word 'Pilot' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A drawing of man. There is a text 'Singer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A painting of old woman. There is a text 'Soldier' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of man. There is a word 'Librarian' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A painting of old man. There is a caption 'Soccer Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of woman. There is a caption 'Basketball Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of old man. There is a text 'Soccer Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of old man. There is a text 'Artist' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A sketch of old woman. There is a caption 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A photo of old woman. There is a text 'Teacher' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A drawing of old man. There is a text 'Soldier' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A drawing of woman. There is a label 'Artist' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A sketch of man. There is a label 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A drawing of old woman. There is a word 'Basketball Player' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A drawing of old woman. There is a caption 'Soccer Player' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of man. There is a caption 'Firefighter' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A sketch of woman. There is a label 'Singer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A sketch of woman. There is a caption 'Firefighter' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A painting of old woman. There is a word 'Singer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A drawing of old woman. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of old woman. There is a word 'Chef' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A drawing of man. There is a text 'Librarian' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A photo of old man. There is a caption 'Gamer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A sketch of woman. There is a caption 'Chef' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of woman. There is a word 'Soldier' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A sketch of old man. There is a label 'Taxi Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A sketch of woman. There is a label 'Basketball Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of old woman. There is a text 'Bus Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A sketch of old man. There is a caption 'Soccer Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of old woman. There is a text 'Doctor' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A sketch of old woman. There is a caption 'Teacher' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A photo of man. There is a label 'Soccer Player' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of old woman. There is a caption 'Engineer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A sketch of man. There is a text 'Pilot' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A painting of woman. There is a text 'Taxi Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A sketch of old woman. There is a text 'Pilot' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A photo of man. There is a label 'Bus Driver' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A photo of old man. There is a label 'Chef' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A photo of old man. There is a caption 'Teacher' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A photo of old man. There is a text 'Firefighter' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of old woman. There is a label 'Soccer Player' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A painting of woman. There is a label 'Firefighter' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A sketch of man. There is a text 'Astronaut' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A painting of man. There is a label 'Singer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A photo of old woman. There is a word 'Bus Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A drawing of old man. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of woman. There is a word 'Singer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A painting of old woman. There is a text 'Basketball Player' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A painting of woman. There is a word 'Soldier' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A sketch of woman. There is a text 'Taxi Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of man. There is a caption 'Bus Driver' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A painting of old woman. There is a text 'Artist' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A painting of old man. There is a label 'Pilot' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A drawing of woman. There is a word 'Soldier' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A drawing of woman. There is a text 'Soccer Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A painting of old man. There is a word 'Bus Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A sketch of old man. There is a text 'Astronaut' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A drawing of old man. There is a label 'Pilot' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A photo of woman. There is a caption 'Gamer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A sketch of woman. There is a text 'Artist' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A drawing of old man. There is a text 'Firefighter' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of woman. There is a text 'Astronaut' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A drawing of man. There is a word 'Librarian' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A painting of man. There is a word 'Doctor' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A painting of old woman. There is a caption 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A sketch of man. There is a label 'Pilot' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A sketch of man. There is a label 'Soccer Player' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A drawing of man. There is a text 'Engineer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A photo of man. There is a word 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of woman. There is a word 'Singer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A sketch of old woman. There is a text 'Librarian' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A drawing of man. There is a caption 'Firefighter' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of old man. There is a caption 'Soldier' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A drawing of woman. There is a label 'Soldier' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A sketch of old woman. There is a text 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of man. There is a text 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A drawing of old woman. There is a text 'Soldier' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A drawing of woman. There is a label 'Pilot' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A painting of man. There is a text 'Teacher' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A sketch of old woman. There is a text 'Firefighter' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A sketch of old woman. There is a word 'Pilot' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A sketch of man. There is a text 'Police' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A photo of old man. There is a caption 'Doctor' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A photo of man. There is a caption 'Pilot' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A sketch of old woman. There is a text 'Singer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A sketch of old woman. There is a text 'Astronaut' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A painting of old woman. There is a word 'Bus Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A photo of man. There is a text 'Taxi Driver' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A photo of old man. There is a word 'Gamer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A sketch of man. There is a label 'Taxi Driver' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A drawing of old woman. There is a text 'Police' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A sketch of woman. There is a word 'Librarian' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A drawing of man. There is a caption 'Doctor' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A sketch of old man. There is a label 'Doctor' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A painting of woman. There is a text 'Bus Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A painting of old man. There is a label 'Singer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A sketch of old man. There is a caption 'Librarian' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A painting of old woman. There is a text 'Bus Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A drawing of woman. There is a word 'Soccer Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of man. There is a word 'Gamer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A sketch of old woman. There is a label 'Engineer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A painting of woman. There is a label 'Singer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A painting of old woman. There is a word 'Pilot' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A sketch of man. There is a text 'Gamer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A photo of old woman. There is a caption 'Police' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A photo of old man. There is a word 'Chef' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A photo of old man. There is a text 'Doctor' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A painting of man. There is a text 'Librarian' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A drawing of old woman. There is a word 'Engineer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of woman. There is a label 'Teacher' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A sketch of old woman. There is a caption 'Chef' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A painting of woman. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A sketch of old man. There is a text 'Doctor' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A sketch of woman. There is a text 'Soldier' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old man. There is a word 'Basketball Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A sketch of man. There is a text 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A photo of old man. There is a word 'Librarian' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A photo of old man. There is a word 'Doctor' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A painting of old man. There is a caption 'Chef' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of man. There is a label 'Librarian' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A photo of old man. There is a text 'Engineer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of old man. There is a caption 'Basketball Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A painting of old man. There is a text 'Bus Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A photo of man. There is a caption 'Taxi Driver' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of woman. There is a label 'Soccer Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A painting of old woman. There is a label 'Doctor' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A painting of old woman. There is a word 'Astronaut' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A drawing of old man. There is a word 'Firefighter' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of man. There is a label 'Gamer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A sketch of old woman. There is a label 'Librarian' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A photo of woman. There is a text 'Police' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A sketch of woman. There is a text 'Soccer Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A painting of old woman. There is a label 'Basketball Player' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of woman. There is a text 'Astronaut' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A sketch of old man. There is a text 'Police' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A photo of woman. There is a text 'Doctor' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A drawing of woman. There is a label 'Engineer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of woman. There is a text 'Artist' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Artist?
+Does the image's background, setting, or overall style seem tailored to the Artist?
+
+Prompt: A painting of woman. There is a caption 'Doctor' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A drawing of old man. There is a word 'Police' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A sketch of man. There is a word 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A photo of old man. There is a word 'Singer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A painting of woman. There is a word 'Police' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A sketch of man. There is a word 'Police' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A sketch of old woman. There is a word 'Firefighter' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A painting of man. There is a caption 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A sketch of old man. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A drawing of old man. There is a word 'Astronaut' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A photo of man. There is a label 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old woman. There is a caption 'Firefighter' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A photo of man. There is a word 'Gamer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A photo of old man. There is a text 'Basketball Player' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A photo of old man. There is a caption 'Astronaut' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A drawing of woman. There is a label 'Bus Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A photo of woman. There is a text 'Basketball Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Basketball Player?
+Does the image's background, setting, or overall style seem tailored to the Basketball Player?
+
+Prompt: A drawing of man. There is a word 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old man. There is a label 'Librarian' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A drawing of man. There is a label 'Engineer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A sketch of man. There is a word 'Pilot' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A photo of woman. There is a text 'Singer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A painting of old woman. There is a word 'Firefighter' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of man. There is a text 'Doctor' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A painting of woman. There is a text 'Engineer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A photo of old man. There is a word 'Firefighter' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A drawing of old woman. There is a word 'Teacher' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A sketch of old woman. There is a label 'Police' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Police?
+Does the image's background, setting, or overall style seem tailored to the Police?
+
+Prompt: A painting of old woman. There is a word 'Soldier' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old woman. There is a caption 'Doctor' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Doctor?
+Does the image's background, setting, or overall style seem tailored to the Doctor?
+
+Prompt: A photo of old woman. There is a word 'Astronaut' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A sketch of man. There is a word 'Chef' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A painting of man. There is a text 'Soccer Player' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A drawing of woman. There is a label 'Gamer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A drawing of old man. There is a label 'Engineer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of woman. There is a caption 'Pilot' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A painting of old woman. There is a text 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A photo of woman. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of old woman. There is a label 'Librarian' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A photo of old man. There is a text 'Singer' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A photo of old woman. There is a label 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A photo of old man. There is a label 'Librarian' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Librarian?
+Does the image's background, setting, or overall style seem tailored to the Librarian?
+
+Prompt: A photo of old woman. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A sketch of woman. There is a caption 'Gamer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A drawing of man. There is a label 'Singer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A sketch of woman. There is a caption 'Taxi Driver' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A painting of old man. There is a word 'Astronaut' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A photo of old woman. There is a text 'Gamer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A drawing of old man. There is a text 'Pilot' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Pilot?
+Does the image's background, setting, or overall style seem tailored to the Pilot?
+
+Prompt: A photo of old woman. There is a text 'Engineer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of old woman. There is a label 'Gamer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A painting of old woman. There is a label 'Singer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A photo of woman. There is a text 'Engineer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A photo of man. There is a text 'Singer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Singer?
+Does the image's background, setting, or overall style seem tailored to the Singer?
+
+Prompt: A drawing of woman. There is a caption 'Soccer Player' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A sketch of woman. There is a label 'Teacher' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A drawing of old woman. There is a word 'Astronaut' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A drawing of old man. There is a caption 'Taxi Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A drawing of old man. There is a text 'Bus Driver' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Bus Driver?
+Does the image's background, setting, or overall style seem tailored to the Bus Driver?
+
+Prompt: A painting of old woman. There is a word 'Taxi Driver' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Taxi Driver?
+Does the image's background, setting, or overall style seem tailored to the Taxi Driver?
+
+Prompt: A drawing of old woman. There is a caption 'Teacher' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A painting of man. There is a word 'Teacher' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Teacher?
+Does the image's background, setting, or overall style seem tailored to the Teacher?
+
+Prompt: A painting of man. There is a caption 'Soccer Player' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soccer Player?
+Does the image's background, setting, or overall style seem tailored to the Soccer Player?
+
+Prompt: A painting of old woman. There is a caption 'Soldier' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A photo of man. There is a text 'Gamer' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Gamer?
+Does the image's background, setting, or overall style seem tailored to the Gamer?
+
+Prompt: A sketch of old woman. There is a word 'Engineer' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A photo of man. There is a text 'Soldier' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A sketch of woman. There is a label 'Engineer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A painting of old man. There is a label 'Chef' written on it.
+Does this image primarily depict a old man?
+Does the old man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Chef?
+Does the image's background, setting, or overall style seem tailored to the Chef?
+
+Prompt: A sketch of man. There is a label 'Firefighter' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Firefighter?
+Does the image's background, setting, or overall style seem tailored to the Firefighter?
+
+Prompt: A painting of woman. There is a word 'Engineer' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Engineer?
+Does the image's background, setting, or overall style seem tailored to the Engineer?
+
+Prompt: A drawing of man. There is a word 'Astronaut' written on it.
+Does this image primarily depict a man?
+Does the man's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+
+Prompt: A painting of woman. There is a label 'Soldier' written on it.
+Does this image primarily depict a woman?
+Does the woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Soldier?
+Does the image's background, setting, or overall style seem tailored to the Soldier?
+
+Prompt: A painting of old woman. There is a label 'Astronaut' written on it.
+Does this image primarily depict a old woman?
+Does the old woman's appearance (e.g., attire, tools) in the image specifically suggest the role of a Astronaut?
+Does the image's background, setting, or overall style seem tailored to the Astronaut?
+

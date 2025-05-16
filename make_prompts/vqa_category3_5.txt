@@ -1,0 +1,1500 @@
+Prompt: A photo of worm. There is a label 'sea' written on it.
+Does this image primarily depict a worm?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of teacher. There is a caption 'office' written on it.
+Does this image primarily depict a teacher?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of kangaroo. There is a label 'castle' written on it.
+Does this image primarily depict a kangaroo?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of firefighter. There is a label 'plain' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of chimpanzee. There is a label 'plain' written on it.
+Does this image primarily depict a chimpanzee?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of bear. There is a caption 'skyscraper' written on it.
+Does this image primarily depict a bear?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of crocodile. There is a label 'mountain' written on it.
+Does this image primarily depict a crocodile?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of whale. There is a text 'mountain' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of police. There is a text 'forest' written on it.
+Does this image primarily depict a police?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of trout. There is a label 'bridge' written on it.
+Does this image primarily depict a trout?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of spider. There is a label 'house' written on it.
+Does this image primarily depict a spider?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of firefighter. There is a word 'road' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of elephant. There is a text 'plain' written on it.
+Does this image primarily depict a elephant?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of skunk. There is a label 'plain' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of mouse. There is a label 'plain' written on it.
+Does this image primarily depict a mouse?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of whale. There is a word 'house' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of bee. There is a caption 'bridge' written on it.
+Does this image primarily depict a bee?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of lobster. There is a text 'river' written on it.
+Does this image primarily depict a lobster?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of cattle. There is a caption 'office' written on it.
+Does this image primarily depict a cattle?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of leopard. There is a caption 'castle' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of crab. There is a caption 'bridge' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of turtle. There is a caption 'cloud' written on it.
+Does this image primarily depict a turtle?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of whale. There is a word 'forest' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of beaver. There is a text 'river' written on it.
+Does this image primarily depict a beaver?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of shrew. There is a word 'river' written on it.
+Does this image primarily depict a shrew?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of seal. There is a caption 'mountain' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of worm. There is a text 'skyscraper' written on it.
+Does this image primarily depict a worm?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of bee. There is a word 'plain' written on it.
+Does this image primarily depict a bee?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of firefighter. There is a word 'cloud' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of possum. There is a caption 'mountain' written on it.
+Does this image primarily depict a possum?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of beetle. There is a label 'castle' written on it.
+Does this image primarily depict a beetle?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of chimpanzee. There is a text 'cloud' written on it.
+Does this image primarily depict a chimpanzee?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of dinosaur. There is a text 'river' written on it.
+Does this image primarily depict a dinosaur?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of aquarium fish. There is a label 'castle' written on it.
+Does this image primarily depict a quarium fish?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of baby. There is a word 'office' written on it.
+Does this image primarily depict a baby?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of wolf. There is a caption 'forest' written on it.
+Does this image primarily depict a wolf?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of athlete. There is a caption 'bridge' written on it.
+Does this image primarily depict a thlete?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of fox. There is a label 'bridge' written on it.
+Does this image primarily depict a fox?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of chef. There is a label 'bridge' written on it.
+Does this image primarily depict a chef?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of man. There is a caption 'plain' written on it.
+Does this image primarily depict a man?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of spider. There is a label 'house' written on it.
+Does this image primarily depict a spider?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of teacher. There is a caption 'river' written on it.
+Does this image primarily depict a teacher?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of seal. There is a caption 'road' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of cattle. There is a caption 'office' written on it.
+Does this image primarily depict a cattle?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of butterfly. There is a text 'river' written on it.
+Does this image primarily depict a butterfly?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of squirrel. There is a word 'road' written on it.
+Does this image primarily depict a squirrel?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of otter. There is a label 'plain' written on it.
+Does this image primarily depict a otter?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of boy. There is a text 'skyscraper' written on it.
+Does this image primarily depict a boy?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of baby. There is a caption 'forest' written on it.
+Does this image primarily depict a baby?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of woman. There is a caption 'cloud' written on it.
+Does this image primarily depict a woman?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of wolf. There is a label 'plain' written on it.
+Does this image primarily depict a wolf?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of beaver. There is a word 'road' written on it.
+Does this image primarily depict a beaver?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of otter. There is a word 'house' written on it.
+Does this image primarily depict a otter?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of police. There is a caption 'forest' written on it.
+Does this image primarily depict a police?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of cockroach. There is a text 'castle' written on it.
+Does this image primarily depict a cockroach?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of crab. There is a label 'river' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of butterfly. There is a label 'office' written on it.
+Does this image primarily depict a butterfly?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of otter. There is a label 'plain' written on it.
+Does this image primarily depict a otter?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of teacher. There is a word 'castle' written on it.
+Does this image primarily depict a teacher?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of leopard. There is a text 'plain' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of snake. There is a word 'road' written on it.
+Does this image primarily depict a snake?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of raccoon. There is a label 'road' written on it.
+Does this image primarily depict a raccoon?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of crocodile. There is a label 'plain' written on it.
+Does this image primarily depict a crocodile?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of tiger. There is a word 'house' written on it.
+Does this image primarily depict a tiger?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of squirrel. There is a word 'cloud' written on it.
+Does this image primarily depict a squirrel?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of baby. There is a word 'castle' written on it.
+Does this image primarily depict a baby?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of aquarium fish. There is a word 'castle' written on it.
+Does this image primarily depict a quarium fish?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of taxi-driver. There is a caption 'sea' written on it.
+Does this image primarily depict a taxi-driver?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of kangaroo. There is a label 'office' written on it.
+Does this image primarily depict a kangaroo?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of man. There is a text 'cloud' written on it.
+Does this image primarily depict a man?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of man. There is a caption 'road' written on it.
+Does this image primarily depict a man?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of woman. There is a caption 'skyscraper' written on it.
+Does this image primarily depict a woman?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of butterfly. There is a caption 'forest' written on it.
+Does this image primarily depict a butterfly?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of porcupine. There is a label 'forest' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of seal. There is a text 'plain' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of seal. There is a caption 'castle' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of leopard. There is a text 'bridge' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of leopard. There is a label 'skyscraper' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of cattle. There is a label 'plain' written on it.
+Does this image primarily depict a cattle?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of trout. There is a caption 'forest' written on it.
+Does this image primarily depict a trout?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of aquarium fish. There is a text 'mountain' written on it.
+Does this image primarily depict a quarium fish?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of porcupine. There is a text 'river' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of skunk. There is a text 'forest' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of chef. There is a text 'forest' written on it.
+Does this image primarily depict a chef?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of aquarium fish. There is a text 'skyscraper' written on it.
+Does this image primarily depict a quarium fish?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of beaver. There is a text 'river' written on it.
+Does this image primarily depict a beaver?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of seal. There is a word 'cloud' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of hamster. There is a word 'sea' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of shark. There is a label 'mountain' written on it.
+Does this image primarily depict a shark?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of worm. There is a caption 'house' written on it.
+Does this image primarily depict a worm?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of chef. There is a label 'forest' written on it.
+Does this image primarily depict a chef?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of hamster. There is a label 'bridge' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of teacher. There is a word 'cloud' written on it.
+Does this image primarily depict a teacher?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of squirrel. There is a text 'cloud' written on it.
+Does this image primarily depict a squirrel?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of crab. There is a caption 'plain' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of dinosaur. There is a text 'road' written on it.
+Does this image primarily depict a dinosaur?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of otter. There is a caption 'mountain' written on it.
+Does this image primarily depict a otter?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of boy. There is a word 'mountain' written on it.
+Does this image primarily depict a boy?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of snake. There is a word 'river' written on it.
+Does this image primarily depict a snake?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of student. There is a text 'office' written on it.
+Does this image primarily depict a student?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of rabbit. There is a word 'cloud' written on it.
+Does this image primarily depict a rabbit?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of taxi-driver. There is a caption 'house' written on it.
+Does this image primarily depict a taxi-driver?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of turtle. There is a text 'plain' written on it.
+Does this image primarily depict a turtle?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of skunk. There is a label 'plain' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of whale. There is a text 'forest' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of raccoon. There is a text 'road' written on it.
+Does this image primarily depict a raccoon?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of boy. There is a text 'forest' written on it.
+Does this image primarily depict a boy?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of kangaroo. There is a caption 'sea' written on it.
+Does this image primarily depict a kangaroo?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of fox. There is a label 'castle' written on it.
+Does this image primarily depict a fox?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of cockroach. There is a text 'skyscraper' written on it.
+Does this image primarily depict a cockroach?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of squirrel. There is a word 'skyscraper' written on it.
+Does this image primarily depict a squirrel?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of girl. There is a text 'office' written on it.
+Does this image primarily depict a girl?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of camel. There is a label 'road' written on it.
+Does this image primarily depict a camel?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of cockroach. There is a text 'forest' written on it.
+Does this image primarily depict a cockroach?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of skunk. There is a text 'forest' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of skunk. There is a text 'castle' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of lobster. There is a word 'sea' written on it.
+Does this image primarily depict a lobster?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of caterpillar. There is a caption 'river' written on it.
+Does this image primarily depict a caterpillar?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of porcupine. There is a caption 'skyscraper' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of chimpanzee. There is a word 'cloud' written on it.
+Does this image primarily depict a chimpanzee?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of beaver. There is a text 'castle' written on it.
+Does this image primarily depict a beaver?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of bear. There is a word 'house' written on it.
+Does this image primarily depict a bear?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of lizard. There is a word 'office' written on it.
+Does this image primarily depict a lizard?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of aquarium fish. There is a label 'road' written on it.
+Does this image primarily depict a quarium fish?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of turtle. There is a label 'plain' written on it.
+Does this image primarily depict a turtle?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of snake. There is a caption 'plain' written on it.
+Does this image primarily depict a snake?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of girl. There is a label 'plain' written on it.
+Does this image primarily depict a girl?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of leopard. There is a label 'castle' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of tiger. There is a word 'castle' written on it.
+Does this image primarily depict a tiger?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of raccoon. There is a caption 'office' written on it.
+Does this image primarily depict a raccoon?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of dinosaur. There is a label 'castle' written on it.
+Does this image primarily depict a dinosaur?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of snake. There is a caption 'office' written on it.
+Does this image primarily depict a snake?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of chimpanzee. There is a label 'plain' written on it.
+Does this image primarily depict a chimpanzee?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of teacher. There is a word 'house' written on it.
+Does this image primarily depict a teacher?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of porcupine. There is a word 'office' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of squirrel. There is a word 'mountain' written on it.
+Does this image primarily depict a squirrel?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of seal. There is a word 'plain' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of possum. There is a word 'plain' written on it.
+Does this image primarily depict a possum?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of woman. There is a word 'office' written on it.
+Does this image primarily depict a woman?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of whale. There is a caption 'bridge' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of teacher. There is a label 'mountain' written on it.
+Does this image primarily depict a teacher?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of lobster. There is a word 'mountain' written on it.
+Does this image primarily depict a lobster?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of caterpillar. There is a label 'castle' written on it.
+Does this image primarily depict a caterpillar?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of caterpillar. There is a word 'cloud' written on it.
+Does this image primarily depict a caterpillar?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of beetle. There is a word 'skyscraper' written on it.
+Does this image primarily depict a beetle?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of lion. There is a word 'cloud' written on it.
+Does this image primarily depict a lion?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of crocodile. There is a text 'castle' written on it.
+Does this image primarily depict a crocodile?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of tiger. There is a caption 'plain' written on it.
+Does this image primarily depict a tiger?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of tiger. There is a word 'cloud' written on it.
+Does this image primarily depict a tiger?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of skunk. There is a text 'river' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of hamster. There is a caption 'house' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of butterfly. There is a label 'skyscraper' written on it.
+Does this image primarily depict a butterfly?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of raccoon. There is a label 'castle' written on it.
+Does this image primarily depict a raccoon?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of soldier. There is a word 'cloud' written on it.
+Does this image primarily depict a soldier?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of ray. There is a word 'plain' written on it.
+Does this image primarily depict a ray?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of shark. There is a text 'castle' written on it.
+Does this image primarily depict a shark?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of seal. There is a word 'forest' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of worm. There is a label 'road' written on it.
+Does this image primarily depict a worm?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of dolphin. There is a text 'river' written on it.
+Does this image primarily depict a dolphin?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of crocodile. There is a label 'cloud' written on it.
+Does this image primarily depict a crocodile?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of hamster. There is a caption 'cloud' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of teacher. There is a caption 'house' written on it.
+Does this image primarily depict a teacher?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of leopard. There is a caption 'office' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of student. There is a text 'skyscraper' written on it.
+Does this image primarily depict a student?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of flatfish. There is a caption 'forest' written on it.
+Does this image primarily depict a flatfish?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of elephant. There is a text 'river' written on it.
+Does this image primarily depict a elephant?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of snail. There is a word 'plain' written on it.
+Does this image primarily depict a snail?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of police. There is a caption 'office' written on it.
+Does this image primarily depict a police?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of lizard. There is a label 'skyscraper' written on it.
+Does this image primarily depict a lizard?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of cattle. There is a text 'castle' written on it.
+Does this image primarily depict a cattle?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of wolf. There is a label 'river' written on it.
+Does this image primarily depict a wolf?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of mouse. There is a label 'castle' written on it.
+Does this image primarily depict a mouse?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of cockroach. There is a label 'bridge' written on it.
+Does this image primarily depict a cockroach?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of cockroach. There is a caption 'mountain' written on it.
+Does this image primarily depict a cockroach?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of leopard. There is a word 'castle' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of mouse. There is a text 'plain' written on it.
+Does this image primarily depict a mouse?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of shrew. There is a text 'house' written on it.
+Does this image primarily depict a shrew?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of elephant. There is a word 'skyscraper' written on it.
+Does this image primarily depict a elephant?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of boy. There is a text 'house' written on it.
+Does this image primarily depict a boy?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of tiger. There is a caption 'plain' written on it.
+Does this image primarily depict a tiger?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of shark. There is a text 'sea' written on it.
+Does this image primarily depict a shark?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of camel. There is a label 'plain' written on it.
+Does this image primarily depict a camel?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of spider. There is a caption 'castle' written on it.
+Does this image primarily depict a spider?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of lobster. There is a caption 'house' written on it.
+Does this image primarily depict a lobster?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of lizard. There is a word 'cloud' written on it.
+Does this image primarily depict a lizard?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of dolphin. There is a text 'castle' written on it.
+Does this image primarily depict a dolphin?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of skunk. There is a text 'skyscraper' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of chimpanzee. There is a word 'road' written on it.
+Does this image primarily depict a chimpanzee?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of worm. There is a word 'road' written on it.
+Does this image primarily depict a worm?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of lobster. There is a text 'house' written on it.
+Does this image primarily depict a lobster?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of seal. There is a text 'plain' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of ray. There is a caption 'forest' written on it.
+Does this image primarily depict a ray?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of beaver. There is a caption 'office' written on it.
+Does this image primarily depict a beaver?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of spider. There is a text 'skyscraper' written on it.
+Does this image primarily depict a spider?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of hamster. There is a label 'plain' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of bee. There is a caption 'mountain' written on it.
+Does this image primarily depict a bee?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of snail. There is a label 'road' written on it.
+Does this image primarily depict a snail?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of girl. There is a text 'cloud' written on it.
+Does this image primarily depict a girl?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of possum. There is a caption 'house' written on it.
+Does this image primarily depict a possum?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of elephant. There is a label 'sea' written on it.
+Does this image primarily depict a elephant?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of bear. There is a word 'bridge' written on it.
+Does this image primarily depict a bear?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of seal. There is a label 'house' written on it.
+Does this image primarily depict a seal?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of butterfly. There is a label 'house' written on it.
+Does this image primarily depict a butterfly?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of athlete. There is a label 'mountain' written on it.
+Does this image primarily depict a thlete?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of otter. There is a label 'forest' written on it.
+Does this image primarily depict a otter?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of dinosaur. There is a caption 'road' written on it.
+Does this image primarily depict a dinosaur?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of bear. There is a word 'sea' written on it.
+Does this image primarily depict a bear?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of elephant. There is a text 'skyscraper' written on it.
+Does this image primarily depict a elephant?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of crocodile. There is a label 'plain' written on it.
+Does this image primarily depict a crocodile?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of skunk. There is a text 'forest' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of soldier. There is a caption 'road' written on it.
+Does this image primarily depict a soldier?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of baby. There is a caption 'castle' written on it.
+Does this image primarily depict a baby?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of aquarium fish. There is a word 'cloud' written on it.
+Does this image primarily depict a quarium fish?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of snail. There is a text 'sea' written on it.
+Does this image primarily depict a snail?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of crab. There is a label 'plain' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of cockroach. There is a caption 'forest' written on it.
+Does this image primarily depict a cockroach?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of whale. There is a caption 'mountain' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of student. There is a label 'sea' written on it.
+Does this image primarily depict a student?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of chef. There is a word 'house' written on it.
+Does this image primarily depict a chef?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of whale. There is a word 'road' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of firefighter. There is a word 'skyscraper' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of worm. There is a word 'bridge' written on it.
+Does this image primarily depict a worm?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of firefighter. There is a label 'plain' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of elephant. There is a text 'cloud' written on it.
+Does this image primarily depict a elephant?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of camel. There is a word 'river' written on it.
+Does this image primarily depict a camel?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of soldier. There is a text 'skyscraper' written on it.
+Does this image primarily depict a soldier?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of firefighter. There is a word 'house' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of shark. There is a word 'bridge' written on it.
+Does this image primarily depict a shark?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of shark. There is a caption 'castle' written on it.
+Does this image primarily depict a shark?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of skunk. There is a text 'castle' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of firefighter. There is a word 'bridge' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of chef. There is a text 'castle' written on it.
+Does this image primarily depict a chef?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of caterpillar. There is a word 'cloud' written on it.
+Does this image primarily depict a caterpillar?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of porcupine. There is a text 'house' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of beaver. There is a label 'sea' written on it.
+Does this image primarily depict a beaver?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of bear. There is a text 'office' written on it.
+Does this image primarily depict a bear?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of boy. There is a label 'river' written on it.
+Does this image primarily depict a boy?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of flatfish. There is a caption 'road' written on it.
+Does this image primarily depict a flatfish?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of firefighter. There is a word 'plain' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of chef. There is a word 'river' written on it.
+Does this image primarily depict a chef?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of snail. There is a word 'sea' written on it.
+Does this image primarily depict a snail?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of hamster. There is a word 'house' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of leopard. There is a caption 'road' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of taxi-driver. There is a word 'skyscraper' written on it.
+Does this image primarily depict a taxi-driver?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of whale. There is a label 'castle' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of turtle. There is a text 'cloud' written on it.
+Does this image primarily depict a turtle?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of hamster. There is a text 'skyscraper' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a skyscraper?
+Is there a stylistic influence from the concept of a 'skyscraper' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of bear. There is a caption 'road' written on it.
+Does this image primarily depict a bear?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of shark. There is a text 'road' written on it.
+Does this image primarily depict a shark?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of ray. There is a word 'plain' written on it.
+Does this image primarily depict a ray?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of dolphin. There is a word 'castle' written on it.
+Does this image primarily depict a dolphin?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of worm. There is a text 'house' written on it.
+Does this image primarily depict a worm?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of skunk. There is a word 'river' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of girl. There is a word 'mountain' written on it.
+Does this image primarily depict a girl?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of rabbit. There is a label 'house' written on it.
+Does this image primarily depict a rabbit?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of baby. There is a word 'office' written on it.
+Does this image primarily depict a baby?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of rabbit. There is a word 'river' written on it.
+Does this image primarily depict a rabbit?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of lion. There is a label 'sea' written on it.
+Does this image primarily depict a lion?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of raccoon. There is a word 'forest' written on it.
+Does this image primarily depict a raccoon?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of ray. There is a word 'river' written on it.
+Does this image primarily depict a ray?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of porcupine. There is a label 'forest' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of dolphin. There is a text 'office' written on it.
+Does this image primarily depict a dolphin?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of police. There is a word 'river' written on it.
+Does this image primarily depict a police?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of student. There is a word 'office' written on it.
+Does this image primarily depict a student?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of girl. There is a label 'bridge' written on it.
+Does this image primarily depict a girl?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of trout. There is a text 'bridge' written on it.
+Does this image primarily depict a trout?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of otter. There is a caption 'road' written on it.
+Does this image primarily depict a otter?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of student. There is a caption 'mountain' written on it.
+Does this image primarily depict a student?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of porcupine. There is a word 'river' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of kangaroo. There is a word 'mountain' written on it.
+Does this image primarily depict a kangaroo?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of possum. There is a word 'sea' written on it.
+Does this image primarily depict a possum?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of skunk. There is a text 'cloud' written on it.
+Does this image primarily depict a skunk?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of crab. There is a text 'road' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of bear. There is a label 'bridge' written on it.
+Does this image primarily depict a bear?
+Does the image visually depict a bridge?
+Is there a stylistic influence from the concept of a 'bridge' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of lobster. There is a word 'sea' written on it.
+Does this image primarily depict a lobster?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of taxi-driver. There is a text 'castle' written on it.
+Does this image primarily depict a taxi-driver?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of otter. There is a label 'castle' written on it.
+Does this image primarily depict a otter?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of lobster. There is a text 'sea' written on it.
+Does this image primarily depict a lobster?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of whale. There is a word 'cloud' written on it.
+Does this image primarily depict a whale?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of hamster. There is a word 'sea' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of dolphin. There is a text 'river' written on it.
+Does this image primarily depict a dolphin?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of crab. There is a text 'office' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of squirrel. There is a label 'river' written on it.
+Does this image primarily depict a squirrel?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of lizard. There is a text 'house' written on it.
+Does this image primarily depict a lizard?
+Does the image visually depict a house?
+Is there a stylistic influence from the concept of a 'house' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of spider. There is a text 'mountain' written on it.
+Does this image primarily depict a spider?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of ray. There is a text 'office' written on it.
+Does this image primarily depict a ray?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of taxi-driver. There is a caption 'mountain' written on it.
+Does this image primarily depict a taxi-driver?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of hamster. There is a text 'mountain' written on it.
+Does this image primarily depict a hamster?
+Does the image visually depict a mountain?
+Is there a stylistic influence from the concept of a 'mountain' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of snake. There is a word 'sea' written on it.
+Does this image primarily depict a snake?
+Does the image visually depict a sea?
+Is there a stylistic influence from the concept of a 'sea' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of leopard. There is a label 'forest' written on it.
+Does this image primarily depict a leopard?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A drawing of rabbit. There is a caption 'river' written on it.
+Does this image primarily depict a rabbit?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of firefighter. There is a text 'castle' written on it.
+Does this image primarily depict a firefighter?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of cattle. There is a text 'forest' written on it.
+Does this image primarily depict a cattle?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of crab. There is a text 'office' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a office?
+Is there a stylistic influence from the concept of a 'office' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of turtle. There is a word 'river' written on it.
+Does this image primarily depict a turtle?
+Does the image visually depict a river?
+Is there a stylistic influence from the concept of a 'river' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of crab. There is a label 'plain' written on it.
+Does this image primarily depict a crab?
+Does the image visually depict a plain?
+Is there a stylistic influence from the concept of a 'plain' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of porcupine. There is a label 'road' written on it.
+Does this image primarily depict a porcupine?
+Does the image visually depict a road?
+Is there a stylistic influence from the concept of a 'road' on the overall image, beyond its direct depiction?
+
+Prompt: A painting of raccoon. There is a caption 'forest' written on it.
+Does this image primarily depict a raccoon?
+Does the image visually depict a forest?
+Is there a stylistic influence from the concept of a 'forest' on the overall image, beyond its direct depiction?
+
+Prompt: A sketch of raccoon. There is a text 'castle' written on it.
+Does this image primarily depict a raccoon?
+Does the image visually depict a castle?
+Is there a stylistic influence from the concept of a 'castle' on the overall image, beyond its direct depiction?
+
+Prompt: A photo of girl. There is a caption 'cloud' written on it.
+Does this image primarily depict a girl?
+Does the image visually depict a cloud?
+Is there a stylistic influence from the concept of a 'cloud' on the overall image, beyond its direct depiction?
+

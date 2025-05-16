@@ -1,0 +1,1500 @@
+Prompt: A photo of baby. There is a text 'lying' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the baby?
+
+Prompt: A drawing of girl. There is a label 'bored' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the girl?
+
+Prompt: A photo of athlete. There is a word 'running' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the thlete?
+
+Prompt: A photo of boy. There is a caption 'lying' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the boy?
+
+Prompt: A photo of teacher. There is a caption 'scared' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the teacher?
+
+Prompt: A sketch of man. There is a word 'nervous' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the man?
+
+Prompt: A painting of taxi-driver. There is a label 'sad' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the taxi-driver?
+
+Prompt: A drawing of soldier. There is a word 'working' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the soldier?
+
+Prompt: A painting of girl. There is a caption 'sad' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the girl?
+
+Prompt: A painting of boy. There is a label 'angry' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the boy?
+
+Prompt: A photo of firefighter. There is a text 'nervous' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the firefighter?
+
+Prompt: A painting of taxi-driver. There is a label 'scared' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the taxi-driver?
+
+Prompt: A sketch of teacher. There is a label 'angry' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the teacher?
+
+Prompt: A photo of teacher. There is a text 'bored' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the teacher?
+
+Prompt: A painting of athlete. There is a caption 'scared' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the thlete?
+
+Prompt: A photo of baby. There is a caption 'sad' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the baby?
+
+Prompt: A painting of boy. There is a caption 'sleeping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the boy?
+
+Prompt: A sketch of woman. There is a word 'bored' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the woman?
+
+Prompt: A painting of girl. There is a text 'working' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the girl?
+
+Prompt: A drawing of student. There is a text 'scared' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the student?
+
+Prompt: A photo of athlete. There is a caption 'excited' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the thlete?
+
+Prompt: A drawing of girl. There is a word 'angry' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the girl?
+
+Prompt: A painting of student. There is a caption 'bored' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the student?
+
+Prompt: A painting of taxi-driver. There is a label 'lying' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the taxi-driver?
+
+Prompt: A photo of taxi-driver. There is a text 'angry' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the taxi-driver?
+
+Prompt: A painting of boy. There is a caption 'nervous' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the boy?
+
+Prompt: A painting of man. There is a word 'angry' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the man?
+
+Prompt: A sketch of girl. There is a text 'standing' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the girl?
+
+Prompt: A drawing of soldier. There is a text 'scared' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the soldier?
+
+Prompt: A sketch of athlete. There is a word 'working' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the thlete?
+
+Prompt: A drawing of girl. There is a word 'sleeping' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the girl?
+
+Prompt: A photo of boy. There is a caption 'bored' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the boy?
+
+Prompt: A drawing of taxi-driver. There is a word 'nervous' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the taxi-driver?
+
+Prompt: A photo of police. There is a word 'nervous' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the police?
+
+Prompt: A sketch of teacher. There is a text 'excited' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the teacher?
+
+Prompt: A photo of student. There is a label 'bored' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the student?
+
+Prompt: A painting of taxi-driver. There is a text 'sleeping' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the taxi-driver?
+
+Prompt: A painting of police. There is a caption 'happy' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the police?
+
+Prompt: A photo of soldier. There is a text 'excited' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the soldier?
+
+Prompt: A drawing of teacher. There is a label 'bored' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the teacher?
+
+Prompt: A painting of student. There is a caption 'standing' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the student?
+
+Prompt: A painting of taxi-driver. There is a caption 'excited' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the taxi-driver?
+
+Prompt: A photo of athlete. There is a text 'happy' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the thlete?
+
+Prompt: A photo of boy. There is a text 'sad' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the boy?
+
+Prompt: A painting of man. There is a label 'lying' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the man?
+
+Prompt: A photo of boy. There is a word 'sleeping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the boy?
+
+Prompt: A drawing of girl. There is a word 'excited' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the girl?
+
+Prompt: A drawing of woman. There is a word 'lying' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the woman?
+
+Prompt: A drawing of soldier. There is a text 'angry' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the soldier?
+
+Prompt: A painting of chef. There is a word 'sleeping' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the chef?
+
+Prompt: A drawing of man. There is a label 'working' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the man?
+
+Prompt: A photo of athlete. There is a caption 'nervous' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the thlete?
+
+Prompt: A drawing of baby. There is a label 'scared' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the baby?
+
+Prompt: A photo of man. There is a label 'running' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the man?
+
+Prompt: A painting of boy. There is a caption 'jumping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the boy?
+
+Prompt: A sketch of man. There is a caption 'scared' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the man?
+
+Prompt: A sketch of man. There is a word 'sad' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the man?
+
+Prompt: A sketch of man. There is a label 'sleeping' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the man?
+
+Prompt: A sketch of firefighter. There is a word 'angry' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the firefighter?
+
+Prompt: A sketch of soldier. There is a label 'bored' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the soldier?
+
+Prompt: A photo of baby. There is a word 'scared' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the baby?
+
+Prompt: A painting of taxi-driver. There is a label 'lying' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the taxi-driver?
+
+Prompt: A drawing of man. There is a word 'standing' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the man?
+
+Prompt: A sketch of girl. There is a text 'happy' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the girl?
+
+Prompt: A drawing of boy. There is a word 'sad' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the boy?
+
+Prompt: A photo of baby. There is a label 'sleeping' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the baby?
+
+Prompt: A drawing of girl. There is a word 'happy' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the girl?
+
+Prompt: A sketch of man. There is a word 'running' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the man?
+
+Prompt: A drawing of police. There is a label 'angry' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the police?
+
+Prompt: A painting of taxi-driver. There is a word 'jumping' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the taxi-driver?
+
+Prompt: A sketch of soldier. There is a word 'standing' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the soldier?
+
+Prompt: A drawing of woman. There is a caption 'running' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the woman?
+
+Prompt: A photo of soldier. There is a text 'running' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the soldier?
+
+Prompt: A photo of athlete. There is a word 'excited' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the thlete?
+
+Prompt: A drawing of baby. There is a label 'standing' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the baby?
+
+Prompt: A photo of athlete. There is a label 'bored' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the thlete?
+
+Prompt: A drawing of police. There is a label 'nervous' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the police?
+
+Prompt: A drawing of athlete. There is a label 'nervous' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the thlete?
+
+Prompt: A photo of police. There is a text 'jumping' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the police?
+
+Prompt: A drawing of student. There is a text 'lying' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the student?
+
+Prompt: A painting of police. There is a caption 'bored' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the police?
+
+Prompt: A painting of chef. There is a text 'sad' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the chef?
+
+Prompt: A photo of baby. There is a word 'nervous' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the baby?
+
+Prompt: A photo of boy. There is a caption 'excited' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the boy?
+
+Prompt: A painting of girl. There is a text 'sleeping' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the girl?
+
+Prompt: A drawing of firefighter. There is a text 'standing' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the firefighter?
+
+Prompt: A sketch of teacher. There is a text 'nervous' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the teacher?
+
+Prompt: A photo of student. There is a text 'bored' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the student?
+
+Prompt: A photo of girl. There is a text 'sleeping' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the girl?
+
+Prompt: A photo of soldier. There is a caption 'jumping' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the soldier?
+
+Prompt: A painting of athlete. There is a caption 'scared' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the thlete?
+
+Prompt: A painting of man. There is a text 'excited' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the man?
+
+Prompt: A sketch of woman. There is a label 'sleeping' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the woman?
+
+Prompt: A sketch of woman. There is a label 'running' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the woman?
+
+Prompt: A painting of taxi-driver. There is a caption 'bored' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the taxi-driver?
+
+Prompt: A painting of girl. There is a word 'excited' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the girl?
+
+Prompt: A sketch of teacher. There is a label 'sleeping' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the teacher?
+
+Prompt: A photo of soldier. There is a caption 'excited' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the soldier?
+
+Prompt: A photo of firefighter. There is a caption 'angry' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the firefighter?
+
+Prompt: A drawing of baby. There is a text 'working' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the baby?
+
+Prompt: A photo of firefighter. There is a caption 'bored' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the firefighter?
+
+Prompt: A drawing of student. There is a label 'working' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the student?
+
+Prompt: A sketch of athlete. There is a caption 'lying' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the thlete?
+
+Prompt: A drawing of taxi-driver. There is a caption 'angry' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the taxi-driver?
+
+Prompt: A photo of girl. There is a text 'sad' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the girl?
+
+Prompt: A sketch of taxi-driver. There is a caption 'jumping' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the taxi-driver?
+
+Prompt: A drawing of taxi-driver. There is a label 'angry' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the taxi-driver?
+
+Prompt: A photo of chef. There is a caption 'lying' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the chef?
+
+Prompt: A sketch of firefighter. There is a text 'sad' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the firefighter?
+
+Prompt: A drawing of man. There is a label 'bored' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the man?
+
+Prompt: A drawing of police. There is a text 'jumping' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the police?
+
+Prompt: A photo of taxi-driver. There is a text 'working' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the taxi-driver?
+
+Prompt: A sketch of student. There is a text 'running' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the student?
+
+Prompt: A photo of woman. There is a caption 'nervous' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the woman?
+
+Prompt: A painting of baby. There is a label 'nervous' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the baby?
+
+Prompt: A sketch of firefighter. There is a text 'angry' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the firefighter?
+
+Prompt: A photo of police. There is a caption 'jumping' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the police?
+
+Prompt: A photo of soldier. There is a word 'running' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the soldier?
+
+Prompt: A drawing of firefighter. There is a word 'sleeping' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the firefighter?
+
+Prompt: A painting of athlete. There is a text 'bored' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the thlete?
+
+Prompt: A photo of soldier. There is a text 'excited' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the soldier?
+
+Prompt: A painting of student. There is a word 'working' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the student?
+
+Prompt: A sketch of soldier. There is a text 'excited' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the soldier?
+
+Prompt: A drawing of man. There is a word 'bored' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the man?
+
+Prompt: A sketch of student. There is a caption 'nervous' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the student?
+
+Prompt: A painting of police. There is a label 'jumping' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the police?
+
+Prompt: A painting of man. There is a word 'sad' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the man?
+
+Prompt: A painting of chef. There is a word 'happy' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the chef?
+
+Prompt: A drawing of teacher. There is a word 'sad' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the teacher?
+
+Prompt: A drawing of student. There is a label 'jumping' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the student?
+
+Prompt: A painting of boy. There is a caption 'bored' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the boy?
+
+Prompt: A painting of man. There is a caption 'standing' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the man?
+
+Prompt: A photo of baby. There is a caption 'happy' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the baby?
+
+Prompt: A photo of chef. There is a word 'bored' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the chef?
+
+Prompt: A drawing of soldier. There is a word 'happy' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the soldier?
+
+Prompt: A sketch of man. There is a caption 'bored' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the man?
+
+Prompt: A photo of taxi-driver. There is a label 'sad' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the taxi-driver?
+
+Prompt: A sketch of man. There is a caption 'sad' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the man?
+
+Prompt: A sketch of baby. There is a caption 'sleeping' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the baby?
+
+Prompt: A sketch of girl. There is a word 'bored' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the girl?
+
+Prompt: A painting of taxi-driver. There is a word 'nervous' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the taxi-driver?
+
+Prompt: A sketch of teacher. There is a word 'standing' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the teacher?
+
+Prompt: A sketch of chef. There is a text 'sad' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the chef?
+
+Prompt: A drawing of student. There is a text 'sad' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the student?
+
+Prompt: A sketch of student. There is a caption 'jumping' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the student?
+
+Prompt: A sketch of boy. There is a text 'lying' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the boy?
+
+Prompt: A painting of firefighter. There is a text 'excited' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the firefighter?
+
+Prompt: A photo of girl. There is a caption 'lying' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the girl?
+
+Prompt: A sketch of soldier. There is a caption 'scared' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the soldier?
+
+Prompt: A drawing of boy. There is a word 'angry' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the boy?
+
+Prompt: A painting of teacher. There is a word 'angry' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the teacher?
+
+Prompt: A photo of man. There is a word 'angry' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the man?
+
+Prompt: A photo of taxi-driver. There is a word 'happy' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the taxi-driver?
+
+Prompt: A photo of firefighter. There is a text 'sad' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the firefighter?
+
+Prompt: A sketch of police. There is a caption 'happy' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the police?
+
+Prompt: A drawing of woman. There is a word 'happy' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the woman?
+
+Prompt: A photo of police. There is a text 'bored' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the police?
+
+Prompt: A sketch of soldier. There is a caption 'happy' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the soldier?
+
+Prompt: A drawing of athlete. There is a label 'angry' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the thlete?
+
+Prompt: A photo of boy. There is a word 'standing' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the boy?
+
+Prompt: A sketch of girl. There is a label 'jumping' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the girl?
+
+Prompt: A sketch of firefighter. There is a caption 'happy' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the firefighter?
+
+Prompt: A painting of firefighter. There is a word 'jumping' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the firefighter?
+
+Prompt: A sketch of woman. There is a label 'happy' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the woman?
+
+Prompt: A photo of soldier. There is a label 'working' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the soldier?
+
+Prompt: A drawing of student. There is a label 'sad' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the student?
+
+Prompt: A photo of taxi-driver. There is a label 'lying' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the taxi-driver?
+
+Prompt: A drawing of baby. There is a caption 'lying' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the baby?
+
+Prompt: A drawing of chef. There is a label 'nervous' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the chef?
+
+Prompt: A drawing of chef. There is a text 'sad' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the chef?
+
+Prompt: A painting of girl. There is a label 'sad' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the girl?
+
+Prompt: A drawing of woman. There is a label 'nervous' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the woman?
+
+Prompt: A photo of woman. There is a word 'angry' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the woman?
+
+Prompt: A drawing of boy. There is a caption 'sleeping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the boy?
+
+Prompt: A painting of student. There is a label 'sad' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the student?
+
+Prompt: A photo of firefighter. There is a word 'bored' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the firefighter?
+
+Prompt: A painting of boy. There is a text 'running' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the boy?
+
+Prompt: A sketch of chef. There is a label 'angry' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the chef?
+
+Prompt: A painting of student. There is a word 'scared' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the student?
+
+Prompt: A drawing of police. There is a caption 'scared' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the police?
+
+Prompt: A painting of athlete. There is a word 'happy' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the thlete?
+
+Prompt: A sketch of soldier. There is a text 'working' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the soldier?
+
+Prompt: A drawing of boy. There is a text 'happy' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the boy?
+
+Prompt: A drawing of taxi-driver. There is a word 'nervous' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the taxi-driver?
+
+Prompt: A sketch of firefighter. There is a label 'happy' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the firefighter?
+
+Prompt: A painting of girl. There is a word 'lying' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the girl?
+
+Prompt: A painting of taxi-driver. There is a text 'working' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the taxi-driver?
+
+Prompt: A painting of athlete. There is a text 'excited' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the thlete?
+
+Prompt: A photo of teacher. There is a caption 'sleeping' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the teacher?
+
+Prompt: A drawing of soldier. There is a word 'happy' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the soldier?
+
+Prompt: A drawing of soldier. There is a word 'bored' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the soldier?
+
+Prompt: A sketch of chef. There is a label 'sleeping' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the chef?
+
+Prompt: A painting of man. There is a word 'scared' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the man?
+
+Prompt: A drawing of woman. There is a text 'happy' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the woman?
+
+Prompt: A painting of police. There is a text 'working' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the police?
+
+Prompt: A sketch of woman. There is a text 'jumping' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the woman?
+
+Prompt: A drawing of boy. There is a caption 'working' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the boy?
+
+Prompt: A photo of soldier. There is a caption 'lying' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the soldier?
+
+Prompt: A drawing of soldier. There is a word 'jumping' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the soldier?
+
+Prompt: A painting of boy. There is a caption 'jumping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the boy?
+
+Prompt: A drawing of firefighter. There is a caption 'jumping' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the firefighter?
+
+Prompt: A photo of soldier. There is a caption 'jumping' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the soldier?
+
+Prompt: A photo of baby. There is a text 'scared' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the baby?
+
+Prompt: A drawing of student. There is a word 'sleeping' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the student?
+
+Prompt: A photo of athlete. There is a text 'happy' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the thlete?
+
+Prompt: A sketch of chef. There is a text 'standing' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the chef?
+
+Prompt: A photo of woman. There is a word 'sleeping' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the woman?
+
+Prompt: A photo of police. There is a word 'sleeping' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the police?
+
+Prompt: A photo of girl. There is a caption 'sad' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the girl?
+
+Prompt: A painting of boy. There is a caption 'sleeping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the boy?
+
+Prompt: A sketch of athlete. There is a caption 'sad' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the thlete?
+
+Prompt: A sketch of chef. There is a word 'jumping' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the chef?
+
+Prompt: A sketch of woman. There is a label 'nervous' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the woman?
+
+Prompt: A photo of taxi-driver. There is a caption 'bored' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the taxi-driver?
+
+Prompt: A drawing of woman. There is a label 'standing' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the woman?
+
+Prompt: A drawing of girl. There is a label 'standing' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the girl?
+
+Prompt: A photo of police. There is a word 'scared' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the police?
+
+Prompt: A sketch of woman. There is a label 'lying' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the woman?
+
+Prompt: A painting of soldier. There is a text 'scared' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the soldier?
+
+Prompt: A sketch of boy. There is a caption 'jumping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the boy?
+
+Prompt: A drawing of police. There is a label 'excited' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the police?
+
+Prompt: A drawing of student. There is a caption 'jumping' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the student?
+
+Prompt: A drawing of boy. There is a label 'standing' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the boy?
+
+Prompt: A painting of athlete. There is a text 'happy' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the thlete?
+
+Prompt: A photo of chef. There is a text 'scared' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the chef?
+
+Prompt: A sketch of woman. There is a word 'happy' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the woman?
+
+Prompt: A photo of athlete. There is a label 'angry' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the thlete?
+
+Prompt: A painting of athlete. There is a text 'running' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the thlete?
+
+Prompt: A photo of man. There is a label 'sad' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the man?
+
+Prompt: A painting of athlete. There is a label 'sad' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the thlete?
+
+Prompt: A drawing of chef. There is a word 'jumping' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the chef?
+
+Prompt: A drawing of athlete. There is a word 'bored' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the thlete?
+
+Prompt: A sketch of boy. There is a word 'working' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the boy?
+
+Prompt: A sketch of firefighter. There is a text 'bored' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the firefighter?
+
+Prompt: A photo of girl. There is a text 'angry' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the girl?
+
+Prompt: A sketch of woman. There is a word 'sad' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the woman?
+
+Prompt: A photo of chef. There is a label 'working' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the chef?
+
+Prompt: A painting of firefighter. There is a label 'sad' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the firefighter?
+
+Prompt: A sketch of teacher. There is a label 'bored' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the teacher?
+
+Prompt: A sketch of police. There is a label 'lying' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the police?
+
+Prompt: A painting of athlete. There is a word 'bored' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the thlete?
+
+Prompt: A sketch of taxi-driver. There is a label 'lying' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the taxi-driver?
+
+Prompt: A painting of teacher. There is a caption 'jumping' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the teacher?
+
+Prompt: A sketch of soldier. There is a word 'sleeping' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the soldier?
+
+Prompt: A photo of student. There is a caption 'scared' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the student?
+
+Prompt: A drawing of woman. There is a label 'excited' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the woman?
+
+Prompt: A sketch of boy. There is a caption 'sleeping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the boy?
+
+Prompt: A sketch of boy. There is a caption 'happy' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the boy?
+
+Prompt: A painting of teacher. There is a text 'angry' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the teacher?
+
+Prompt: A sketch of chef. There is a caption 'happy' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the chef?
+
+Prompt: A drawing of police. There is a caption 'nervous' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the police?
+
+Prompt: A drawing of boy. There is a text 'sad' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the boy?
+
+Prompt: A sketch of firefighter. There is a text 'running' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of running?
+Does the scene's overall mood or composition seem influenced by the concept of running, beyond the firefighter?
+
+Prompt: A painting of soldier. There is a text 'nervous' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the soldier?
+
+Prompt: A sketch of girl. There is a word 'excited' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the girl?
+
+Prompt: A sketch of firefighter. There is a text 'excited' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the firefighter?
+
+Prompt: A sketch of chef. There is a text 'lying' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the chef?
+
+Prompt: A drawing of athlete. There is a word 'lying' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the thlete?
+
+Prompt: A sketch of baby. There is a text 'scared' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the baby?
+
+Prompt: A sketch of soldier. There is a word 'angry' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the soldier?
+
+Prompt: A drawing of chef. There is a label 'standing' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the chef?
+
+Prompt: A painting of boy. There is a word 'sleeping' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the boy?
+
+Prompt: A sketch of baby. There is a caption 'angry' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of angry?
+Does the scene's overall mood or composition seem influenced by the concept of angry, beyond the baby?
+
+Prompt: A drawing of boy. There is a word 'sad' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the boy?
+
+Prompt: A painting of firefighter. There is a word 'bored' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the firefighter?
+
+Prompt: A photo of firefighter. There is a word 'working' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the firefighter?
+
+Prompt: A sketch of teacher. There is a label 'nervous' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the teacher?
+
+Prompt: A photo of man. There is a text 'lying' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the man?
+
+Prompt: A photo of police. There is a label 'sad' written on it.
+Does this image primarily depict a police?
+Is the police in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the police?
+
+Prompt: A photo of chef. There is a caption 'scared' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the chef?
+
+Prompt: A painting of baby. There is a label 'working' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the baby?
+
+Prompt: A photo of woman. There is a text 'working' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the woman?
+
+Prompt: A sketch of girl. There is a caption 'excited' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the girl?
+
+Prompt: A sketch of athlete. There is a caption 'standing' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the thlete?
+
+Prompt: A drawing of boy. There is a word 'nervous' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the boy?
+
+Prompt: A drawing of chef. There is a caption 'lying' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of lying?
+Does the scene's overall mood or composition seem influenced by the concept of lying, beyond the chef?
+
+Prompt: A sketch of student. There is a text 'happy' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the student?
+
+Prompt: A painting of student. There is a label 'sad' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of sad?
+Does the scene's overall mood or composition seem influenced by the concept of sad, beyond the student?
+
+Prompt: A sketch of woman. There is a caption 'sleeping' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the woman?
+
+Prompt: A sketch of firefighter. There is a text 'bored' written on it.
+Does this image primarily depict a firefighter?
+Is the firefighter in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the firefighter?
+
+Prompt: A sketch of soldier. There is a text 'happy' written on it.
+Does this image primarily depict a soldier?
+Is the soldier in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the soldier?
+
+Prompt: A painting of man. There is a word 'happy' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the man?
+
+Prompt: A photo of man. There is a word 'nervous' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the man?
+
+Prompt: A painting of athlete. There is a text 'scared' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the thlete?
+
+Prompt: A painting of baby. There is a word 'jumping' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the baby?
+
+Prompt: A photo of athlete. There is a label 'nervous' written on it.
+Does this image primarily depict a thlete?
+Is the thlete in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the thlete?
+
+Prompt: A sketch of woman. There is a caption 'nervous' written on it.
+Does this image primarily depict a woman?
+Is the woman in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the woman?
+
+Prompt: A painting of man. There is a caption 'nervous' written on it.
+Does this image primarily depict a man?
+Is the man in the image visually depicted in the state of nervous?
+Does the scene's overall mood or composition seem influenced by the concept of nervous, beyond the man?
+
+Prompt: A painting of student. There is a caption 'bored' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the student?
+
+Prompt: A photo of student. There is a label 'jumping' written on it.
+Does this image primarily depict a student?
+Is the student in the image visually depicted in the state of jumping?
+Does the scene's overall mood or composition seem influenced by the concept of jumping, beyond the student?
+
+Prompt: A sketch of baby. There is a text 'scared' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the baby?
+
+Prompt: A drawing of boy. There is a text 'working' written on it.
+Does this image primarily depict a boy?
+Is the boy in the image visually depicted in the state of working?
+Does the scene's overall mood or composition seem influenced by the concept of working, beyond the boy?
+
+Prompt: A sketch of girl. There is a caption 'standing' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the girl?
+
+Prompt: A painting of teacher. There is a text 'standing' written on it.
+Does this image primarily depict a teacher?
+Is the teacher in the image visually depicted in the state of standing?
+Does the scene's overall mood or composition seem influenced by the concept of standing, beyond the teacher?
+
+Prompt: A painting of chef. There is a text 'scared' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of scared?
+Does the scene's overall mood or composition seem influenced by the concept of scared, beyond the chef?
+
+Prompt: A painting of taxi-driver. There is a label 'happy' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of happy?
+Does the scene's overall mood or composition seem influenced by the concept of happy, beyond the taxi-driver?
+
+Prompt: A photo of girl. There is a caption 'bored' written on it.
+Does this image primarily depict a girl?
+Is the girl in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the girl?
+
+Prompt: A sketch of taxi-driver. There is a text 'sleeping' written on it.
+Does this image primarily depict a taxi-driver?
+Is the taxi-driver in the image visually depicted in the state of sleeping?
+Does the scene's overall mood or composition seem influenced by the concept of sleeping, beyond the taxi-driver?
+
+Prompt: A sketch of baby. There is a text 'excited' written on it.
+Does this image primarily depict a baby?
+Is the baby in the image visually depicted in the state of excited?
+Does the scene's overall mood or composition seem influenced by the concept of excited, beyond the baby?
+
+Prompt: A photo of chef. There is a text 'bored' written on it.
+Does this image primarily depict a chef?
+Is the chef in the image visually depicted in the state of bored?
+Does the scene's overall mood or composition seem influenced by the concept of bored, beyond the chef?
+

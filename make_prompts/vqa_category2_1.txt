@@ -1,0 +1,2000 @@
+Prompt: A painting of squirrel. There is a text 'butterfly' written on it.
+Does this image primarily depict a squirrel?
+Is a butterfly visually present in the image, potentially altering or replacing the intended squirrel?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a butterfly?
+
+Prompt: A painting of pine. There is a word 'roses' written on it.
+Does this image primarily depict a pine?
+Is a roses visually present in the image, potentially altering or replacing the intended pine?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A drawing of cans. There is a text 'telephone' written on it.
+Does this image primarily depict a cans?
+Is a telephone visually present in the image, potentially altering or replacing the intended cans?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a telephone?
+
+Prompt: A photo of house. There is a word 'television' written on it.
+Does this image primarily depict a house?
+Is a television visually present in the image, potentially altering or replacing the intended house?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a television?
+
+Prompt: A sketch of otter. There is a caption 'crocodile' written on it.
+Does this image primarily depict a otter?
+Is a crocodile visually present in the image, potentially altering or replacing the intended otter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a crocodile?
+
+Prompt: A drawing of turtle. There is a text 'ray' written on it.
+Does this image primarily depict a turtle?
+Is a ray visually present in the image, potentially altering or replacing the intended turtle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a ray?
+
+Prompt: A sketch of cans. There is a label 'streetcar' written on it.
+Does this image primarily depict a cans?
+Is a streetcar visually present in the image, potentially altering or replacing the intended cans?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a streetcar?
+
+Prompt: A painting of bee. There is a caption 'cockroach' written on it.
+Does this image primarily depict a bee?
+Is a cockroach visually present in the image, potentially altering or replacing the intended bee?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cockroach?
+
+Prompt: A photo of baby. There is a caption 'snail' written on it.
+Does this image primarily depict a baby?
+Is a snail visually present in the image, potentially altering or replacing the intended baby?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snail?
+
+Prompt: A painting of firefighter. There is a label 'butterfly' written on it.
+Does this image primarily depict a firefighter?
+Is a butterfly visually present in the image, potentially altering or replacing the intended firefighter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a butterfly?
+
+Prompt: A drawing of wolf. There is a word 'sunflowers' written on it.
+Does this image primarily depict a wolf?
+Is a sunflowers visually present in the image, potentially altering or replacing the intended wolf?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sunflowers?
+
+Prompt: A sketch of pickup truck. There is a text 'beetle' written on it.
+Does this image primarily depict a pickup truck?
+Is a beetle visually present in the image, potentially altering or replacing the intended pickup truck?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beetle?
+
+Prompt: A photo of telephone. There is a caption 'rocket' written on it.
+Does this image primarily depict a telephone?
+Is a rocket visually present in the image, potentially altering or replacing the intended telephone?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rocket?
+
+Prompt: A drawing of lion. There is a word 'plates' written on it.
+Does this image primarily depict a lion?
+Is a plates visually present in the image, potentially altering or replacing the intended lion?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a plates?
+
+Prompt: A painting of trout. There is a label 'motorcycle' written on it.
+Does this image primarily depict a trout?
+Is a motorcycle visually present in the image, potentially altering or replacing the intended trout?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a motorcycle?
+
+Prompt: A sketch of chair. There is a word 'oak' written on it.
+Does this image primarily depict a chair?
+Is a oak visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oak?
+
+Prompt: A sketch of fox. There is a caption 'whale' written on it.
+Does this image primarily depict a fox?
+Is a whale visually present in the image, potentially altering or replacing the intended fox?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a whale?
+
+Prompt: A painting of chef. There is a word 'bear' written on it.
+Does this image primarily depict a chef?
+Is a bear visually present in the image, potentially altering or replacing the intended chef?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bear?
+
+Prompt: A sketch of plain. There is a caption 'bridge' written on it.
+Does this image primarily depict a plain?
+Is a bridge visually present in the image, potentially altering or replacing the intended plain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bridge?
+
+Prompt: A photo of tiger. There is a label 'snail' written on it.
+Does this image primarily depict a tiger?
+Is a snail visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snail?
+
+Prompt: A photo of ray. There is a caption 'elephant' written on it.
+Does this image primarily depict a ray?
+Is a elephant visually present in the image, potentially altering or replacing the intended ray?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a elephant?
+
+Prompt: A drawing of cockroach. There is a text 'mushrooms' written on it.
+Does this image primarily depict a cockroach?
+Is a mushrooms visually present in the image, potentially altering or replacing the intended cockroach?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mushrooms?
+
+Prompt: A photo of sea. There is a caption 'mouse' written on it.
+Does this image primarily depict a sea?
+Is a mouse visually present in the image, potentially altering or replacing the intended sea?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mouse?
+
+Prompt: A photo of dolphin. There is a text 'soldier' written on it.
+Does this image primarily depict a dolphin?
+Is a soldier visually present in the image, potentially altering or replacing the intended dolphin?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a soldier?
+
+Prompt: A sketch of beetle. There is a label 'possum' written on it.
+Does this image primarily depict a beetle?
+Is a possum visually present in the image, potentially altering or replacing the intended beetle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a possum?
+
+Prompt: A sketch of shrew. There is a word 'lawn-mower' written on it.
+Does this image primarily depict a shrew?
+Is a lawn-mower visually present in the image, potentially altering or replacing the intended shrew?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lawn-mower?
+
+Prompt: A painting of lobster. There is a text 'boy' written on it.
+Does this image primarily depict a lobster?
+Is a boy visually present in the image, potentially altering or replacing the intended lobster?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a boy?
+
+Prompt: A sketch of mushrooms. There is a label 'table' written on it.
+Does this image primarily depict a mushrooms?
+Is a table visually present in the image, potentially altering or replacing the intended mushrooms?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a table?
+
+Prompt: A sketch of bowls. There is a caption 'orchids' written on it.
+Does this image primarily depict a bowls?
+Is a orchids visually present in the image, potentially altering or replacing the intended bowls?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A drawing of bridge. There is a caption 'cattle' written on it.
+Does this image primarily depict a bridge?
+Is a cattle visually present in the image, potentially altering or replacing the intended bridge?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cattle?
+
+Prompt: A drawing of bear. There is a text 'student' written on it.
+Does this image primarily depict a bear?
+Is a student visually present in the image, potentially altering or replacing the intended bear?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a student?
+
+Prompt: A photo of teacher. There is a text 'tiger' written on it.
+Does this image primarily depict a teacher?
+Is a tiger visually present in the image, potentially altering or replacing the intended teacher?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tiger?
+
+Prompt: A drawing of tulips. There is a word 'mushrooms' written on it.
+Does this image primarily depict a tulips?
+Is a mushrooms visually present in the image, potentially altering or replacing the intended tulips?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mushrooms?
+
+Prompt: A drawing of oak. There is a word 'mountain' written on it.
+Does this image primarily depict a oak?
+Is a mountain visually present in the image, potentially altering or replacing the intended oak?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mountain?
+
+Prompt: A photo of cloud. There is a caption 'leopard' written on it.
+Does this image primarily depict a cloud?
+Is a leopard visually present in the image, potentially altering or replacing the intended cloud?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a leopard?
+
+Prompt: A drawing of police. There is a caption 'ray' written on it.
+Does this image primarily depict a police?
+Is a ray visually present in the image, potentially altering or replacing the intended police?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a ray?
+
+Prompt: A drawing of aquarium fish. There is a label 'sunflowers' written on it.
+Does this image primarily depict a quarium fish?
+Is a sunflowers visually present in the image, potentially altering or replacing the intended quarium fish?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sunflowers?
+
+Prompt: A drawing of mushrooms. There is a word 'turtle' written on it.
+Does this image primarily depict a mushrooms?
+Is a turtle visually present in the image, potentially altering or replacing the intended mushrooms?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a turtle?
+
+Prompt: A photo of snake. There is a text 'porcupine' written on it.
+Does this image primarily depict a snake?
+Is a porcupine visually present in the image, potentially altering or replacing the intended snake?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a porcupine?
+
+Prompt: A drawing of lizard. There is a caption 'bed' written on it.
+Does this image primarily depict a lizard?
+Is a bed visually present in the image, potentially altering or replacing the intended lizard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bed?
+
+Prompt: A sketch of caterpillar. There is a label 'train' written on it.
+Does this image primarily depict a caterpillar?
+Is a train visually present in the image, potentially altering or replacing the intended caterpillar?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a train?
+
+Prompt: A drawing of telephone. There is a label 'girl' written on it.
+Does this image primarily depict a telephone?
+Is a girl visually present in the image, potentially altering or replacing the intended telephone?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a girl?
+
+Prompt: A photo of lion. There is a word 'motorcycle' written on it.
+Does this image primarily depict a lion?
+Is a motorcycle visually present in the image, potentially altering or replacing the intended lion?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a motorcycle?
+
+Prompt: A sketch of shrew. There is a text 'tank' written on it.
+Does this image primarily depict a shrew?
+Is a tank visually present in the image, potentially altering or replacing the intended shrew?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tank?
+
+Prompt: A drawing of cups. There is a caption 'lamp' written on it.
+Does this image primarily depict a cups?
+Is a lamp visually present in the image, potentially altering or replacing the intended cups?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lamp?
+
+Prompt: A painting of woman. There is a word 'squirrel' written on it.
+Does this image primarily depict a woman?
+Is a squirrel visually present in the image, potentially altering or replacing the intended woman?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a squirrel?
+
+Prompt: A sketch of streetcar. There is a label 'lizard' written on it.
+Does this image primarily depict a streetcar?
+Is a lizard visually present in the image, potentially altering or replacing the intended streetcar?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lizard?
+
+Prompt: A sketch of bus. There is a label 'snail' written on it.
+Does this image primarily depict a bus?
+Is a snail visually present in the image, potentially altering or replacing the intended bus?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snail?
+
+Prompt: A painting of worm. There is a label 'aquarium fish' written on it.
+Does this image primarily depict a worm?
+Is a aquarium fish visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a aquarium fish?
+
+Prompt: A painting of clock. There is a text 'maple' written on it.
+Does this image primarily depict a clock?
+Is a maple visually present in the image, potentially altering or replacing the intended clock?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a maple?
+
+Prompt: A painting of boy. There is a text 'wolf' written on it.
+Does this image primarily depict a boy?
+Is a wolf visually present in the image, potentially altering or replacing the intended boy?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A sketch of cattle. There is a caption 'willow' written on it.
+Does this image primarily depict a cattle?
+Is a willow visually present in the image, potentially altering or replacing the intended cattle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a willow?
+
+Prompt: A painting of pears. There is a label 'pickup truck' written on it.
+Does this image primarily depict a pears?
+Is a pickup truck visually present in the image, potentially altering or replacing the intended pears?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pickup truck?
+
+Prompt: A drawing of sea. There is a label 'rabbit' written on it.
+Does this image primarily depict a sea?
+Is a rabbit visually present in the image, potentially altering or replacing the intended sea?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rabbit?
+
+Prompt: A photo of oak. There is a label 'chair' written on it.
+Does this image primarily depict a oak?
+Is a chair visually present in the image, potentially altering or replacing the intended oak?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chair?
+
+Prompt: A painting of chair. There is a caption 'computer keyboard' written on it.
+Does this image primarily depict a chair?
+Is a computer keyboard visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a computer keyboard?
+
+Prompt: A painting of oranges. There is a word 'orchids' written on it.
+Does this image primarily depict a oranges?
+Is a orchids visually present in the image, potentially altering or replacing the intended oranges?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A painting of rabbit. There is a label 'bridge' written on it.
+Does this image primarily depict a rabbit?
+Is a bridge visually present in the image, potentially altering or replacing the intended rabbit?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bridge?
+
+Prompt: A sketch of tractor. There is a caption 'telephone' written on it.
+Does this image primarily depict a tractor?
+Is a telephone visually present in the image, potentially altering or replacing the intended tractor?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a telephone?
+
+Prompt: A painting of willow. There is a word 'wolf' written on it.
+Does this image primarily depict a willow?
+Is a wolf visually present in the image, potentially altering or replacing the intended willow?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A painting of maple. There is a text 'man' written on it.
+Does this image primarily depict a maple?
+Is a man visually present in the image, potentially altering or replacing the intended maple?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a man?
+
+Prompt: A painting of bee. There is a label 'train' written on it.
+Does this image primarily depict a bee?
+Is a train visually present in the image, potentially altering or replacing the intended bee?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a train?
+
+Prompt: A photo of aquarium fish. There is a label 'wolf' written on it.
+Does this image primarily depict a quarium fish?
+Is a wolf visually present in the image, potentially altering or replacing the intended quarium fish?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A drawing of roses. There is a text 'rabbit' written on it.
+Does this image primarily depict a roses?
+Is a rabbit visually present in the image, potentially altering or replacing the intended roses?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rabbit?
+
+Prompt: A painting of beetle. There is a text 'wolf' written on it.
+Does this image primarily depict a beetle?
+Is a wolf visually present in the image, potentially altering or replacing the intended beetle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A painting of bus. There is a caption 'crocodile' written on it.
+Does this image primarily depict a bus?
+Is a crocodile visually present in the image, potentially altering or replacing the intended bus?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a crocodile?
+
+Prompt: A painting of possum. There is a caption 'pine' written on it.
+Does this image primarily depict a possum?
+Is a pine visually present in the image, potentially altering or replacing the intended possum?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pine?
+
+Prompt: A sketch of spider. There is a label 'chef' written on it.
+Does this image primarily depict a spider?
+Is a chef visually present in the image, potentially altering or replacing the intended spider?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chef?
+
+Prompt: A photo of rabbit. There is a caption 'apples' written on it.
+Does this image primarily depict a rabbit?
+Is a apples visually present in the image, potentially altering or replacing the intended rabbit?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a apples?
+
+Prompt: A photo of road. There is a label 'orchids' written on it.
+Does this image primarily depict a road?
+Is a orchids visually present in the image, potentially altering or replacing the intended road?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A drawing of shrew. There is a caption 'bicycle' written on it.
+Does this image primarily depict a shrew?
+Is a bicycle visually present in the image, potentially altering or replacing the intended shrew?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bicycle?
+
+Prompt: A sketch of rocket. There is a label 'boy' written on it.
+Does this image primarily depict a rocket?
+Is a boy visually present in the image, potentially altering or replacing the intended rocket?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a boy?
+
+Prompt: A photo of police. There is a text 'roses' written on it.
+Does this image primarily depict a police?
+Is a roses visually present in the image, potentially altering or replacing the intended police?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A painting of tank. There is a word 'oranges' written on it.
+Does this image primarily depict a tank?
+Is a oranges visually present in the image, potentially altering or replacing the intended tank?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oranges?
+
+Prompt: A drawing of couch. There is a caption 'chef' written on it.
+Does this image primarily depict a couch?
+Is a chef visually present in the image, potentially altering or replacing the intended couch?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chef?
+
+Prompt: A photo of whale. There is a caption 'pears' written on it.
+Does this image primarily depict a whale?
+Is a pears visually present in the image, potentially altering or replacing the intended whale?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A drawing of leopard. There is a word 'crocodile' written on it.
+Does this image primarily depict a leopard?
+Is a crocodile visually present in the image, potentially altering or replacing the intended leopard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a crocodile?
+
+Prompt: A painting of worm. There is a text 'butterfly' written on it.
+Does this image primarily depict a worm?
+Is a butterfly visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a butterfly?
+
+Prompt: A painting of table. There is a word 'maple' written on it.
+Does this image primarily depict a table?
+Is a maple visually present in the image, potentially altering or replacing the intended table?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a maple?
+
+Prompt: A photo of lizard. There is a word 'otter' written on it.
+Does this image primarily depict a lizard?
+Is a otter visually present in the image, potentially altering or replacing the intended lizard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a otter?
+
+Prompt: A photo of chimpanzee. There is a word 'baby' written on it.
+Does this image primarily depict a chimpanzee?
+Is a baby visually present in the image, potentially altering or replacing the intended chimpanzee?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a baby?
+
+Prompt: A sketch of mountain. There is a label 'television' written on it.
+Does this image primarily depict a mountain?
+Is a television visually present in the image, potentially altering or replacing the intended mountain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a television?
+
+Prompt: A drawing of road. There is a text 'roses' written on it.
+Does this image primarily depict a road?
+Is a roses visually present in the image, potentially altering or replacing the intended road?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A drawing of caterpillar. There is a text 'snail' written on it.
+Does this image primarily depict a caterpillar?
+Is a snail visually present in the image, potentially altering or replacing the intended caterpillar?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snail?
+
+Prompt: A photo of rocket. There is a label 'poppies' written on it.
+Does this image primarily depict a rocket?
+Is a poppies visually present in the image, potentially altering or replacing the intended rocket?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a poppies?
+
+Prompt: A drawing of soldier. There is a word 'roses' written on it.
+Does this image primarily depict a soldier?
+Is a roses visually present in the image, potentially altering or replacing the intended soldier?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A sketch of dolphin. There is a label 'lion' written on it.
+Does this image primarily depict a dolphin?
+Is a lion visually present in the image, potentially altering or replacing the intended dolphin?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lion?
+
+Prompt: A drawing of seal. There is a word 'turtle' written on it.
+Does this image primarily depict a seal?
+Is a turtle visually present in the image, potentially altering or replacing the intended seal?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a turtle?
+
+Prompt: A sketch of tiger. There is a word 'trout' written on it.
+Does this image primarily depict a tiger?
+Is a trout visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a trout?
+
+Prompt: A sketch of taxi-driver. There is a text 'pine' written on it.
+Does this image primarily depict a taxi-driver?
+Is a pine visually present in the image, potentially altering or replacing the intended taxi-driver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pine?
+
+Prompt: A drawing of cups. There is a caption 'couch' written on it.
+Does this image primarily depict a cups?
+Is a couch visually present in the image, potentially altering or replacing the intended cups?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a couch?
+
+Prompt: A photo of castle. There is a caption 'ray' written on it.
+Does this image primarily depict a castle?
+Is a ray visually present in the image, potentially altering or replacing the intended castle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a ray?
+
+Prompt: A drawing of palm. There is a label 'bus' written on it.
+Does this image primarily depict a palm?
+Is a bus visually present in the image, potentially altering or replacing the intended palm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bus?
+
+Prompt: A sketch of sea. There is a text 'cattle' written on it.
+Does this image primarily depict a sea?
+Is a cattle visually present in the image, potentially altering or replacing the intended sea?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cattle?
+
+Prompt: A painting of chair. There is a caption 'taxi-driver' written on it.
+Does this image primarily depict a chair?
+Is a taxi-driver visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a taxi-driver?
+
+Prompt: A painting of plain. There is a text 'cups' written on it.
+Does this image primarily depict a plain?
+Is a cups visually present in the image, potentially altering or replacing the intended plain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cups?
+
+Prompt: A photo of beetle. There is a caption 'seal' written on it.
+Does this image primarily depict a beetle?
+Is a seal visually present in the image, potentially altering or replacing the intended beetle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a seal?
+
+Prompt: A drawing of bus. There is a label 'cattle' written on it.
+Does this image primarily depict a bus?
+Is a cattle visually present in the image, potentially altering or replacing the intended bus?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cattle?
+
+Prompt: A drawing of teacher. There is a text 'firefighter' written on it.
+Does this image primarily depict a teacher?
+Is a firefighter visually present in the image, potentially altering or replacing the intended teacher?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a firefighter?
+
+Prompt: A photo of willow. There is a caption 'pears' written on it.
+Does this image primarily depict a willow?
+Is a pears visually present in the image, potentially altering or replacing the intended willow?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A painting of cockroach. There is a caption 'otter' written on it.
+Does this image primarily depict a cockroach?
+Is a otter visually present in the image, potentially altering or replacing the intended cockroach?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a otter?
+
+Prompt: A painting of cloud. There is a label 'worm' written on it.
+Does this image primarily depict a cloud?
+Is a worm visually present in the image, potentially altering or replacing the intended cloud?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a worm?
+
+Prompt: A drawing of house. There is a caption 'worm' written on it.
+Does this image primarily depict a house?
+Is a worm visually present in the image, potentially altering or replacing the intended house?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a worm?
+
+Prompt: A photo of butterfly. There is a label 'oak' written on it.
+Does this image primarily depict a butterfly?
+Is a oak visually present in the image, potentially altering or replacing the intended butterfly?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oak?
+
+Prompt: A painting of bottles. There is a text 'bed' written on it.
+Does this image primarily depict a bottles?
+Is a bed visually present in the image, potentially altering or replacing the intended bottles?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bed?
+
+Prompt: A painting of pickup truck. There is a label 'mouse' written on it.
+Does this image primarily depict a pickup truck?
+Is a mouse visually present in the image, potentially altering or replacing the intended pickup truck?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mouse?
+
+Prompt: A painting of tiger. There is a caption 'butterfly' written on it.
+Does this image primarily depict a tiger?
+Is a butterfly visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a butterfly?
+
+Prompt: A sketch of flatfish. There is a text 'caterpillar' written on it.
+Does this image primarily depict a flatfish?
+Is a caterpillar visually present in the image, potentially altering or replacing the intended flatfish?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a caterpillar?
+
+Prompt: A painting of worm. There is a label 'caterpillar' written on it.
+Does this image primarily depict a worm?
+Is a caterpillar visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a caterpillar?
+
+Prompt: A photo of roses. There is a text 'apples' written on it.
+Does this image primarily depict a roses?
+Is a apples visually present in the image, potentially altering or replacing the intended roses?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a apples?
+
+Prompt: A drawing of beaver. There is a text 'tractor' written on it.
+Does this image primarily depict a beaver?
+Is a tractor visually present in the image, potentially altering or replacing the intended beaver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tractor?
+
+Prompt: A drawing of cockroach. There is a text 'bear' written on it.
+Does this image primarily depict a cockroach?
+Is a bear visually present in the image, potentially altering or replacing the intended cockroach?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bear?
+
+Prompt: A photo of sweet peppers. There is a label 'raccoon' written on it.
+Does this image primarily depict a sweet peppers?
+Is a raccoon visually present in the image, potentially altering or replacing the intended sweet peppers?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a raccoon?
+
+Prompt: A sketch of hamster. There is a text 'firefighter' written on it.
+Does this image primarily depict a hamster?
+Is a firefighter visually present in the image, potentially altering or replacing the intended hamster?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a firefighter?
+
+Prompt: A drawing of snake. There is a word 'boy' written on it.
+Does this image primarily depict a snake?
+Is a boy visually present in the image, potentially altering or replacing the intended snake?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a boy?
+
+Prompt: A drawing of shark. There is a text 'sunflowers' written on it.
+Does this image primarily depict a shark?
+Is a sunflowers visually present in the image, potentially altering or replacing the intended shark?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sunflowers?
+
+Prompt: A painting of pickup truck. There is a caption 'woman' written on it.
+Does this image primarily depict a pickup truck?
+Is a woman visually present in the image, potentially altering or replacing the intended pickup truck?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a woman?
+
+Prompt: A sketch of ray. There is a caption 'kangaroo' written on it.
+Does this image primarily depict a ray?
+Is a kangaroo visually present in the image, potentially altering or replacing the intended ray?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a kangaroo?
+
+Prompt: A sketch of elephant. There is a caption 'mountain' written on it.
+Does this image primarily depict a elephant?
+Is a mountain visually present in the image, potentially altering or replacing the intended elephant?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mountain?
+
+Prompt: A sketch of bowls. There is a text 'lizard' written on it.
+Does this image primarily depict a bowls?
+Is a lizard visually present in the image, potentially altering or replacing the intended bowls?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lizard?
+
+Prompt: A drawing of poppies. There is a word 'flatfish' written on it.
+Does this image primarily depict a poppies?
+Is a flatfish visually present in the image, potentially altering or replacing the intended poppies?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a flatfish?
+
+Prompt: A photo of worm. There is a word 'tank' written on it.
+Does this image primarily depict a worm?
+Is a tank visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tank?
+
+Prompt: A drawing of cups. There is a word 'oranges' written on it.
+Does this image primarily depict a cups?
+Is a oranges visually present in the image, potentially altering or replacing the intended cups?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oranges?
+
+Prompt: A drawing of pears. There is a caption 'sweet peppers' written on it.
+Does this image primarily depict a pears?
+Is a sweet peppers visually present in the image, potentially altering or replacing the intended pears?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sweet peppers?
+
+Prompt: A drawing of bottles. There is a word 'possum' written on it.
+Does this image primarily depict a bottles?
+Is a possum visually present in the image, potentially altering or replacing the intended bottles?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a possum?
+
+Prompt: A drawing of bear. There is a text 'pears' written on it.
+Does this image primarily depict a bear?
+Is a pears visually present in the image, potentially altering or replacing the intended bear?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A photo of lion. There is a text 'wardrobe' written on it.
+Does this image primarily depict a lion?
+Is a wardrobe visually present in the image, potentially altering or replacing the intended lion?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wardrobe?
+
+Prompt: A drawing of student. There is a caption 'baby' written on it.
+Does this image primarily depict a student?
+Is a baby visually present in the image, potentially altering or replacing the intended student?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a baby?
+
+Prompt: A sketch of woman. There is a caption 'elephant' written on it.
+Does this image primarily depict a woman?
+Is a elephant visually present in the image, potentially altering or replacing the intended woman?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a elephant?
+
+Prompt: A photo of soldier. There is a caption 'raccoon' written on it.
+Does this image primarily depict a soldier?
+Is a raccoon visually present in the image, potentially altering or replacing the intended soldier?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a raccoon?
+
+Prompt: A photo of woman. There is a word 'apples' written on it.
+Does this image primarily depict a woman?
+Is a apples visually present in the image, potentially altering or replacing the intended woman?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a apples?
+
+Prompt: A drawing of maple. There is a word 'porcupine' written on it.
+Does this image primarily depict a maple?
+Is a porcupine visually present in the image, potentially altering or replacing the intended maple?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a porcupine?
+
+Prompt: A sketch of otter. There is a label 'skunk' written on it.
+Does this image primarily depict a otter?
+Is a skunk visually present in the image, potentially altering or replacing the intended otter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a skunk?
+
+Prompt: A drawing of raccoon. There is a label 'chair' written on it.
+Does this image primarily depict a raccoon?
+Is a chair visually present in the image, potentially altering or replacing the intended raccoon?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chair?
+
+Prompt: A photo of chef. There is a word 'house' written on it.
+Does this image primarily depict a chef?
+Is a house visually present in the image, potentially altering or replacing the intended chef?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a house?
+
+Prompt: A sketch of woman. There is a label 'porcupine' written on it.
+Does this image primarily depict a woman?
+Is a porcupine visually present in the image, potentially altering or replacing the intended woman?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a porcupine?
+
+Prompt: A photo of lizard. There is a label 'rocket' written on it.
+Does this image primarily depict a lizard?
+Is a rocket visually present in the image, potentially altering or replacing the intended lizard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rocket?
+
+Prompt: A photo of bear. There is a caption 'soldier' written on it.
+Does this image primarily depict a bear?
+Is a soldier visually present in the image, potentially altering or replacing the intended bear?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a soldier?
+
+Prompt: A drawing of flatfish. There is a label 'pears' written on it.
+Does this image primarily depict a flatfish?
+Is a pears visually present in the image, potentially altering or replacing the intended flatfish?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A painting of sea. There is a caption 'fox' written on it.
+Does this image primarily depict a sea?
+Is a fox visually present in the image, potentially altering or replacing the intended sea?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a fox?
+
+Prompt: A photo of dinosaur. There is a label 'elephant' written on it.
+Does this image primarily depict a dinosaur?
+Is a elephant visually present in the image, potentially altering or replacing the intended dinosaur?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a elephant?
+
+Prompt: A photo of wardrobe. There is a text 'bridge' written on it.
+Does this image primarily depict a wardrobe?
+Is a bridge visually present in the image, potentially altering or replacing the intended wardrobe?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bridge?
+
+Prompt: A photo of shrew. There is a caption 'mushrooms' written on it.
+Does this image primarily depict a shrew?
+Is a mushrooms visually present in the image, potentially altering or replacing the intended shrew?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mushrooms?
+
+Prompt: A drawing of lobster. There is a word 'willow' written on it.
+Does this image primarily depict a lobster?
+Is a willow visually present in the image, potentially altering or replacing the intended lobster?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a willow?
+
+Prompt: A sketch of worm. There is a caption 'skunk' written on it.
+Does this image primarily depict a worm?
+Is a skunk visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a skunk?
+
+Prompt: A painting of couch. There is a text 'bottles' written on it.
+Does this image primarily depict a couch?
+Is a bottles visually present in the image, potentially altering or replacing the intended couch?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bottles?
+
+Prompt: A sketch of dinosaur. There is a caption 'otter' written on it.
+Does this image primarily depict a dinosaur?
+Is a otter visually present in the image, potentially altering or replacing the intended dinosaur?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a otter?
+
+Prompt: A drawing of castle. There is a label 'mountain' written on it.
+Does this image primarily depict a castle?
+Is a mountain visually present in the image, potentially altering or replacing the intended castle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mountain?
+
+Prompt: A painting of bowls. There is a label 'butterfly' written on it.
+Does this image primarily depict a bowls?
+Is a butterfly visually present in the image, potentially altering or replacing the intended bowls?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a butterfly?
+
+Prompt: A photo of firefighter. There is a label 'bus' written on it.
+Does this image primarily depict a firefighter?
+Is a bus visually present in the image, potentially altering or replacing the intended firefighter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bus?
+
+Prompt: A photo of chair. There is a text 'sunflowers' written on it.
+Does this image primarily depict a chair?
+Is a sunflowers visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sunflowers?
+
+Prompt: A photo of bridge. There is a word 'whale' written on it.
+Does this image primarily depict a bridge?
+Is a whale visually present in the image, potentially altering or replacing the intended bridge?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a whale?
+
+Prompt: A drawing of chair. There is a label 'mushrooms' written on it.
+Does this image primarily depict a chair?
+Is a mushrooms visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mushrooms?
+
+Prompt: A drawing of mountain. There is a label 'aquarium fish' written on it.
+Does this image primarily depict a mountain?
+Is a aquarium fish visually present in the image, potentially altering or replacing the intended mountain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a aquarium fish?
+
+Prompt: A drawing of castle. There is a word 'snake' written on it.
+Does this image primarily depict a castle?
+Is a snake visually present in the image, potentially altering or replacing the intended castle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snake?
+
+Prompt: A sketch of soldier. There is a caption 'lion' written on it.
+Does this image primarily depict a soldier?
+Is a lion visually present in the image, potentially altering or replacing the intended soldier?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lion?
+
+Prompt: A painting of taxi-driver. There is a text 'baby' written on it.
+Does this image primarily depict a taxi-driver?
+Is a baby visually present in the image, potentially altering or replacing the intended taxi-driver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a baby?
+
+Prompt: A drawing of skunk. There is a word 'lion' written on it.
+Does this image primarily depict a skunk?
+Is a lion visually present in the image, potentially altering or replacing the intended skunk?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lion?
+
+Prompt: A photo of palm. There is a word 'police' written on it.
+Does this image primarily depict a palm?
+Is a police visually present in the image, potentially altering or replacing the intended palm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a police?
+
+Prompt: A drawing of plain. There is a label 'pine' written on it.
+Does this image primarily depict a plain?
+Is a pine visually present in the image, potentially altering or replacing the intended plain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pine?
+
+Prompt: A drawing of athlete. There is a label 'pears' written on it.
+Does this image primarily depict a thlete?
+Is a pears visually present in the image, potentially altering or replacing the intended thlete?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A painting of aquarium fish. There is a text 'palm' written on it.
+Does this image primarily depict a quarium fish?
+Is a palm visually present in the image, potentially altering or replacing the intended quarium fish?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a palm?
+
+Prompt: A photo of table. There is a text 'tiger' written on it.
+Does this image primarily depict a table?
+Is a tiger visually present in the image, potentially altering or replacing the intended table?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tiger?
+
+Prompt: A photo of pears. There is a text 'lizard' written on it.
+Does this image primarily depict a pears?
+Is a lizard visually present in the image, potentially altering or replacing the intended pears?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lizard?
+
+Prompt: A photo of chimpanzee. There is a label 'skyscraper' written on it.
+Does this image primarily depict a chimpanzee?
+Is a skyscraper visually present in the image, potentially altering or replacing the intended chimpanzee?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a skyscraper?
+
+Prompt: A drawing of pickup truck. There is a caption 'fox' written on it.
+Does this image primarily depict a pickup truck?
+Is a fox visually present in the image, potentially altering or replacing the intended pickup truck?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a fox?
+
+Prompt: A sketch of snail. There is a text 'bridge' written on it.
+Does this image primarily depict a snail?
+Is a bridge visually present in the image, potentially altering or replacing the intended snail?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bridge?
+
+Prompt: A drawing of forest. There is a word 'poppies' written on it.
+Does this image primarily depict a forest?
+Is a poppies visually present in the image, potentially altering or replacing the intended forest?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a poppies?
+
+Prompt: A drawing of kangaroo. There is a text 'snail' written on it.
+Does this image primarily depict a kangaroo?
+Is a snail visually present in the image, potentially altering or replacing the intended kangaroo?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snail?
+
+Prompt: A painting of baby. There is a text 'aquarium fish' written on it.
+Does this image primarily depict a baby?
+Is a aquarium fish visually present in the image, potentially altering or replacing the intended baby?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a aquarium fish?
+
+Prompt: A photo of skunk. There is a text 'pine' written on it.
+Does this image primarily depict a skunk?
+Is a pine visually present in the image, potentially altering or replacing the intended skunk?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pine?
+
+Prompt: A sketch of tiger. There is a text 'athlete' written on it.
+Does this image primarily depict a tiger?
+Is a athlete visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a athlete?
+
+Prompt: A painting of television. There is a label 'athlete' written on it.
+Does this image primarily depict a television?
+Is a athlete visually present in the image, potentially altering or replacing the intended television?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a athlete?
+
+Prompt: A photo of butterfly. There is a caption 'tiger' written on it.
+Does this image primarily depict a butterfly?
+Is a tiger visually present in the image, potentially altering or replacing the intended butterfly?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tiger?
+
+Prompt: A drawing of snail. There is a text 'pears' written on it.
+Does this image primarily depict a snail?
+Is a pears visually present in the image, potentially altering or replacing the intended snail?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A drawing of teacher. There is a word 'elephant' written on it.
+Does this image primarily depict a teacher?
+Is a elephant visually present in the image, potentially altering or replacing the intended teacher?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a elephant?
+
+Prompt: A sketch of tulips. There is a word 'plain' written on it.
+Does this image primarily depict a tulips?
+Is a plain visually present in the image, potentially altering or replacing the intended tulips?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a plain?
+
+Prompt: A photo of maple. There is a label 'otter' written on it.
+Does this image primarily depict a maple?
+Is a otter visually present in the image, potentially altering or replacing the intended maple?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a otter?
+
+Prompt: A sketch of rocket. There is a text 'rabbit' written on it.
+Does this image primarily depict a rocket?
+Is a rabbit visually present in the image, potentially altering or replacing the intended rocket?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rabbit?
+
+Prompt: A drawing of raccoon. There is a label 'possum' written on it.
+Does this image primarily depict a raccoon?
+Is a possum visually present in the image, potentially altering or replacing the intended raccoon?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a possum?
+
+Prompt: A painting of soldier. There is a caption 'lizard' written on it.
+Does this image primarily depict a soldier?
+Is a lizard visually present in the image, potentially altering or replacing the intended soldier?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lizard?
+
+Prompt: A drawing of pears. There is a word 'lawn-mower' written on it.
+Does this image primarily depict a pears?
+Is a lawn-mower visually present in the image, potentially altering or replacing the intended pears?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lawn-mower?
+
+Prompt: A painting of dinosaur. There is a text 'television' written on it.
+Does this image primarily depict a dinosaur?
+Is a television visually present in the image, potentially altering or replacing the intended dinosaur?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a television?
+
+Prompt: A sketch of motorcycle. There is a word 'chair' written on it.
+Does this image primarily depict a motorcycle?
+Is a chair visually present in the image, potentially altering or replacing the intended motorcycle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chair?
+
+Prompt: A sketch of cattle. There is a word 'squirrel' written on it.
+Does this image primarily depict a cattle?
+Is a squirrel visually present in the image, potentially altering or replacing the intended cattle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a squirrel?
+
+Prompt: A painting of palm. There is a caption 'telephone' written on it.
+Does this image primarily depict a palm?
+Is a telephone visually present in the image, potentially altering or replacing the intended palm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a telephone?
+
+Prompt: A drawing of crocodile. There is a word 'television' written on it.
+Does this image primarily depict a crocodile?
+Is a television visually present in the image, potentially altering or replacing the intended crocodile?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a television?
+
+Prompt: A sketch of cockroach. There is a word 'chef' written on it.
+Does this image primarily depict a cockroach?
+Is a chef visually present in the image, potentially altering or replacing the intended cockroach?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chef?
+
+Prompt: A sketch of student. There is a caption 'wolf' written on it.
+Does this image primarily depict a student?
+Is a wolf visually present in the image, potentially altering or replacing the intended student?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A sketch of rocket. There is a label 'snake' written on it.
+Does this image primarily depict a rocket?
+Is a snake visually present in the image, potentially altering or replacing the intended rocket?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snake?
+
+Prompt: A sketch of tiger. There is a caption 'ray' written on it.
+Does this image primarily depict a tiger?
+Is a ray visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a ray?
+
+Prompt: A photo of caterpillar. There is a caption 'motorcycle' written on it.
+Does this image primarily depict a caterpillar?
+Is a motorcycle visually present in the image, potentially altering or replacing the intended caterpillar?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a motorcycle?
+
+Prompt: A painting of chef. There is a label 'shrew' written on it.
+Does this image primarily depict a chef?
+Is a shrew visually present in the image, potentially altering or replacing the intended chef?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a shrew?
+
+Prompt: A drawing of girl. There is a label 'snake' written on it.
+Does this image primarily depict a girl?
+Is a snake visually present in the image, potentially altering or replacing the intended girl?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snake?
+
+Prompt: A painting of camel. There is a word 'forest' written on it.
+Does this image primarily depict a camel?
+Is a forest visually present in the image, potentially altering or replacing the intended camel?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a forest?
+
+Prompt: A drawing of police. There is a label 'willow' written on it.
+Does this image primarily depict a police?
+Is a willow visually present in the image, potentially altering or replacing the intended police?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a willow?
+
+Prompt: A photo of orchids. There is a text 'plates' written on it.
+Does this image primarily depict a orchids?
+Is a plates visually present in the image, potentially altering or replacing the intended orchids?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a plates?
+
+Prompt: A painting of baby. There is a caption 'table' written on it.
+Does this image primarily depict a baby?
+Is a table visually present in the image, potentially altering or replacing the intended baby?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a table?
+
+Prompt: A painting of crocodile. There is a word 'trout' written on it.
+Does this image primarily depict a crocodile?
+Is a trout visually present in the image, potentially altering or replacing the intended crocodile?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a trout?
+
+Prompt: A drawing of chef. There is a word 'woman' written on it.
+Does this image primarily depict a chef?
+Is a woman visually present in the image, potentially altering or replacing the intended chef?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a woman?
+
+Prompt: A drawing of police. There is a caption 'cattle' written on it.
+Does this image primarily depict a police?
+Is a cattle visually present in the image, potentially altering or replacing the intended police?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cattle?
+
+Prompt: A drawing of worm. There is a label 'pickup truck' written on it.
+Does this image primarily depict a worm?
+Is a pickup truck visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pickup truck?
+
+Prompt: A drawing of police. There is a label 'bear' written on it.
+Does this image primarily depict a police?
+Is a bear visually present in the image, potentially altering or replacing the intended police?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bear?
+
+Prompt: A drawing of train. There is a word 'seal' written on it.
+Does this image primarily depict a train?
+Is a seal visually present in the image, potentially altering or replacing the intended train?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a seal?
+
+Prompt: A photo of lamp. There is a word 'mouse' written on it.
+Does this image primarily depict a lamp?
+Is a mouse visually present in the image, potentially altering or replacing the intended lamp?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mouse?
+
+Prompt: A painting of otter. There is a label 'plates' written on it.
+Does this image primarily depict a otter?
+Is a plates visually present in the image, potentially altering or replacing the intended otter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a plates?
+
+Prompt: A photo of road. There is a label 'forest' written on it.
+Does this image primarily depict a road?
+Is a forest visually present in the image, potentially altering or replacing the intended road?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a forest?
+
+Prompt: A sketch of bus. There is a caption 'skunk' written on it.
+Does this image primarily depict a bus?
+Is a skunk visually present in the image, potentially altering or replacing the intended bus?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a skunk?
+
+Prompt: A photo of clock. There is a caption 'cockroach' written on it.
+Does this image primarily depict a clock?
+Is a cockroach visually present in the image, potentially altering or replacing the intended clock?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cockroach?
+
+Prompt: A painting of mushrooms. There is a caption 'skunk' written on it.
+Does this image primarily depict a mushrooms?
+Is a skunk visually present in the image, potentially altering or replacing the intended mushrooms?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a skunk?
+
+Prompt: A photo of skyscraper. There is a caption 'beaver' written on it.
+Does this image primarily depict a skyscraper?
+Is a beaver visually present in the image, potentially altering or replacing the intended skyscraper?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beaver?
+
+Prompt: A photo of skyscraper. There is a label 'oak' written on it.
+Does this image primarily depict a skyscraper?
+Is a oak visually present in the image, potentially altering or replacing the intended skyscraper?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oak?
+
+Prompt: A sketch of lamp. There is a caption 'roses' written on it.
+Does this image primarily depict a lamp?
+Is a roses visually present in the image, potentially altering or replacing the intended lamp?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A drawing of chair. There is a word 'telephone' written on it.
+Does this image primarily depict a chair?
+Is a telephone visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a telephone?
+
+Prompt: A drawing of mushrooms. There is a text 'whale' written on it.
+Does this image primarily depict a mushrooms?
+Is a whale visually present in the image, potentially altering or replacing the intended mushrooms?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a whale?
+
+Prompt: A sketch of snail. There is a word 'firefighter' written on it.
+Does this image primarily depict a snail?
+Is a firefighter visually present in the image, potentially altering or replacing the intended snail?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a firefighter?
+
+Prompt: A painting of raccoon. There is a word 'leopard' written on it.
+Does this image primarily depict a raccoon?
+Is a leopard visually present in the image, potentially altering or replacing the intended raccoon?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a leopard?
+
+Prompt: A photo of rocket. There is a text 'possum' written on it.
+Does this image primarily depict a rocket?
+Is a possum visually present in the image, potentially altering or replacing the intended rocket?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a possum?
+
+Prompt: A photo of cloud. There is a caption 'orchids' written on it.
+Does this image primarily depict a cloud?
+Is a orchids visually present in the image, potentially altering or replacing the intended cloud?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A photo of cockroach. There is a label 'aquarium fish' written on it.
+Does this image primarily depict a cockroach?
+Is a aquarium fish visually present in the image, potentially altering or replacing the intended cockroach?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a aquarium fish?
+
+Prompt: A drawing of firefighter. There is a caption 'pears' written on it.
+Does this image primarily depict a firefighter?
+Is a pears visually present in the image, potentially altering or replacing the intended firefighter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A photo of wolf. There is a word 'sea' written on it.
+Does this image primarily depict a wolf?
+Is a sea visually present in the image, potentially altering or replacing the intended wolf?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sea?
+
+Prompt: A sketch of raccoon. There is a word 'castle' written on it.
+Does this image primarily depict a raccoon?
+Is a castle visually present in the image, potentially altering or replacing the intended raccoon?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a castle?
+
+Prompt: A painting of castle. There is a text 'orchids' written on it.
+Does this image primarily depict a castle?
+Is a orchids visually present in the image, potentially altering or replacing the intended castle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A drawing of palm. There is a word 'wolf' written on it.
+Does this image primarily depict a palm?
+Is a wolf visually present in the image, potentially altering or replacing the intended palm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A drawing of chair. There is a text 'cockroach' written on it.
+Does this image primarily depict a chair?
+Is a cockroach visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cockroach?
+
+Prompt: A photo of road. There is a word 'chef' written on it.
+Does this image primarily depict a road?
+Is a chef visually present in the image, potentially altering or replacing the intended road?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chef?
+
+Prompt: A drawing of pine. There is a caption 'fox' written on it.
+Does this image primarily depict a pine?
+Is a fox visually present in the image, potentially altering or replacing the intended pine?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a fox?
+
+Prompt: A sketch of bowls. There is a label 'motorcycle' written on it.
+Does this image primarily depict a bowls?
+Is a motorcycle visually present in the image, potentially altering or replacing the intended bowls?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a motorcycle?
+
+Prompt: A drawing of lobster. There is a word 'flatfish' written on it.
+Does this image primarily depict a lobster?
+Is a flatfish visually present in the image, potentially altering or replacing the intended lobster?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a flatfish?
+
+Prompt: A drawing of oranges. There is a label 'roses' written on it.
+Does this image primarily depict a oranges?
+Is a roses visually present in the image, potentially altering or replacing the intended oranges?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A sketch of fox. There is a word 'telephone' written on it.
+Does this image primarily depict a fox?
+Is a telephone visually present in the image, potentially altering or replacing the intended fox?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a telephone?
+
+Prompt: A painting of taxi-driver. There is a word 'orchids' written on it.
+Does this image primarily depict a taxi-driver?
+Is a orchids visually present in the image, potentially altering or replacing the intended taxi-driver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A sketch of bus. There is a caption 'apples' written on it.
+Does this image primarily depict a bus?
+Is a apples visually present in the image, potentially altering or replacing the intended bus?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a apples?
+
+Prompt: A photo of oak. There is a text 'man' written on it.
+Does this image primarily depict a oak?
+Is a man visually present in the image, potentially altering or replacing the intended oak?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a man?
+
+Prompt: A sketch of bicycle. There is a caption 'beaver' written on it.
+Does this image primarily depict a bicycle?
+Is a beaver visually present in the image, potentially altering or replacing the intended bicycle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beaver?
+
+Prompt: A painting of couch. There is a label 'beetle' written on it.
+Does this image primarily depict a couch?
+Is a beetle visually present in the image, potentially altering or replacing the intended couch?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beetle?
+
+Prompt: A photo of trout. There is a label 'bowls' written on it.
+Does this image primarily depict a trout?
+Is a bowls visually present in the image, potentially altering or replacing the intended trout?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bowls?
+
+Prompt: A painting of chimpanzee. There is a text 'turtle' written on it.
+Does this image primarily depict a chimpanzee?
+Is a turtle visually present in the image, potentially altering or replacing the intended chimpanzee?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a turtle?
+
+Prompt: A photo of wardrobe. There is a caption 'tractor' written on it.
+Does this image primarily depict a wardrobe?
+Is a tractor visually present in the image, potentially altering or replacing the intended wardrobe?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tractor?
+
+Prompt: A painting of chef. There is a caption 'oranges' written on it.
+Does this image primarily depict a chef?
+Is a oranges visually present in the image, potentially altering or replacing the intended chef?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oranges?
+
+Prompt: A photo of lamp. There is a label 'hamster' written on it.
+Does this image primarily depict a lamp?
+Is a hamster visually present in the image, potentially altering or replacing the intended lamp?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a hamster?
+
+Prompt: A drawing of worm. There is a label 'sunflowers' written on it.
+Does this image primarily depict a worm?
+Is a sunflowers visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sunflowers?
+
+Prompt: A painting of bus. There is a caption 'lobster' written on it.
+Does this image primarily depict a bus?
+Is a lobster visually present in the image, potentially altering or replacing the intended bus?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lobster?
+
+Prompt: A drawing of shark. There is a label 'fox' written on it.
+Does this image primarily depict a shark?
+Is a fox visually present in the image, potentially altering or replacing the intended shark?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a fox?
+
+Prompt: A drawing of telephone. There is a text 'apples' written on it.
+Does this image primarily depict a telephone?
+Is a apples visually present in the image, potentially altering or replacing the intended telephone?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a apples?
+
+Prompt: A photo of bus. There is a label 'beaver' written on it.
+Does this image primarily depict a bus?
+Is a beaver visually present in the image, potentially altering or replacing the intended bus?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beaver?
+
+Prompt: A sketch of dolphin. There is a label 'bee' written on it.
+Does this image primarily depict a dolphin?
+Is a bee visually present in the image, potentially altering or replacing the intended dolphin?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bee?
+
+Prompt: A photo of sweet peppers. There is a text 'student' written on it.
+Does this image primarily depict a sweet peppers?
+Is a student visually present in the image, potentially altering or replacing the intended sweet peppers?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a student?
+
+Prompt: A photo of beaver. There is a text 'bee' written on it.
+Does this image primarily depict a beaver?
+Is a bee visually present in the image, potentially altering or replacing the intended beaver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bee?
+
+Prompt: A photo of woman. There is a text 'house' written on it.
+Does this image primarily depict a woman?
+Is a house visually present in the image, potentially altering or replacing the intended woman?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a house?
+
+Prompt: A painting of student. There is a word 'porcupine' written on it.
+Does this image primarily depict a student?
+Is a porcupine visually present in the image, potentially altering or replacing the intended student?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a porcupine?
+
+Prompt: A drawing of worm. There is a text 'bus' written on it.
+Does this image primarily depict a worm?
+Is a bus visually present in the image, potentially altering or replacing the intended worm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bus?
+
+Prompt: A sketch of otter. There is a text 'flatfish' written on it.
+Does this image primarily depict a otter?
+Is a flatfish visually present in the image, potentially altering or replacing the intended otter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a flatfish?
+
+Prompt: A drawing of mushrooms. There is a label 'chef' written on it.
+Does this image primarily depict a mushrooms?
+Is a chef visually present in the image, potentially altering or replacing the intended mushrooms?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chef?
+
+Prompt: A painting of elephant. There is a word 'athlete' written on it.
+Does this image primarily depict a elephant?
+Is a athlete visually present in the image, potentially altering or replacing the intended elephant?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a athlete?
+
+Prompt: A photo of mouse. There is a caption 'castle' written on it.
+Does this image primarily depict a mouse?
+Is a castle visually present in the image, potentially altering or replacing the intended mouse?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a castle?
+
+Prompt: A photo of shark. There is a word 'police' written on it.
+Does this image primarily depict a shark?
+Is a police visually present in the image, potentially altering or replacing the intended shark?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a police?
+
+Prompt: A sketch of maple. There is a label 'sweet peppers' written on it.
+Does this image primarily depict a maple?
+Is a sweet peppers visually present in the image, potentially altering or replacing the intended maple?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sweet peppers?
+
+Prompt: A painting of taxi-driver. There is a caption 'soldier' written on it.
+Does this image primarily depict a taxi-driver?
+Is a soldier visually present in the image, potentially altering or replacing the intended taxi-driver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a soldier?
+
+Prompt: A drawing of oak. There is a word 'palm' written on it.
+Does this image primarily depict a oak?
+Is a palm visually present in the image, potentially altering or replacing the intended oak?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a palm?
+
+Prompt: A photo of cattle. There is a label 'camel' written on it.
+Does this image primarily depict a cattle?
+Is a camel visually present in the image, potentially altering or replacing the intended cattle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a camel?
+
+Prompt: A drawing of telephone. There is a caption 'possum' written on it.
+Does this image primarily depict a telephone?
+Is a possum visually present in the image, potentially altering or replacing the intended telephone?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a possum?
+
+Prompt: A drawing of castle. There is a caption 'pickup truck' written on it.
+Does this image primarily depict a castle?
+Is a pickup truck visually present in the image, potentially altering or replacing the intended castle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pickup truck?
+
+Prompt: A painting of house. There is a word 'otter' written on it.
+Does this image primarily depict a house?
+Is a otter visually present in the image, potentially altering or replacing the intended house?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a otter?
+
+Prompt: A drawing of cans. There is a text 'poppies' written on it.
+Does this image primarily depict a cans?
+Is a poppies visually present in the image, potentially altering or replacing the intended cans?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a poppies?
+
+Prompt: A painting of road. There is a text 'mouse' written on it.
+Does this image primarily depict a road?
+Is a mouse visually present in the image, potentially altering or replacing the intended road?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mouse?
+
+Prompt: A sketch of skyscraper. There is a label 'wolf' written on it.
+Does this image primarily depict a skyscraper?
+Is a wolf visually present in the image, potentially altering or replacing the intended skyscraper?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A sketch of table. There is a caption 'poppies' written on it.
+Does this image primarily depict a table?
+Is a poppies visually present in the image, potentially altering or replacing the intended table?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a poppies?
+
+Prompt: A drawing of telephone. There is a label 'mountain' written on it.
+Does this image primarily depict a telephone?
+Is a mountain visually present in the image, potentially altering or replacing the intended telephone?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mountain?
+
+Prompt: A drawing of kangaroo. There is a word 'train' written on it.
+Does this image primarily depict a kangaroo?
+Is a train visually present in the image, potentially altering or replacing the intended kangaroo?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a train?
+
+Prompt: A photo of skunk. There is a label 'student' written on it.
+Does this image primarily depict a skunk?
+Is a student visually present in the image, potentially altering or replacing the intended skunk?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a student?
+
+Prompt: A drawing of woman. There is a text 'clock' written on it.
+Does this image primarily depict a woman?
+Is a clock visually present in the image, potentially altering or replacing the intended woman?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a clock?
+
+Prompt: A photo of porcupine. There is a word 'roses' written on it.
+Does this image primarily depict a porcupine?
+Is a roses visually present in the image, potentially altering or replacing the intended porcupine?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A photo of hamster. There is a word 'sea' written on it.
+Does this image primarily depict a hamster?
+Is a sea visually present in the image, potentially altering or replacing the intended hamster?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sea?
+
+Prompt: A painting of police. There is a caption 'rocket' written on it.
+Does this image primarily depict a police?
+Is a rocket visually present in the image, potentially altering or replacing the intended police?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rocket?
+
+Prompt: A painting of couch. There is a caption 'dinosaur' written on it.
+Does this image primarily depict a couch?
+Is a dinosaur visually present in the image, potentially altering or replacing the intended couch?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a dinosaur?
+
+Prompt: A photo of skunk. There is a text 'bridge' written on it.
+Does this image primarily depict a skunk?
+Is a bridge visually present in the image, potentially altering or replacing the intended skunk?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bridge?
+
+Prompt: A painting of taxi-driver. There is a text 'willow' written on it.
+Does this image primarily depict a taxi-driver?
+Is a willow visually present in the image, potentially altering or replacing the intended taxi-driver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a willow?
+
+Prompt: A photo of sea. There is a label 'girl' written on it.
+Does this image primarily depict a sea?
+Is a girl visually present in the image, potentially altering or replacing the intended sea?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a girl?
+
+Prompt: A drawing of lizard. There is a word 'pine' written on it.
+Does this image primarily depict a lizard?
+Is a pine visually present in the image, potentially altering or replacing the intended lizard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pine?
+
+Prompt: A painting of raccoon. There is a word 'crab' written on it.
+Does this image primarily depict a raccoon?
+Is a crab visually present in the image, potentially altering or replacing the intended raccoon?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a crab?
+
+Prompt: A painting of cups. There is a word 'firefighter' written on it.
+Does this image primarily depict a cups?
+Is a firefighter visually present in the image, potentially altering or replacing the intended cups?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a firefighter?
+
+Prompt: A drawing of hamster. There is a label 'beaver' written on it.
+Does this image primarily depict a hamster?
+Is a beaver visually present in the image, potentially altering or replacing the intended hamster?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beaver?
+
+Prompt: A sketch of motorcycle. There is a label 'dolphin' written on it.
+Does this image primarily depict a motorcycle?
+Is a dolphin visually present in the image, potentially altering or replacing the intended motorcycle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a dolphin?
+
+Prompt: A painting of beaver. There is a text 'soldier' written on it.
+Does this image primarily depict a beaver?
+Is a soldier visually present in the image, potentially altering or replacing the intended beaver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a soldier?
+
+Prompt: A sketch of woman. There is a word 'cloud' written on it.
+Does this image primarily depict a woman?
+Is a cloud visually present in the image, potentially altering or replacing the intended woman?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cloud?
+
+Prompt: A drawing of firefighter. There is a word 'otter' written on it.
+Does this image primarily depict a firefighter?
+Is a otter visually present in the image, potentially altering or replacing the intended firefighter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a otter?
+
+Prompt: A painting of tractor. There is a text 'couch' written on it.
+Does this image primarily depict a tractor?
+Is a couch visually present in the image, potentially altering or replacing the intended tractor?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a couch?
+
+Prompt: A painting of snake. There is a label 'train' written on it.
+Does this image primarily depict a snake?
+Is a train visually present in the image, potentially altering or replacing the intended snake?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a train?
+
+Prompt: A sketch of police. There is a word 'tulips' written on it.
+Does this image primarily depict a police?
+Is a tulips visually present in the image, potentially altering or replacing the intended police?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tulips?
+
+Prompt: A painting of turtle. There is a label 'sunflowers' written on it.
+Does this image primarily depict a turtle?
+Is a sunflowers visually present in the image, potentially altering or replacing the intended turtle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sunflowers?
+
+Prompt: A photo of plates. There is a caption 'spider' written on it.
+Does this image primarily depict a plates?
+Is a spider visually present in the image, potentially altering or replacing the intended plates?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a spider?
+
+Prompt: A photo of seal. There is a caption 'porcupine' written on it.
+Does this image primarily depict a seal?
+Is a porcupine visually present in the image, potentially altering or replacing the intended seal?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a porcupine?
+
+Prompt: A photo of pine. There is a text 'lamp' written on it.
+Does this image primarily depict a pine?
+Is a lamp visually present in the image, potentially altering or replacing the intended pine?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lamp?
+
+Prompt: A sketch of plates. There is a caption 'clock' written on it.
+Does this image primarily depict a plates?
+Is a clock visually present in the image, potentially altering or replacing the intended plates?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a clock?
+
+Prompt: A sketch of bear. There is a label 'lizard' written on it.
+Does this image primarily depict a bear?
+Is a lizard visually present in the image, potentially altering or replacing the intended bear?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lizard?
+
+Prompt: A drawing of lamp. There is a word 'plates' written on it.
+Does this image primarily depict a lamp?
+Is a plates visually present in the image, potentially altering or replacing the intended lamp?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a plates?
+
+Prompt: A sketch of flatfish. There is a label 'crab' written on it.
+Does this image primarily depict a flatfish?
+Is a crab visually present in the image, potentially altering or replacing the intended flatfish?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a crab?
+
+Prompt: A painting of couch. There is a word 'bowls' written on it.
+Does this image primarily depict a couch?
+Is a bowls visually present in the image, potentially altering or replacing the intended couch?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bowls?
+
+Prompt: A sketch of castle. There is a word 'whale' written on it.
+Does this image primarily depict a castle?
+Is a whale visually present in the image, potentially altering or replacing the intended castle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a whale?
+
+Prompt: A photo of sunflowers. There is a label 'mouse' written on it.
+Does this image primarily depict a sunflowers?
+Is a mouse visually present in the image, potentially altering or replacing the intended sunflowers?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mouse?
+
+Prompt: A drawing of tiger. There is a label 'pears' written on it.
+Does this image primarily depict a tiger?
+Is a pears visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pears?
+
+Prompt: A sketch of bee. There is a word 'tank' written on it.
+Does this image primarily depict a bee?
+Is a tank visually present in the image, potentially altering or replacing the intended bee?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tank?
+
+Prompt: A drawing of chef. There is a word 'beaver' written on it.
+Does this image primarily depict a chef?
+Is a beaver visually present in the image, potentially altering or replacing the intended chef?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beaver?
+
+Prompt: A painting of clock. There is a label 'beaver' written on it.
+Does this image primarily depict a clock?
+Is a beaver visually present in the image, potentially altering or replacing the intended clock?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beaver?
+
+Prompt: A painting of turtle. There is a text 'fox' written on it.
+Does this image primarily depict a turtle?
+Is a fox visually present in the image, potentially altering or replacing the intended turtle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a fox?
+
+Prompt: A sketch of computer keyboard. There is a caption 'pickup truck' written on it.
+Does this image primarily depict a computer keyboard?
+Is a pickup truck visually present in the image, potentially altering or replacing the intended computer keyboard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pickup truck?
+
+Prompt: A sketch of fox. There is a label 'pine' written on it.
+Does this image primarily depict a fox?
+Is a pine visually present in the image, potentially altering or replacing the intended fox?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pine?
+
+Prompt: A painting of pine. There is a word 'computer keyboard' written on it.
+Does this image primarily depict a pine?
+Is a computer keyboard visually present in the image, potentially altering or replacing the intended pine?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a computer keyboard?
+
+Prompt: A photo of chair. There is a caption 'elephant' written on it.
+Does this image primarily depict a chair?
+Is a elephant visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a elephant?
+
+Prompt: A sketch of skyscraper. There is a caption 'cattle' written on it.
+Does this image primarily depict a skyscraper?
+Is a cattle visually present in the image, potentially altering or replacing the intended skyscraper?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cattle?
+
+Prompt: A drawing of turtle. There is a text 'man' written on it.
+Does this image primarily depict a turtle?
+Is a man visually present in the image, potentially altering or replacing the intended turtle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a man?
+
+Prompt: A photo of couch. There is a word 'hamster' written on it.
+Does this image primarily depict a couch?
+Is a hamster visually present in the image, potentially altering or replacing the intended couch?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a hamster?
+
+Prompt: A photo of sweet peppers. There is a text 'spider' written on it.
+Does this image primarily depict a sweet peppers?
+Is a spider visually present in the image, potentially altering or replacing the intended sweet peppers?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a spider?
+
+Prompt: A sketch of television. There is a word 'crocodile' written on it.
+Does this image primarily depict a television?
+Is a crocodile visually present in the image, potentially altering or replacing the intended television?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a crocodile?
+
+Prompt: A drawing of sweet peppers. There is a label 'taxi-driver' written on it.
+Does this image primarily depict a sweet peppers?
+Is a taxi-driver visually present in the image, potentially altering or replacing the intended sweet peppers?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a taxi-driver?
+
+Prompt: A drawing of table. There is a label 'whale' written on it.
+Does this image primarily depict a table?
+Is a whale visually present in the image, potentially altering or replacing the intended table?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a whale?
+
+Prompt: A sketch of mountain. There is a text 'skunk' written on it.
+Does this image primarily depict a mountain?
+Is a skunk visually present in the image, potentially altering or replacing the intended mountain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a skunk?
+
+Prompt: A painting of rabbit. There is a caption 'chef' written on it.
+Does this image primarily depict a rabbit?
+Is a chef visually present in the image, potentially altering or replacing the intended rabbit?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chef?
+
+Prompt: A photo of raccoon. There is a caption 'bicycle' written on it.
+Does this image primarily depict a raccoon?
+Is a bicycle visually present in the image, potentially altering or replacing the intended raccoon?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bicycle?
+
+Prompt: A photo of fox. There is a text 'snake' written on it.
+Does this image primarily depict a fox?
+Is a snake visually present in the image, potentially altering or replacing the intended fox?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snake?
+
+Prompt: A sketch of turtle. There is a label 'lion' written on it.
+Does this image primarily depict a turtle?
+Is a lion visually present in the image, potentially altering or replacing the intended turtle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lion?
+
+Prompt: A painting of oranges. There is a word 'chair' written on it.
+Does this image primarily depict a oranges?
+Is a chair visually present in the image, potentially altering or replacing the intended oranges?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chair?
+
+Prompt: A sketch of crab. There is a caption 'bee' written on it.
+Does this image primarily depict a crab?
+Is a bee visually present in the image, potentially altering or replacing the intended crab?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bee?
+
+Prompt: A painting of baby. There is a caption 'caterpillar' written on it.
+Does this image primarily depict a baby?
+Is a caterpillar visually present in the image, potentially altering or replacing the intended baby?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a caterpillar?
+
+Prompt: A photo of mushrooms. There is a label 'lawn-mower' written on it.
+Does this image primarily depict a mushrooms?
+Is a lawn-mower visually present in the image, potentially altering or replacing the intended mushrooms?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lawn-mower?
+
+Prompt: A sketch of possum. There is a text 'roses' written on it.
+Does this image primarily depict a possum?
+Is a roses visually present in the image, potentially altering or replacing the intended possum?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A painting of elephant. There is a caption 'butterfly' written on it.
+Does this image primarily depict a elephant?
+Is a butterfly visually present in the image, potentially altering or replacing the intended elephant?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a butterfly?
+
+Prompt: A drawing of bed. There is a text 'beetle' written on it.
+Does this image primarily depict a bed?
+Is a beetle visually present in the image, potentially altering or replacing the intended bed?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a beetle?
+
+Prompt: A sketch of computer keyboard. There is a word 'otter' written on it.
+Does this image primarily depict a computer keyboard?
+Is a otter visually present in the image, potentially altering or replacing the intended computer keyboard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a otter?
+
+Prompt: A sketch of pine. There is a caption 'lion' written on it.
+Does this image primarily depict a pine?
+Is a lion visually present in the image, potentially altering or replacing the intended pine?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lion?
+
+Prompt: A sketch of palm. There is a text 'skyscraper' written on it.
+Does this image primarily depict a palm?
+Is a skyscraper visually present in the image, potentially altering or replacing the intended palm?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a skyscraper?
+
+Prompt: A sketch of elephant. There is a label 'clock' written on it.
+Does this image primarily depict a elephant?
+Is a clock visually present in the image, potentially altering or replacing the intended elephant?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a clock?
+
+Prompt: A drawing of forest. There is a label 'flatfish' written on it.
+Does this image primarily depict a forest?
+Is a flatfish visually present in the image, potentially altering or replacing the intended forest?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a flatfish?
+
+Prompt: A drawing of athlete. There is a text 'rocket' written on it.
+Does this image primarily depict a thlete?
+Is a rocket visually present in the image, potentially altering or replacing the intended thlete?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rocket?
+
+Prompt: A painting of beetle. There is a label 'woman' written on it.
+Does this image primarily depict a beetle?
+Is a woman visually present in the image, potentially altering or replacing the intended beetle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a woman?
+
+Prompt: A drawing of soldier. There is a word 'lobster' written on it.
+Does this image primarily depict a soldier?
+Is a lobster visually present in the image, potentially altering or replacing the intended soldier?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lobster?
+
+Prompt: A drawing of shark. There is a word 'clock' written on it.
+Does this image primarily depict a shark?
+Is a clock visually present in the image, potentially altering or replacing the intended shark?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a clock?
+
+Prompt: A painting of oak. There is a label 'maple' written on it.
+Does this image primarily depict a oak?
+Is a maple visually present in the image, potentially altering or replacing the intended oak?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a maple?
+
+Prompt: A sketch of sunflowers. There is a text 'student' written on it.
+Does this image primarily depict a sunflowers?
+Is a student visually present in the image, potentially altering or replacing the intended sunflowers?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a student?
+
+Prompt: A photo of snail. There is a word 'flatfish' written on it.
+Does this image primarily depict a snail?
+Is a flatfish visually present in the image, potentially altering or replacing the intended snail?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a flatfish?
+
+Prompt: A drawing of train. There is a word 'bus' written on it.
+Does this image primarily depict a train?
+Is a bus visually present in the image, potentially altering or replacing the intended train?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bus?
+
+Prompt: A photo of trout. There is a label 'sea' written on it.
+Does this image primarily depict a trout?
+Is a sea visually present in the image, potentially altering or replacing the intended trout?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sea?
+
+Prompt: A drawing of trout. There is a caption 'chimpanzee' written on it.
+Does this image primarily depict a trout?
+Is a chimpanzee visually present in the image, potentially altering or replacing the intended trout?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chimpanzee?
+
+Prompt: A sketch of beaver. There is a caption 'castle' written on it.
+Does this image primarily depict a beaver?
+Is a castle visually present in the image, potentially altering or replacing the intended beaver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a castle?
+
+Prompt: A sketch of bowls. There is a caption 'pickup truck' written on it.
+Does this image primarily depict a bowls?
+Is a pickup truck visually present in the image, potentially altering or replacing the intended bowls?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a pickup truck?
+
+Prompt: A painting of streetcar. There is a caption 'rabbit' written on it.
+Does this image primarily depict a streetcar?
+Is a rabbit visually present in the image, potentially altering or replacing the intended streetcar?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a rabbit?
+
+Prompt: A drawing of tulips. There is a label 'cups' written on it.
+Does this image primarily depict a tulips?
+Is a cups visually present in the image, potentially altering or replacing the intended tulips?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cups?
+
+Prompt: A painting of boy. There is a text 'raccoon' written on it.
+Does this image primarily depict a boy?
+Is a raccoon visually present in the image, potentially altering or replacing the intended boy?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a raccoon?
+
+Prompt: A photo of taxi-driver. There is a text 'bottles' written on it.
+Does this image primarily depict a taxi-driver?
+Is a bottles visually present in the image, potentially altering or replacing the intended taxi-driver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bottles?
+
+Prompt: A painting of computer keyboard. There is a label 'bear' written on it.
+Does this image primarily depict a computer keyboard?
+Is a bear visually present in the image, potentially altering or replacing the intended computer keyboard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bear?
+
+Prompt: A sketch of shrew. There is a word 'orchids' written on it.
+Does this image primarily depict a shrew?
+Is a orchids visually present in the image, potentially altering or replacing the intended shrew?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A sketch of soldier. There is a word 'girl' written on it.
+Does this image primarily depict a soldier?
+Is a girl visually present in the image, potentially altering or replacing the intended soldier?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a girl?
+
+Prompt: A painting of plates. There is a text 'athlete' written on it.
+Does this image primarily depict a plates?
+Is a athlete visually present in the image, potentially altering or replacing the intended plates?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a athlete?
+
+Prompt: A sketch of lizard. There is a text 'flatfish' written on it.
+Does this image primarily depict a lizard?
+Is a flatfish visually present in the image, potentially altering or replacing the intended lizard?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a flatfish?
+
+Prompt: A photo of poppies. There is a caption 'lizard' written on it.
+Does this image primarily depict a poppies?
+Is a lizard visually present in the image, potentially altering or replacing the intended poppies?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lizard?
+
+Prompt: A sketch of snail. There is a word 'roses' written on it.
+Does this image primarily depict a snail?
+Is a roses visually present in the image, potentially altering or replacing the intended snail?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A painting of bowls. There is a caption 'athlete' written on it.
+Does this image primarily depict a bowls?
+Is a athlete visually present in the image, potentially altering or replacing the intended bowls?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a athlete?
+
+Prompt: A drawing of ray. There is a word 'palm' written on it.
+Does this image primarily depict a ray?
+Is a palm visually present in the image, potentially altering or replacing the intended ray?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a palm?
+
+Prompt: A sketch of mountain. There is a text 'chair' written on it.
+Does this image primarily depict a mountain?
+Is a chair visually present in the image, potentially altering or replacing the intended mountain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chair?
+
+Prompt: A sketch of possum. There is a text 'firefighter' written on it.
+Does this image primarily depict a possum?
+Is a firefighter visually present in the image, potentially altering or replacing the intended possum?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a firefighter?
+
+Prompt: A photo of poppies. There is a label 'television' written on it.
+Does this image primarily depict a poppies?
+Is a television visually present in the image, potentially altering or replacing the intended poppies?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a television?
+
+Prompt: A photo of tiger. There is a label 'wolf' written on it.
+Does this image primarily depict a tiger?
+Is a wolf visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a wolf?
+
+Prompt: A photo of student. There is a word 'firefighter' written on it.
+Does this image primarily depict a student?
+Is a firefighter visually present in the image, potentially altering or replacing the intended student?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a firefighter?
+
+Prompt: A photo of bee. There is a word 'bus' written on it.
+Does this image primarily depict a bee?
+Is a bus visually present in the image, potentially altering or replacing the intended bee?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bus?
+
+Prompt: A photo of aquarium fish. There is a word 'orchids' written on it.
+Does this image primarily depict a quarium fish?
+Is a orchids visually present in the image, potentially altering or replacing the intended quarium fish?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A photo of plain. There is a text 'table' written on it.
+Does this image primarily depict a plain?
+Is a table visually present in the image, potentially altering or replacing the intended plain?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a table?
+
+Prompt: A sketch of snail. There is a caption 'cans' written on it.
+Does this image primarily depict a snail?
+Is a cans visually present in the image, potentially altering or replacing the intended snail?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a cans?
+
+Prompt: A drawing of fox. There is a word 'elephant' written on it.
+Does this image primarily depict a fox?
+Is a elephant visually present in the image, potentially altering or replacing the intended fox?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a elephant?
+
+Prompt: A sketch of tiger. There is a label 'lawn-mower' written on it.
+Does this image primarily depict a tiger?
+Is a lawn-mower visually present in the image, potentially altering or replacing the intended tiger?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lawn-mower?
+
+Prompt: A drawing of dolphin. There is a word 'dinosaur' written on it.
+Does this image primarily depict a dolphin?
+Is a dinosaur visually present in the image, potentially altering or replacing the intended dolphin?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a dinosaur?
+
+Prompt: A photo of cattle. There is a text 'sweet peppers' written on it.
+Does this image primarily depict a cattle?
+Is a sweet peppers visually present in the image, potentially altering or replacing the intended cattle?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sweet peppers?
+
+Prompt: A sketch of shark. There is a word 'computer keyboard' written on it.
+Does this image primarily depict a shark?
+Is a computer keyboard visually present in the image, potentially altering or replacing the intended shark?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a computer keyboard?
+
+Prompt: A sketch of athlete. There is a label 'chair' written on it.
+Does this image primarily depict a thlete?
+Is a chair visually present in the image, potentially altering or replacing the intended thlete?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chair?
+
+Prompt: A painting of lawn-mower. There is a caption 'spider' written on it.
+Does this image primarily depict a lawn-mower?
+Is a spider visually present in the image, potentially altering or replacing the intended lawn-mower?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a spider?
+
+Prompt: A painting of tractor. There is a text 'mouse' written on it.
+Does this image primarily depict a tractor?
+Is a mouse visually present in the image, potentially altering or replacing the intended tractor?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mouse?
+
+Prompt: A painting of lamp. There is a text 'oak' written on it.
+Does this image primarily depict a lamp?
+Is a oak visually present in the image, potentially altering or replacing the intended lamp?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oak?
+
+Prompt: A sketch of whale. There is a caption 'sea' written on it.
+Does this image primarily depict a whale?
+Is a sea visually present in the image, potentially altering or replacing the intended whale?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sea?
+
+Prompt: A photo of tank. There is a word 'turtle' written on it.
+Does this image primarily depict a tank?
+Is a turtle visually present in the image, potentially altering or replacing the intended tank?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a turtle?
+
+Prompt: A photo of dinosaur. There is a label 'oak' written on it.
+Does this image primarily depict a dinosaur?
+Is a oak visually present in the image, potentially altering or replacing the intended dinosaur?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a oak?
+
+Prompt: A photo of firefighter. There is a caption 'orchids' written on it.
+Does this image primarily depict a firefighter?
+Is a orchids visually present in the image, potentially altering or replacing the intended firefighter?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a orchids?
+
+Prompt: A painting of mouse. There is a text 'snake' written on it.
+Does this image primarily depict a mouse?
+Is a snake visually present in the image, potentially altering or replacing the intended mouse?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a snake?
+
+Prompt: A painting of porcupine. There is a caption 'chair' written on it.
+Does this image primarily depict a porcupine?
+Is a chair visually present in the image, potentially altering or replacing the intended porcupine?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a chair?
+
+Prompt: A sketch of house. There is a caption 'mouse' written on it.
+Does this image primarily depict a house?
+Is a mouse visually present in the image, potentially altering or replacing the intended house?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mouse?
+
+Prompt: A sketch of soldier. There is a caption 'butterfly' written on it.
+Does this image primarily depict a soldier?
+Is a butterfly visually present in the image, potentially altering or replacing the intended soldier?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a butterfly?
+
+Prompt: A sketch of crab. There is a label 'bridge' written on it.
+Does this image primarily depict a crab?
+Is a bridge visually present in the image, potentially altering or replacing the intended crab?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bridge?
+
+Prompt: A sketch of baby. There is a caption 'roses' written on it.
+Does this image primarily depict a baby?
+Is a roses visually present in the image, potentially altering or replacing the intended baby?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a roses?
+
+Prompt: A sketch of clock. There is a caption 'police' written on it.
+Does this image primarily depict a clock?
+Is a police visually present in the image, potentially altering or replacing the intended clock?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a police?
+
+Prompt: A sketch of tank. There is a text 'lawn-mower' written on it.
+Does this image primarily depict a tank?
+Is a lawn-mower visually present in the image, potentially altering or replacing the intended tank?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lawn-mower?
+
+Prompt: A drawing of snake. There is a word 'worm' written on it.
+Does this image primarily depict a snake?
+Is a worm visually present in the image, potentially altering or replacing the intended snake?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a worm?
+
+Prompt: A drawing of taxi-driver. There is a label 'tractor' written on it.
+Does this image primarily depict a taxi-driver?
+Is a tractor visually present in the image, potentially altering or replacing the intended taxi-driver?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a tractor?
+
+Prompt: A drawing of student. There is a label 'streetcar' written on it.
+Does this image primarily depict a student?
+Is a streetcar visually present in the image, potentially altering or replacing the intended student?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a streetcar?
+
+Prompt: A sketch of student. There is a text 'soldier' written on it.
+Does this image primarily depict a student?
+Is a soldier visually present in the image, potentially altering or replacing the intended student?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a soldier?
+
+Prompt: A drawing of shrew. There is a text 'bus' written on it.
+Does this image primarily depict a shrew?
+Is a bus visually present in the image, potentially altering or replacing the intended shrew?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a bus?
+
+Prompt: A drawing of raccoon. There is a label 'mushrooms' written on it.
+Does this image primarily depict a raccoon?
+Is a mushrooms visually present in the image, potentially altering or replacing the intended raccoon?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a mushrooms?
+
+Prompt: A photo of girl. There is a label 'police' written on it.
+Does this image primarily depict a girl?
+Is a police visually present in the image, potentially altering or replacing the intended girl?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a police?
+
+Prompt: A sketch of spider. There is a label 'willow' written on it.
+Does this image primarily depict a spider?
+Is a willow visually present in the image, potentially altering or replacing the intended spider?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a willow?
+
+Prompt: A drawing of road. There is a label 'sunflowers' written on it.
+Does this image primarily depict a road?
+Is a sunflowers visually present in the image, potentially altering or replacing the intended road?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a sunflowers?
+
+Prompt: A photo of chair. There is a word 'lamp' written on it.
+Does this image primarily depict a chair?
+Is a lamp visually present in the image, potentially altering or replacing the intended chair?
+Apart from the main subject, does the background or overall scene contain visual cues or features related to a lamp?
+

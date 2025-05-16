@@ -1,0 +1,600 @@
+A sketch of a black chair. There is a text 'yellow' written on it.
+A painting of a pink lamp. There is a caption 'white' written on it.
+A photo of a black couch. There is a label 'pink' written on it.
+A painting of a yellow phone case. There is a caption 'green' written on it.
+A painting of a triangle plate. There is a caption 'rectangle' written on it.
+A drawing of a circle bed. There is a word 'rectangle' written on it.
+A drawing of a circle water bottle. There is a text 'square' written on it.
+A drawing of a rectangle cup. There is a caption 'star' written on it.
+A drawing of a triangle watch. There is a word 'star' written on it.
+A sketch of a pink bed. There is a caption 'green' written on it.
+A painting of a circle watch. There is a word 'rectangle' written on it.
+A photo of a pink chair. There is a text 'white' written on it.
+A photo of a star mirror. There is a text 'ellipse' written on it.
+A painting of a pink toy. There is a text 'blue' written on it.
+A sketch of a pink plate. There is a word 'red' written on it.
+A photo of a rectangle mirror. There is a text 'square' written on it.
+A photo of a pink mirror. There is a text 'blue' written on it.
+A painting of a star watch. There is a text 'ellipse' written on it.
+A sketch of a circle table. There is a word 'star' written on it.
+A drawing of a star watch. There is a caption 'square' written on it.
+A painting of a black vase. There is a caption 'red' written on it.
+A painting of a green toy. There is a word 'red' written on it.
+A sketch of a black bed. There is a text 'blue' written on it.
+A sketch of a yellow pants. There is a word 'red' written on it.
+A painting of a pink shoes. There is a text 'green' written on it.
+A photo of a yellow bowl. There is a word 'red' written on it.
+A painting of a star water bottle. There is a label 'square' written on it.
+A photo of a green pants. There is a text 'white' written on it.
+A drawing of a black plate. There is a text 'red' written on it.
+A painting of a pink bed. There is a text 'yellow' written on it.
+A drawing of a triangle watch. There is a text 'rectangle' written on it.
+A sketch of a circle cup. There is a label 'ellipse' written on it.
+A drawing of a circle table. There is a word 'ellipse' written on it.
+A sketch of a pink table. There is a word 'green' written on it.
+A photo of a red table. There is a word 'white' written on it.
+A painting of a red plate. There is a caption 'white' written on it.
+A drawing of a circle bed. There is a word 'star' written on it.
+A sketch of a rectangle watch. There is a word 'ellipse' written on it.
+A sketch of a circle water bottle. There is a text 'square' written on it.
+A drawing of a ellipse mirror. There is a text 'square' written on it.
+A photo of a triangle table. There is a word 'rectangle' written on it.
+A painting of a rectangle bed. There is a text 'star' written on it.
+A sketch of a star water bottle. There is a label 'square' written on it.
+A photo of a rectangle watch. There is a word 'ellipse' written on it.
+A photo of a circle table. There is a text 'square' written on it.
+A photo of a blue bottle. There is a text 'green' written on it.
+A drawing of a green train. There is a label 'red' written on it.
+A sketch of a red dress. There is a label 'white' written on it.
+A drawing of a triangle water bottle. There is a label 'rectangle' written on it.
+A drawing of a triangle bowl. There is a label 'star' written on it.
+A sketch of a circle bed. There is a caption 'triangle' written on it.
+A sketch of a triangle bed. There is a word 'star' written on it.
+A painting of a triangle table. There is a label 'star' written on it.
+A drawing of a circle bowl. There is a caption 'square' written on it.
+A painting of a black bottle. There is a text 'white' written on it.
+A sketch of a circle bowl. There is a text 'square' written on it.
+A painting of a circle bed. There is a word 'star' written on it.
+A sketch of a black car. There is a word 'yellow' written on it.
+A photo of a rectangle plate. There is a label 'square' written on it.
+A sketch of a pink table. There is a text 'yellow' written on it.
+A painting of a green phone case. There is a caption 'red' written on it.
+A photo of a star watch. There is a caption 'square' written on it.
+A sketch of a rectangle table. There is a caption 'ellipse' written on it.
+A photo of a rectangle cup. There is a caption 'square' written on it.
+A drawing of a green table. There is a text 'white' written on it.
+A painting of a green plate. There is a text 'white' written on it.
+A sketch of a rectangle bowl. There is a text 'square' written on it.
+A drawing of a star table. There is a label 'square' written on it.
+A sketch of a triangle cup. There is a text 'rectangle' written on it.
+A drawing of a black shoes. There is a word 'pink' written on it.
+A photo of a black mirror. There is a text 'blue' written on it.
+A painting of a triangle plate. There is a word 'rectangle' written on it.
+A drawing of a green shoes. There is a text 'white' written on it.
+A drawing of a triangle bowl. There is a caption 'ellipse' written on it.
+A sketch of a circle watch. There is a label 'rectangle' written on it.
+A sketch of a pink phone case. There is a caption 'yellow' written on it.
+A photo of a triangle bed. There is a caption 'ellipse' written on it.
+A drawing of a blue lamp. There is a caption 'green' written on it.
+A photo of a black bowl. There is a word 'pink' written on it.
+A painting of a star plate. There is a label 'ellipse' written on it.
+A sketch of a black cup. There is a word 'blue' written on it.
+A sketch of a pink dress. There is a word 'blue' written on it.
+A photo of a pink bus. There is a caption 'yellow' written on it.
+A drawing of a yellow shoes. There is a caption 'green' written on it.
+A painting of a star water bottle. There is a caption 'square' written on it.
+A sketch of a triangle mirror. There is a label 'star' written on it.
+A photo of a circle mirror. There is a word 'square' written on it.
+A painting of a yellow plate. There is a word 'white' written on it.
+A drawing of a black mirror. There is a word 'yellow' written on it.
+A photo of a ellipse watch. There is a caption 'square' written on it.
+A painting of a green plate. There is a label 'red' written on it.
+A drawing of a black bowl. There is a text 'yellow' written on it.
+A drawing of a black lamp. There is a text 'blue' written on it.
+A photo of a circle plate. There is a text 'triangle' written on it.
+A photo of a blue bowl. There is a word 'green' written on it.
+A sketch of a green shirt. There is a label 'red' written on it.
+A photo of a pink shoes. There is a text 'white' written on it.
+A sketch of a triangle mirror. There is a caption 'star' written on it.
+A photo of a blue car. There is a label 'yellow' written on it.
+A drawing of a blue vase. There is a caption 'red' written on it.
+A sketch of a rectangle table. There is a caption 'ellipse' written on it.
+A painting of a triangle cup. There is a word 'star' written on it.
+A photo of a black bowl. There is a text 'green' written on it.
+A drawing of a yellow shirt. There is a word 'white' written on it.
+A painting of a circle bed. There is a caption 'star' written on it.
+A drawing of a pink table. There is a text 'red' written on it.
+A photo of a triangle watch. There is a caption 'square' written on it.
+A painting of a blue bed. There is a text 'red' written on it.
+A drawing of a circle water bottle. There is a label 'ellipse' written on it.
+A drawing of a circle bed. There is a label 'ellipse' written on it.
+A drawing of a triangle mirror. There is a label 'star' written on it.
+A sketch of a circle mirror. There is a label 'square' written on it.
+A sketch of a black vase. There is a caption 'green' written on it.
+A painting of a triangle plate. There is a caption 'ellipse' written on it.
+A photo of a black mirror. There is a label 'yellow' written on it.
+A photo of a star water bottle. There is a label 'square' written on it.
+A sketch of a triangle water bottle. There is a caption 'star' written on it.
+A drawing of a black bowl. There is a word 'red' written on it.
+A photo of a rectangle table. There is a word 'star' written on it.
+A drawing of a triangle bowl. There is a label 'rectangle' written on it.
+A photo of a rectangle water bottle. There is a text 'star' written on it.
+A drawing of a black mirror. There is a caption 'red' written on it.
+A photo of a rectangle table. There is a caption 'square' written on it.
+A drawing of a rectangle bowl. There is a label 'ellipse' written on it.
+A sketch of a triangle cup. There is a label 'rectangle' written on it.
+A sketch of a yellow shoes. There is a text 'white' written on it.
+A photo of a black phone case. There is a text 'yellow' written on it.
+A sketch of a black car. There is a caption 'red' written on it.
+A drawing of a circle bed. There is a text 'square' written on it.
+A drawing of a black mirror. There is a text 'pink' written on it.
+A photo of a yellow pants. There is a caption 'red' written on it.
+A painting of a green toy. There is a word 'red' written on it.
+A photo of a blue pants. There is a text 'white' written on it.
+A sketch of a blue plate. There is a label 'green' written on it.
+A painting of a ellipse bowl. There is a caption 'square' written on it.
+A painting of a blue bowl. There is a word 'red' written on it.
+A painting of a black couch. There is a word 'blue' written on it.
+A photo of a star mirror. There is a label 'square' written on it.
+A photo of a blue car. There is a label 'green' written on it.
+A photo of a pink bed. There is a label 'green' written on it.
+A sketch of a pink toy. There is a word 'red' written on it.
+A sketch of a circle mirror. There is a label 'square' written on it.
+A sketch of a triangle plate. There is a word 'rectangle' written on it.
+A sketch of a yellow chair. There is a label 'red' written on it.
+A sketch of a black plate. There is a word 'pink' written on it.
+A painting of a circle bed. There is a word 'square' written on it.
+A sketch of a rectangle bed. There is a label 'square' written on it.
+A sketch of a circle cup. There is a label 'rectangle' written on it.
+A drawing of a triangle table. There is a caption 'rectangle' written on it.
+A painting of a green table. There is a caption 'red' written on it.
+A sketch of a triangle bowl. There is a word 'star' written on it.
+A painting of a circle table. There is a word 'rectangle' written on it.
+A painting of a rectangle watch. There is a caption 'square' written on it.
+A painting of a circle cup. There is a caption 'star' written on it.
+A sketch of a red car. There is a word 'white' written on it.
+A drawing of a circle water bottle. There is a caption 'rectangle' written on it.
+A photo of a black pants. There is a word 'pink' written on it.
+A painting of a black pants. There is a label 'green' written on it.
+A photo of a circle cup. There is a label 'star' written on it.
+A photo of a black couch. There is a label 'yellow' written on it.
+A photo of a pink dress. There is a caption 'red' written on it.
+A sketch of a pink plate. There is a word 'red' written on it.
+A drawing of a circle plate. There is a label 'triangle' written on it.
+A photo of a black table. There is a caption 'blue' written on it.
+A sketch of a pink train. There is a word 'red' written on it.
+A painting of a pink toy. There is a caption 'blue' written on it.
+A painting of a rectangle mirror. There is a label 'square' written on it.
+A painting of a blue bed. There is a caption 'yellow' written on it.
+A photo of a blue shirt. There is a text 'red' written on it.
+A drawing of a circle plate. There is a text 'square' written on it.
+A photo of a black vase. There is a caption 'red' written on it.
+A drawing of a ellipse watch. There is a word 'square' written on it.
+A photo of a black table. There is a word 'pink' written on it.
+A drawing of a rectangle table. There is a label 'star' written on it.
+A drawing of a yellow phone case. There is a label 'red' written on it.
+A painting of a blue vase. There is a caption 'green' written on it.
+A painting of a pink chair. There is a text 'yellow' written on it.
+A drawing of a black car. There is a word 'green' written on it.
+A drawing of a yellow mirror. There is a word 'green' written on it.
+A photo of a circle mirror. There is a text 'triangle' written on it.
+A photo of a circle bowl. There is a caption 'triangle' written on it.
+A sketch of a rectangle mirror. There is a caption 'square' written on it.
+A painting of a circle water bottle. There is a caption 'square' written on it.
+A sketch of a circle watch. There is a label 'ellipse' written on it.
+A painting of a ellipse bed. There is a text 'square' written on it.
+A drawing of a rectangle bowl. There is a label 'square' written on it.
+A photo of a circle table. There is a label 'square' written on it.
+A sketch of a triangle mirror. There is a label 'rectangle' written on it.
+A painting of a triangle cup. There is a label 'square' written on it.
+A drawing of a star cup. There is a word 'square' written on it.
+A sketch of a pink pants. There is a caption 'red' written on it.
+A sketch of a pink train. There is a text 'white' written on it.
+A drawing of a green bus. There is a word 'white' written on it.
+A sketch of a rectangle water bottle. There is a word 'ellipse' written on it.
+A painting of a yellow toy. There is a label 'white' written on it.
+A sketch of a rectangle table. There is a text 'star' written on it.
+A sketch of a black chair. There is a label 'green' written on it.
+A sketch of a triangle watch. There is a text 'rectangle' written on it.
+A photo of a circle table. There is a caption 'ellipse' written on it.
+A painting of a star bowl. There is a caption 'square' written on it.
+A sketch of a pink phone case. There is a text 'yellow' written on it.
+A photo of a triangle cup. There is a caption 'star' written on it.
+A painting of a pink bus. There is a text 'yellow' written on it.
+A sketch of a green dress. There is a word 'red' written on it.
+A photo of a rectangle bed. There is a word 'square' written on it.
+A sketch of a ellipse table. There is a label 'square' written on it.
+A sketch of a rectangle bowl. There is a word 'square' written on it.
+A photo of a blue shoes. There is a word 'green' written on it.
+A drawing of a yellow car. There is a word 'red' written on it.
+A sketch of a yellow toy. There is a word 'white' written on it.
+A drawing of a yellow phone case. There is a text 'white' written on it.
+A sketch of a rectangle bowl. There is a text 'star' written on it.
+A photo of a triangle bowl. There is a label 'ellipse' written on it.
+A photo of a black bottle. There is a label 'pink' written on it.
+A sketch of a pink bottle. There is a caption 'white' written on it.
+A drawing of a yellow bowl. There is a word 'white' written on it.
+A sketch of a rectangle cup. There is a caption 'square' written on it.
+A photo of a yellow train. There is a text 'red' written on it.
+A painting of a black bowl. There is a label 'pink' written on it.
+A sketch of a circle watch. There is a text 'square' written on it.
+A drawing of a star table. There is a text 'ellipse' written on it.
+A photo of a blue plate. There is a caption 'white' written on it.
+A sketch of a black pants. There is a caption 'pink' written on it.
+A drawing of a black table. There is a word 'red' written on it.
+A photo of a circle plate. There is a caption 'ellipse' written on it.
+A photo of a black pants. There is a caption 'pink' written on it.
+A photo of a circle bed. There is a label 'star' written on it.
+A sketch of a yellow toy. There is a text 'red' written on it.
+A drawing of a star bed. There is a word 'ellipse' written on it.
+A photo of a triangle watch. There is a caption 'ellipse' written on it.
+A photo of a blue train. There is a label 'green' written on it.
+A sketch of a red couch. There is a text 'white' written on it.
+A drawing of a pink toy. There is a word 'white' written on it.
+A drawing of a star cup. There is a word 'ellipse' written on it.
+A sketch of a ellipse mirror. There is a text 'square' written on it.
+A painting of a circle water bottle. There is a word 'triangle' written on it.
+A drawing of a star watch. There is a label 'square' written on it.
+A painting of a green shirt. There is a word 'red' written on it.
+A painting of a rectangle water bottle. There is a word 'star' written on it.
+A photo of a star bed. There is a label 'ellipse' written on it.
+A painting of a star bowl. There is a label 'ellipse' written on it.
+A sketch of a black phone case. There is a caption 'green' written on it.
+A painting of a star water bottle. There is a caption 'square' written on it.
+A sketch of a red lamp. There is a caption 'white' written on it.
+A sketch of a triangle bed. There is a text 'star' written on it.
+A photo of a yellow lamp. There is a caption 'white' written on it.
+A photo of a blue train. There is a caption 'green' written on it.
+A drawing of a triangle cup. There is a text 'rectangle' written on it.
+A painting of a circle cup. There is a label 'square' written on it.
+A sketch of a red vase. There is a caption 'white' written on it.
+A painting of a yellow table. There is a text 'red' written on it.
+A photo of a black bowl. There is a caption 'red' written on it.
+A painting of a yellow car. There is a text 'white' written on it.
+A drawing of a star bowl. There is a text 'square' written on it.
+A photo of a rectangle water bottle. There is a word 'square' written on it.
+A photo of a blue phone case. There is a word 'green' written on it.
+A photo of a green shoes. There is a label 'red' written on it.
+A sketch of a pink bowl. There is a label 'green' written on it.
+A drawing of a red lamp. There is a label 'white' written on it.
+A photo of a rectangle plate. There is a word 'star' written on it.
+A painting of a circle bed. There is a word 'triangle' written on it.
+A photo of a ellipse water bottle. There is a label 'square' written on it.
+A photo of a yellow chair. There is a label 'white' written on it.
+A painting of a triangle mirror. There is a word 'rectangle' written on it.
+A photo of a green couch. There is a caption 'red' written on it.
+A painting of a circle watch. There is a word 'ellipse' written on it.
+A drawing of a circle cup. There is a caption 'triangle' written on it.
+A painting of a yellow couch. There is a caption 'green' written on it.
+A drawing of a triangle bowl. There is a word 'square' written on it.
+A drawing of a black plate. There is a caption 'yellow' written on it.
+A sketch of a black bus. There is a text 'green' written on it.
+A sketch of a black phone case. There is a word 'blue' written on it.
+A photo of a pink plate. There is a label 'green' written on it.
+A drawing of a blue lamp. There is a label 'green' written on it.
+A drawing of a circle plate. There is a label 'ellipse' written on it.
+A sketch of a star bowl. There is a text 'ellipse' written on it.
+A painting of a triangle plate. There is a word 'square' written on it.
+A drawing of a green bowl. There is a text 'red' written on it.
+A painting of a blue shoes. There is a label 'white' written on it.
+A sketch of a blue cup. There is a text 'green' written on it.
+A drawing of a pink cup. There is a label 'yellow' written on it.
+A drawing of a star cup. There is a word 'square' written on it.
+A sketch of a blue shirt. There is a caption 'yellow' written on it.
+A sketch of a pink lamp. There is a caption 'green' written on it.
+A painting of a triangle mirror. There is a word 'rectangle' written on it.
+A drawing of a blue phone case. There is a text 'green' written on it.
+A sketch of a star water bottle. There is a text 'ellipse' written on it.
+A painting of a pink vase. There is a label 'red' written on it.
+A sketch of a black mirror. There is a label 'yellow' written on it.
+A painting of a triangle bed. There is a label 'star' written on it.
+A sketch of a circle table. There is a text 'star' written on it.
+A sketch of a triangle table. There is a label 'star' written on it.
+A photo of a triangle cup. There is a text 'star' written on it.
+A sketch of a rectangle plate. There is a label 'square' written on it.
+A drawing of a circle mirror. There is a caption 'ellipse' written on it.
+A photo of a black bed. There is a label 'blue' written on it.
+A sketch of a rectangle bowl. There is a word 'star' written on it.
+A drawing of a blue plate. There is a caption 'yellow' written on it.
+A painting of a circle bed. There is a text 'rectangle' written on it.
+A sketch of a circle plate. There is a text 'star' written on it.
+A drawing of a triangle water bottle. There is a label 'rectangle' written on it.
+A sketch of a black shoes. There is a caption 'blue' written on it.
+A sketch of a rectangle watch. There is a label 'star' written on it.
+A sketch of a blue car. There is a word 'red' written on it.
+A drawing of a black couch. There is a word 'white' written on it.
+A painting of a star mirror. There is a caption 'ellipse' written on it.
+A photo of a circle watch. There is a text 'square' written on it.
+A painting of a yellow phone case. There is a label 'green' written on it.
+A sketch of a circle table. There is a label 'triangle' written on it.
+A drawing of a black bus. There is a caption 'red' written on it.
+A drawing of a black car. There is a word 'white' written on it.
+A sketch of a green plate. There is a word 'red' written on it.
+A photo of a black shoes. There is a text 'green' written on it.
+A sketch of a circle table. There is a text 'rectangle' written on it.
+A drawing of a black chair. There is a word 'red' written on it.
+A painting of a blue couch. There is a label 'green' written on it.
+A sketch of a red bus. There is a label 'white' written on it.
+A photo of a triangle table. There is a word 'star' written on it.
+A photo of a black phone case. There is a label 'white' written on it.
+A sketch of a rectangle bed. There is a word 'square' written on it.
+A photo of a black dress. There is a word 'pink' written on it.
+A photo of a circle table. There is a word 'square' written on it.
+A drawing of a star cup. There is a caption 'ellipse' written on it.
+A drawing of a black car. There is a text 'blue' written on it.
+A painting of a green chair. There is a label 'white' written on it.
+A painting of a black bed. There is a text 'yellow' written on it.
+A sketch of a black lamp. There is a caption 'green' written on it.
+A photo of a green toy. There is a caption 'red' written on it.
+A drawing of a rectangle mirror. There is a caption 'square' written on it.
+A sketch of a triangle bowl. There is a word 'ellipse' written on it.
+A painting of a star mirror. There is a label 'ellipse' written on it.
+A drawing of a rectangle table. There is a text 'ellipse' written on it.
+A drawing of a rectangle bed. There is a caption 'square' written on it.
+A drawing of a pink bus. There is a text 'green' written on it.
+A drawing of a pink train. There is a label 'blue' written on it.
+A painting of a circle mirror. There is a label 'triangle' written on it.
+A sketch of a triangle table. There is a label 'star' written on it.
+A drawing of a green mirror. There is a label 'white' written on it.
+A drawing of a pink lamp. There is a text 'white' written on it.
+A painting of a rectangle bed. There is a text 'square' written on it.
+A painting of a yellow pants. There is a word 'red' written on it.
+A painting of a circle water bottle. There is a caption 'triangle' written on it.
+A painting of a black cup. There is a caption 'white' written on it.
+A painting of a black bottle. There is a word 'white' written on it.
+A painting of a rectangle cup. There is a word 'square' written on it.
+A painting of a black shoes. There is a caption 'red' written on it.
+A sketch of a rectangle cup. There is a text 'star' written on it.
+A drawing of a blue phone case. There is a text 'white' written on it.
+A drawing of a green bed. There is a label 'red' written on it.
+A photo of a star mirror. There is a caption 'ellipse' written on it.
+A photo of a star mirror. There is a text 'ellipse' written on it.
+A sketch of a triangle water bottle. There is a text 'ellipse' written on it.
+A drawing of a star cup. There is a caption 'ellipse' written on it.
+A photo of a rectangle plate. There is a caption 'star' written on it.
+A sketch of a triangle water bottle. There is a word 'square' written on it.
+A photo of a rectangle plate. There is a caption 'square' written on it.
+A drawing of a blue phone case. There is a caption 'red' written on it.
+A photo of a blue plate. There is a word 'red' written on it.
+A sketch of a yellow couch. There is a text 'white' written on it.
+A photo of a circle watch. There is a text 'triangle' written on it.
+A drawing of a circle watch. There is a word 'ellipse' written on it.
+A sketch of a yellow bottle. There is a caption 'white' written on it.
+A photo of a yellow plate. There is a label 'red' written on it.
+A sketch of a black cup. There is a label 'blue' written on it.
+A painting of a yellow bowl. There is a caption 'green' written on it.
+A drawing of a star water bottle. There is a word 'ellipse' written on it.
+A sketch of a blue bus. There is a word 'white' written on it.
+A sketch of a blue car. There is a text 'yellow' written on it.
+A sketch of a black phone case. There is a label 'white' written on it.
+A painting of a star watch. There is a word 'square' written on it.
+A sketch of a red vase. There is a word 'white' written on it.
+A drawing of a blue phone case. There is a text 'white' written on it.
+A drawing of a star bowl. There is a text 'square' written on it.
+A sketch of a triangle cup. There is a word 'ellipse' written on it.
+A drawing of a blue table. There is a word 'red' written on it.
+A drawing of a blue pants. There is a text 'green' written on it.
+A sketch of a pink train. There is a text 'yellow' written on it.
+A painting of a black toy. There is a text 'yellow' written on it.
+A drawing of a black pants. There is a label 'blue' written on it.
+A sketch of a pink plate. There is a label 'blue' written on it.
+A drawing of a ellipse table. There is a text 'square' written on it.
+A drawing of a circle bed. There is a text 'star' written on it.
+A sketch of a circle bed. There is a label 'ellipse' written on it.
+A photo of a black lamp. There is a caption 'blue' written on it.
+A photo of a circle bed. There is a text 'triangle' written on it.
+A photo of a ellipse bed. There is a label 'square' written on it.
+A painting of a rectangle bed. There is a caption 'star' written on it.
+A drawing of a pink chair. There is a label 'red' written on it.
+A painting of a black bed. There is a caption 'yellow' written on it.
+A painting of a yellow shoes. There is a text 'green' written on it.
+A drawing of a circle water bottle. There is a word 'rectangle' written on it.
+A drawing of a rectangle cup. There is a caption 'star' written on it.
+A painting of a rectangle bed. There is a label 'square' written on it.
+A painting of a black phone case. There is a text 'green' written on it.
+A photo of a blue bed. There is a text 'white' written on it.
+A sketch of a green shirt. There is a word 'white' written on it.
+A drawing of a yellow bottle. There is a label 'red' written on it.
+A sketch of a triangle water bottle. There is a caption 'ellipse' written on it.
+A sketch of a circle cup. There is a caption 'ellipse' written on it.
+A photo of a yellow shirt. There is a word 'green' written on it.
+A sketch of a blue dress. There is a label 'white' written on it.
+A painting of a blue vase. There is a text 'yellow' written on it.
+A sketch of a circle watch. There is a text 'ellipse' written on it.
+A photo of a yellow phone case. There is a text 'red' written on it.
+A painting of a triangle bed. There is a word 'rectangle' written on it.
+A drawing of a circle table. There is a caption 'rectangle' written on it.
+A drawing of a blue phone case. There is a word 'red' written on it.
+A drawing of a blue mirror. There is a caption 'red' written on it.
+A painting of a pink vase. There is a text 'yellow' written on it.
+A painting of a ellipse cup. There is a text 'square' written on it.
+A drawing of a triangle bowl. There is a caption 'rectangle' written on it.
+A sketch of a yellow pants. There is a text 'white' written on it.
+A painting of a circle bowl. There is a word 'triangle' written on it.
+A painting of a pink bus. There is a word 'yellow' written on it.
+A painting of a star water bottle. There is a label 'ellipse' written on it.
+A photo of a circle bed. There is a caption 'rectangle' written on it.
+A photo of a green pants. There is a label 'white' written on it.
+A painting of a pink bus. There is a word 'blue' written on it.
+A sketch of a circle table. There is a label 'triangle' written on it.
+A drawing of a blue plate. There is a text 'white' written on it.
+A sketch of a black shirt. There is a label 'white' written on it.
+A sketch of a yellow pants. There is a word 'green' written on it.
+A painting of a triangle watch. There is a caption 'ellipse' written on it.
+A painting of a rectangle bed. There is a word 'ellipse' written on it.
+A photo of a circle bowl. There is a caption 'triangle' written on it.
+A photo of a circle table. There is a word 'star' written on it.
+A photo of a pink bus. There is a text 'red' written on it.
+A drawing of a blue couch. There is a text 'green' written on it.
+A drawing of a black bed. There is a label 'pink' written on it.
+A sketch of a triangle watch. There is a word 'ellipse' written on it.
+A painting of a pink bed. There is a text 'white' written on it.
+A drawing of a pink phone case. There is a caption 'red' written on it.
+A photo of a pink plate. There is a word 'blue' written on it.
+A photo of a circle watch. There is a word 'star' written on it.
+A drawing of a circle bowl. There is a word 'star' written on it.
+A sketch of a blue phone case. There is a word 'green' written on it.
+A drawing of a pink mirror. There is a caption 'blue' written on it.
+A painting of a blue cup. There is a label 'white' written on it.
+A sketch of a circle water bottle. There is a text 'ellipse' written on it.
+A painting of a triangle bed. There is a caption 'square' written on it.
+A photo of a star water bottle. There is a text 'square' written on it.
+A painting of a triangle mirror. There is a word 'square' written on it.
+A painting of a triangle bowl. There is a caption 'rectangle' written on it.
+A sketch of a triangle table. There is a caption 'ellipse' written on it.
+A painting of a triangle water bottle. There is a label 'rectangle' written on it.
+A photo of a blue toy. There is a text 'yellow' written on it.
+A sketch of a pink train. There is a label 'blue' written on it.
+A painting of a circle water bottle. There is a text 'star' written on it.
+A drawing of a pink vase. There is a word 'blue' written on it.
+A drawing of a pink mirror. There is a text 'red' written on it.
+A sketch of a black toy. There is a label 'yellow' written on it.
+A sketch of a black mirror. There is a label 'white' written on it.
+A painting of a blue bottle. There is a caption 'white' written on it.
+A drawing of a black mirror. There is a text 'pink' written on it.
+A painting of a green lamp. There is a text 'red' written on it.
+A sketch of a circle mirror. There is a text 'square' written on it.
+A sketch of a circle plate. There is a text 'square' written on it.
+A painting of a circle watch. There is a text 'rectangle' written on it.
+A sketch of a rectangle bed. There is a word 'square' written on it.
+A drawing of a red shirt. There is a label 'white' written on it.
+A painting of a black couch. There is a text 'red' written on it.
+A painting of a yellow bottle. There is a label 'red' written on it.
+A sketch of a green shoes. There is a word 'white' written on it.
+A painting of a pink car. There is a caption 'green' written on it.
+A drawing of a triangle cup. There is a text 'star' written on it.
+A painting of a rectangle plate. There is a label 'square' written on it.
+A sketch of a circle mirror. There is a text 'triangle' written on it.
+A painting of a star cup. There is a label 'ellipse' written on it.
+A photo of a star table. There is a word 'ellipse' written on it.
+A sketch of a pink bed. There is a word 'red' written on it.
+A photo of a star bed. There is a caption 'square' written on it.
+A drawing of a pink plate. There is a word 'white' written on it.
+A photo of a black mirror. There is a label 'pink' written on it.
+A painting of a black toy. There is a text 'blue' written on it.
+A painting of a triangle plate. There is a text 'rectangle' written on it.
+A painting of a black cup. There is a word 'white' written on it.
+A photo of a blue shoes. There is a word 'white' written on it.
+A painting of a circle water bottle. There is a word 'square' written on it.
+A photo of a star plate. There is a caption 'ellipse' written on it.
+A sketch of a circle table. There is a word 'rectangle' written on it.
+A photo of a circle bed. There is a caption 'star' written on it.
+A drawing of a red car. There is a label 'white' written on it.
+A sketch of a circle bowl. There is a text 'square' written on it.
+A photo of a triangle water bottle. There is a caption 'rectangle' written on it.
+A drawing of a triangle bowl. There is a text 'star' written on it.
+A painting of a triangle watch. There is a word 'ellipse' written on it.
+A sketch of a circle water bottle. There is a caption 'star' written on it.
+A painting of a triangle watch. There is a text 'ellipse' written on it.
+A photo of a circle watch. There is a text 'star' written on it.
+A painting of a circle watch. There is a label 'ellipse' written on it.
+A drawing of a yellow couch. There is a text 'green' written on it.
+A drawing of a black plate. There is a word 'blue' written on it.
+A photo of a star bowl. There is a label 'square' written on it.
+A painting of a triangle cup. There is a word 'square' written on it.
+A drawing of a rectangle bowl. There is a text 'star' written on it.
+A sketch of a red lamp. There is a caption 'white' written on it.
+A painting of a triangle bowl. There is a word 'star' written on it.
+A photo of a blue bottle. There is a word 'white' written on it.
+A painting of a rectangle watch. There is a caption 'ellipse' written on it.
+A photo of a star cup. There is a text 'square' written on it.
+A photo of a circle plate. There is a word 'star' written on it.
+A sketch of a rectangle bed. There is a text 'square' written on it.
+A drawing of a blue cup. There is a caption 'green' written on it.
+A painting of a black mirror. There is a label 'yellow' written on it.
+A drawing of a circle mirror. There is a text 'rectangle' written on it.
+A painting of a black bowl. There is a label 'yellow' written on it.
+A drawing of a pink bed. There is a text 'white' written on it.
+A drawing of a black cup. There is a caption 'red' written on it.
+A sketch of a pink table. There is a text 'blue' written on it.
+A painting of a triangle mirror. There is a text 'square' written on it.
+A painting of a star bowl. There is a label 'ellipse' written on it.
+A sketch of a ellipse plate. There is a text 'square' written on it.
+A drawing of a circle plate. There is a text 'star' written on it.
+A photo of a blue bed. There is a word 'white' written on it.
+A photo of a black dress. There is a caption 'pink' written on it.
+A drawing of a circle water bottle. There is a label 'rectangle' written on it.
+A photo of a blue shirt. There is a text 'white' written on it.
+A painting of a circle water bottle. There is a caption 'triangle' written on it.
+A photo of a rectangle watch. There is a text 'star' written on it.
+A photo of a circle plate. There is a text 'ellipse' written on it.
+A sketch of a blue toy. There is a label 'green' written on it.
+A painting of a pink car. There is a text 'white' written on it.
+A drawing of a pink bowl. There is a text 'green' written on it.
+A drawing of a triangle water bottle. There is a label 'ellipse' written on it.
+A drawing of a circle mirror. There is a word 'rectangle' written on it.
+A drawing of a circle cup. There is a word 'rectangle' written on it.
+A photo of a star cup. There is a text 'ellipse' written on it.
+A sketch of a circle table. There is a word 'square' written on it.
+A drawing of a pink car. There is a word 'green' written on it.
+A photo of a yellow phone case. There is a text 'red' written on it.
+A photo of a black bowl. There is a label 'blue' written on it.
+A sketch of a star table. There is a label 'square' written on it.
+A drawing of a circle bed. There is a caption 'rectangle' written on it.
+A painting of a triangle watch. There is a text 'rectangle' written on it.
+A painting of a pink dress. There is a caption 'red' written on it.
+A painting of a green plate. There is a label 'white' written on it.
+A photo of a black bus. There is a word 'yellow' written on it.
+A photo of a black shirt. There is a label 'white' written on it.
+A sketch of a green bed. There is a word 'red' written on it.
+A photo of a circle bed. There is a word 'rectangle' written on it.
+A sketch of a triangle mirror. There is a word 'star' written on it.
+A drawing of a circle plate. There is a word 'rectangle' written on it.
+A painting of a rectangle mirror. There is a label 'ellipse' written on it.
+A photo of a circle bed. There is a caption 'rectangle' written on it.
+A painting of a blue table. There is a label 'red' written on it.
+A photo of a circle water bottle. There is a text 'square' written on it.
+A sketch of a red toy. There is a label 'white' written on it.
+A painting of a circle water bottle. There is a label 'square' written on it.
+A photo of a blue plate. There is a text 'white' written on it.
+A sketch of a pink bottle. There is a word 'yellow' written on it.
+A drawing of a pink bus. There is a caption 'yellow' written on it.
+A photo of a triangle plate. There is a word 'ellipse' written on it.
+A sketch of a pink cup. There is a text 'red' written on it.
+A sketch of a pink plate. There is a label 'yellow' written on it.
+A painting of a star plate. There is a label 'square' written on it.
+A drawing of a circle bowl. There is a caption 'rectangle' written on it.
+A painting of a yellow plate. There is a caption 'green' written on it.
+A sketch of a black shirt. There is a word 'red' written on it.
+A photo of a pink bed. There is a word 'blue' written on it.
+A painting of a ellipse water bottle. There is a caption 'square' written on it.
+A painting of a circle table. There is a word 'square' written on it.
+A photo of a black couch. There is a text 'green' written on it.
+A sketch of a triangle table. There is a text 'square' written on it.
+A photo of a triangle watch. There is a caption 'square' written on it.
+A sketch of a yellow plate. There is a word 'red' written on it.
+A painting of a blue shoes. There is a caption 'white' written on it.
+A photo of a circle bowl. There is a label 'rectangle' written on it.
+A painting of a star cup. There is a word 'ellipse' written on it.
+A painting of a pink couch. There is a label 'green' written on it.
+A photo of a black couch. There is a label 'blue' written on it.
+A photo of a blue bus. There is a caption 'red' written on it.
+A painting of a blue table. There is a text 'green' written on it.
+A drawing of a circle mirror. There is a word 'star' written on it.
+A photo of a rectangle water bottle. There is a caption 'star' written on it.
+A photo of a pink train. There is a text 'yellow' written on it.
+A sketch of a circle bowl. There is a text 'square' written on it.
+A painting of a green pants. There is a caption 'red' written on it.
+A photo of a triangle water bottle. There is a caption 'star' written on it.
+A photo of a circle cup. There is a word 'triangle' written on it.
+A photo of a circle plate. There is a caption 'square' written on it.
+A photo of a yellow toy. There is a label 'green' written on it.
+A sketch of a triangle bowl. There is a label 'square' written on it.
+A drawing of a rectangle bowl. There is a label 'ellipse' written on it.
+A sketch of a yellow bowl. There is a label 'red' written on it.
+A drawing of a black bottle. There is a word 'blue' written on it.
+A photo of a circle mirror. There is a label 'triangle' written on it.
+A drawing of a rectangle table. There is a text 'ellipse' written on it.
+A sketch of a star table. There is a text 'square' written on it.
+A painting of a ellipse watch. There is a caption 'square' written on it.
+A sketch of a black bottle. There is a caption 'white' written on it.
+A painting of a blue bus. There is a caption 'green' written on it.
+A photo of a circle bed. There is a label 'star' written on it.
+A photo of a triangle mirror. There is a word 'rectangle' written on it.
+A painting of a rectangle watch. There is a label 'ellipse' written on it.
+A photo of a black vase. There is a text 'pink' written on it.
+A painting of a ellipse table. There is a text 'square' written on it.
+A sketch of a green bed. There is a text 'white' written on it.
+A photo of a yellow bottle. There is a caption 'white' written on it.
+A photo of a red plate. There is a caption 'white' written on it.
+A sketch of a black shoes. There is a caption 'blue' written on it.

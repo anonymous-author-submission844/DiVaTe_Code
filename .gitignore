@@ -1,0 +1,10 @@
+result/
+flux/result/
+stablediffusion/outputs/
+poc_result/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+generators/__pycache__/

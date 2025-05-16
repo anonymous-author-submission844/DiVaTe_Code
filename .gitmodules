@@ -1,0 +1,3 @@
+[submodule "AnyText"]
+	path = AnyText
+	url = https://github.com/tyxsspa/AnyText.git

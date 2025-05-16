@@ -1,0 +1,1500 @@
+Prompt: A picture of a glass bowl. There is a text 'rubber' written on it.
+Does this image show a bowl primarily made of glass?
+Does the bowl appear to be made of rubber?
+Focusing on the surroundings (not the bowl), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a wooden chair. There is a label 'plastic' written on it.
+Does this image show a chair primarily made of wooden?
+Does the chair appear to be made of plastic?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a leather gloves. There is a label 'rubber' written on it.
+Does this image show a gloves primarily made of leather?
+Does the gloves appear to be made of rubber?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a rubber gloves. There is a caption 'plastic' written on it.
+Does this image show a gloves primarily made of rubber?
+Does the gloves appear to be made of plastic?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a leather jacket. There is a caption 'fabric' written on it.
+Does this image show a jacket primarily made of leather?
+Does the jacket appear to be made of fabric?
+Focusing on the surroundings (not the jacket), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a leather gloves. There is a word 'wooden' written on it.
+Does this image show a gloves primarily made of leather?
+Does the gloves appear to be made of wooden?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a glass vase. There is a caption 'metallic' written on it.
+Does this image show a vase primarily made of glass?
+Does the vase appear to be made of metallic?
+Focusing on the surroundings (not the vase), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a fabric jacket. There is a caption 'metallic' written on it.
+Does this image show a jacket primarily made of fabric?
+Does the jacket appear to be made of metallic?
+Focusing on the surroundings (not the jacket), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a metallic ring. There is a label 'glass' written on it.
+Does this image show a ring primarily made of metallic?
+Does the ring appear to be made of glass?
+Focusing on the surroundings (not the ring), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a plastic cutlery. There is a text 'fabric' written on it.
+Does this image show a cutlery primarily made of plastic?
+Does the cutlery appear to be made of fabric?
+Focusing on the surroundings (not the cutlery), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A drawing of a fabric curtain. There is a label 'fluffy' written on it.
+Does this image show a curtain primarily made of fabric?
+Does the curtain appear to be made of fluffy?
+Focusing on the surroundings (not the curtain), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a fluffy rug. There is a word 'fabric' written on it.
+Does this image show a rug primarily made of fluffy?
+Does the rug appear to be made of fabric?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A drawing of a plastic toy. There is a text 'fluffy' written on it.
+Does this image show a toy primarily made of plastic?
+Does the toy appear to be made of fluffy?
+Focusing on the surroundings (not the toy), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a leather watch. There is a label 'plastic' written on it.
+Does this image show a watch primarily made of leather?
+Does the watch appear to be made of plastic?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A drawing of a metallic bracelet. There is a label 'glass' written on it.
+Does this image show a bracelet primarily made of metallic?
+Does the bracelet appear to be made of glass?
+Focusing on the surroundings (not the bracelet), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a metallic bracelet. There is a word 'glass' written on it.
+Does this image show a bracelet primarily made of metallic?
+Does the bracelet appear to be made of glass?
+Focusing on the surroundings (not the bracelet), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a wooden jewelry box. There is a caption 'fabric' written on it.
+Does this image show a jewelry box primarily made of wooden?
+Does the jewelry box appear to be made of fabric?
+Focusing on the surroundings (not the jewelry box), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a fabric dress. There is a text 'metallic' written on it.
+Does this image show a dress primarily made of fabric?
+Does the dress appear to be made of metallic?
+Focusing on the surroundings (not the dress), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a glass plate. There is a caption 'rubber' written on it.
+Does this image show a plate primarily made of glass?
+Does the plate appear to be made of rubber?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a metallic keychain. There is a text 'fabric' written on it.
+Does this image show a keychain primarily made of metallic?
+Does the keychain appear to be made of fabric?
+Focusing on the surroundings (not the keychain), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a glass bowl. There is a text 'fluffy' written on it.
+Does this image show a bowl primarily made of glass?
+Does the bowl appear to be made of fluffy?
+Focusing on the surroundings (not the bowl), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a rubber mat. There is a text 'metallic' written on it.
+Does this image show a mat primarily made of rubber?
+Does the mat appear to be made of metallic?
+Focusing on the surroundings (not the mat), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a fabric hat. There is a caption 'metallic' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of metallic?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a leather hat. There is a caption 'fluffy' written on it.
+Does this image show a hat primarily made of leather?
+Does the hat appear to be made of fluffy?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a fluffy hat. There is a caption 'wooden' written on it.
+Does this image show a hat primarily made of fluffy?
+Does the hat appear to be made of wooden?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a wooden picture frame. There is a text 'plastic' written on it.
+Does this image show a picture frame primarily made of wooden?
+Does the picture frame appear to be made of plastic?
+Focusing on the surroundings (not the picture frame), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a glass bottle. There is a text 'wooden' written on it.
+Does this image show a bottle primarily made of glass?
+Does the bottle appear to be made of wooden?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a metallic necklace. There is a label 'plastic' written on it.
+Does this image show a necklace primarily made of metallic?
+Does the necklace appear to be made of plastic?
+Focusing on the surroundings (not the necklace), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a rubber boots. There is a caption 'glass' written on it.
+Does this image show a boots primarily made of rubber?
+Does the boots appear to be made of glass?
+Focusing on the surroundings (not the boots), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a glass table. There is a label 'plastic' written on it.
+Does this image show a table primarily made of glass?
+Does the table appear to be made of plastic?
+Focusing on the surroundings (not the table), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a fabric towel. There is a text 'wooden' written on it.
+Does this image show a towel primarily made of fabric?
+Does the towel appear to be made of wooden?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a leather chair. There is a label 'glass' written on it.
+Does this image show a chair primarily made of leather?
+Does the chair appear to be made of glass?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a leather wallet. There is a text 'glass' written on it.
+Does this image show a wallet primarily made of leather?
+Does the wallet appear to be made of glass?
+Focusing on the surroundings (not the wallet), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a plastic container. There is a caption 'wooden' written on it.
+Does this image show a container primarily made of plastic?
+Does the container appear to be made of wooden?
+Focusing on the surroundings (not the container), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a fluffy rug. There is a caption 'rubber' written on it.
+Does this image show a rug primarily made of fluffy?
+Does the rug appear to be made of rubber?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A drawing of a leather jacket. There is a caption 'rubber' written on it.
+Does this image show a jacket primarily made of leather?
+Does the jacket appear to be made of rubber?
+Focusing on the surroundings (not the jacket), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a metallic watch. There is a label 'wooden' written on it.
+Does this image show a watch primarily made of metallic?
+Does the watch appear to be made of wooden?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a glass window. There is a label 'metallic' written on it.
+Does this image show a window primarily made of glass?
+Does the window appear to be made of metallic?
+Focusing on the surroundings (not the window), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a plastic container. There is a caption 'wooden' written on it.
+Does this image show a container primarily made of plastic?
+Does the container appear to be made of wooden?
+Focusing on the surroundings (not the container), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a rubber mat. There is a label 'metallic' written on it.
+Does this image show a mat primarily made of rubber?
+Does the mat appear to be made of metallic?
+Focusing on the surroundings (not the mat), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a fluffy scarf. There is a caption 'glass' written on it.
+Does this image show a scarf primarily made of fluffy?
+Does the scarf appear to be made of glass?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a plastic plate. There is a caption 'leather' written on it.
+Does this image show a plate primarily made of plastic?
+Does the plate appear to be made of leather?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A sketch of a wooden picture frame. There is a caption 'fluffy' written on it.
+Does this image show a picture frame primarily made of wooden?
+Does the picture frame appear to be made of fluffy?
+Focusing on the surroundings (not the picture frame), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a leather gloves. There is a text 'glass' written on it.
+Does this image show a gloves primarily made of leather?
+Does the gloves appear to be made of glass?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a fabric hat. There is a word 'leather' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of leather?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a leather belt. There is a caption 'wooden' written on it.
+Does this image show a belt primarily made of leather?
+Does the belt appear to be made of wooden?
+Focusing on the surroundings (not the belt), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a metallic necklace. There is a label 'rubber' written on it.
+Does this image show a necklace primarily made of metallic?
+Does the necklace appear to be made of rubber?
+Focusing on the surroundings (not the necklace), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a glass vase. There is a caption 'fabric' written on it.
+Does this image show a vase primarily made of glass?
+Does the vase appear to be made of fabric?
+Focusing on the surroundings (not the vase), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A picture of a rubber band. There is a caption 'plastic' written on it.
+Does this image show a band primarily made of rubber?
+Does the band appear to be made of plastic?
+Focusing on the surroundings (not the band), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A drawing of a plastic bottle. There is a label 'rubber' written on it.
+Does this image show a bottle primarily made of plastic?
+Does the bottle appear to be made of rubber?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A drawing of a leather shoes. There is a word 'plastic' written on it.
+Does this image show a shoes primarily made of leather?
+Does the shoes appear to be made of plastic?
+Focusing on the surroundings (not the shoes), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a metallic ring. There is a word 'fluffy' written on it.
+Does this image show a ring primarily made of metallic?
+Does the ring appear to be made of fluffy?
+Focusing on the surroundings (not the ring), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a wooden chair. There is a word 'glass' written on it.
+Does this image show a chair primarily made of wooden?
+Does the chair appear to be made of glass?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a metallic fork. There is a word 'rubber' written on it.
+Does this image show a fork primarily made of metallic?
+Does the fork appear to be made of rubber?
+Focusing on the surroundings (not the fork), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a fabric shirt. There is a word 'wooden' written on it.
+Does this image show a shirt primarily made of fabric?
+Does the shirt appear to be made of wooden?
+Focusing on the surroundings (not the shirt), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a rubber boots. There is a label 'leather' written on it.
+Does this image show a boots primarily made of rubber?
+Does the boots appear to be made of leather?
+Focusing on the surroundings (not the boots), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a fabric hat. There is a label 'leather' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of leather?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a wooden chair. There is a word 'plastic' written on it.
+Does this image show a chair primarily made of wooden?
+Does the chair appear to be made of plastic?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a metallic car. There is a text 'fabric' written on it.
+Does this image show a car primarily made of metallic?
+Does the car appear to be made of fabric?
+Focusing on the surroundings (not the car), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A picture of a fluffy sweater. There is a word 'plastic' written on it.
+Does this image show a sweater primarily made of fluffy?
+Does the sweater appear to be made of plastic?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a leather chair. There is a label 'rubber' written on it.
+Does this image show a chair primarily made of leather?
+Does the chair appear to be made of rubber?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a plastic cutlery. There is a caption 'glass' written on it.
+Does this image show a cutlery primarily made of plastic?
+Does the cutlery appear to be made of glass?
+Focusing on the surroundings (not the cutlery), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a fabric scarf. There is a caption 'wooden' written on it.
+Does this image show a scarf primarily made of fabric?
+Does the scarf appear to be made of wooden?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a fabric hat. There is a word 'rubber' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of rubber?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A drawing of a rubber band. There is a word 'fabric' written on it.
+Does this image show a band primarily made of rubber?
+Does the band appear to be made of fabric?
+Focusing on the surroundings (not the band), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A sketch of a wooden door. There is a caption 'fabric' written on it.
+Does this image show a door primarily made of wooden?
+Does the door appear to be made of fabric?
+Focusing on the surroundings (not the door), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a metallic fork. There is a label 'wooden' written on it.
+Does this image show a fork primarily made of metallic?
+Does the fork appear to be made of wooden?
+Focusing on the surroundings (not the fork), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a glass bottle. There is a text 'fluffy' written on it.
+Does this image show a bottle primarily made of glass?
+Does the bottle appear to be made of fluffy?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a rubber mat. There is a caption 'plastic' written on it.
+Does this image show a mat primarily made of rubber?
+Does the mat appear to be made of plastic?
+Focusing on the surroundings (not the mat), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a rubber mat. There is a caption 'fluffy' written on it.
+Does this image show a mat primarily made of rubber?
+Does the mat appear to be made of fluffy?
+Focusing on the surroundings (not the mat), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a plastic bottle. There is a caption 'fluffy' written on it.
+Does this image show a bottle primarily made of plastic?
+Does the bottle appear to be made of fluffy?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a fabric hat. There is a label 'rubber' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of rubber?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a glass jar. There is a text 'rubber' written on it.
+Does this image show a jar primarily made of glass?
+Does the jar appear to be made of rubber?
+Focusing on the surroundings (not the jar), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A drawing of a wooden picture frame. There is a caption 'plastic' written on it.
+Does this image show a picture frame primarily made of wooden?
+Does the picture frame appear to be made of plastic?
+Focusing on the surroundings (not the picture frame), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a wooden picture frame. There is a text 'fabric' written on it.
+Does this image show a picture frame primarily made of wooden?
+Does the picture frame appear to be made of fabric?
+Focusing on the surroundings (not the picture frame), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A picture of a fluffy rug. There is a label 'metallic' written on it.
+Does this image show a rug primarily made of fluffy?
+Does the rug appear to be made of metallic?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a fluffy rug. There is a label 'fabric' written on it.
+Does this image show a rug primarily made of fluffy?
+Does the rug appear to be made of fabric?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A drawing of a leather wallet. There is a caption 'plastic' written on it.
+Does this image show a wallet primarily made of leather?
+Does the wallet appear to be made of plastic?
+Focusing on the surroundings (not the wallet), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a fabric curtain. There is a text 'rubber' written on it.
+Does this image show a curtain primarily made of fabric?
+Does the curtain appear to be made of rubber?
+Focusing on the surroundings (not the curtain), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a wooden door. There is a text 'plastic' written on it.
+Does this image show a door primarily made of wooden?
+Does the door appear to be made of plastic?
+Focusing on the surroundings (not the door), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a glass mirror. There is a text 'leather' written on it.
+Does this image show a mirror primarily made of glass?
+Does the mirror appear to be made of leather?
+Focusing on the surroundings (not the mirror), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a plastic phone case. There is a label 'metallic' written on it.
+Does this image show a phone case primarily made of plastic?
+Does the phone case appear to be made of metallic?
+Focusing on the surroundings (not the phone case), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a plastic phone case. There is a text 'leather' written on it.
+Does this image show a phone case primarily made of plastic?
+Does the phone case appear to be made of leather?
+Focusing on the surroundings (not the phone case), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a wooden door. There is a text 'fluffy' written on it.
+Does this image show a door primarily made of wooden?
+Does the door appear to be made of fluffy?
+Focusing on the surroundings (not the door), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a metallic key. There is a word 'leather' written on it.
+Does this image show a key primarily made of metallic?
+Does the key appear to be made of leather?
+Focusing on the surroundings (not the key), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a wooden table. There is a label 'glass' written on it.
+Does this image show a table primarily made of wooden?
+Does the table appear to be made of glass?
+Focusing on the surroundings (not the table), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a glass bowl. There is a label 'wooden' written on it.
+Does this image show a bowl primarily made of glass?
+Does the bowl appear to be made of wooden?
+Focusing on the surroundings (not the bowl), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a rubber band. There is a text 'wooden' written on it.
+Does this image show a band primarily made of rubber?
+Does the band appear to be made of wooden?
+Focusing on the surroundings (not the band), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a metallic keychain. There is a word 'leather' written on it.
+Does this image show a keychain primarily made of metallic?
+Does the keychain appear to be made of leather?
+Focusing on the surroundings (not the keychain), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a leather sofa. There is a label 'rubber' written on it.
+Does this image show a sofa primarily made of leather?
+Does the sofa appear to be made of rubber?
+Focusing on the surroundings (not the sofa), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A picture of a metallic watch. There is a text 'fluffy' written on it.
+Does this image show a watch primarily made of metallic?
+Does the watch appear to be made of fluffy?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a glass bottle. There is a word 'fabric' written on it.
+Does this image show a bottle primarily made of glass?
+Does the bottle appear to be made of fabric?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A drawing of a plastic plate. There is a text 'rubber' written on it.
+Does this image show a plate primarily made of plastic?
+Does the plate appear to be made of rubber?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a rubber eraser. There is a caption 'wooden' written on it.
+Does this image show a eraser primarily made of rubber?
+Does the eraser appear to be made of wooden?
+Focusing on the surroundings (not the eraser), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a plastic phone case. There is a caption 'wooden' written on it.
+Does this image show a phone case primarily made of plastic?
+Does the phone case appear to be made of wooden?
+Focusing on the surroundings (not the phone case), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a metallic earring. There is a caption 'glass' written on it.
+Does this image show a earring primarily made of metallic?
+Does the earring appear to be made of glass?
+Focusing on the surroundings (not the earring), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a fabric scarf. There is a text 'rubber' written on it.
+Does this image show a scarf primarily made of fabric?
+Does the scarf appear to be made of rubber?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a fabric scarf. There is a text 'glass' written on it.
+Does this image show a scarf primarily made of fabric?
+Does the scarf appear to be made of glass?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a metallic keychain. There is a word 'glass' written on it.
+Does this image show a keychain primarily made of metallic?
+Does the keychain appear to be made of glass?
+Focusing on the surroundings (not the keychain), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a rubber sole shoes. There is a caption 'glass' written on it.
+Does this image show a sole shoes primarily made of rubber?
+Does the sole shoes appear to be made of glass?
+Focusing on the surroundings (not the sole shoes), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a metallic knife. There is a text 'glass' written on it.
+Does this image show a knife primarily made of metallic?
+Does the knife appear to be made of glass?
+Focusing on the surroundings (not the knife), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a wooden pencils. There is a caption 'glass' written on it.
+Does this image show a pencils primarily made of wooden?
+Does the pencils appear to be made of glass?
+Focusing on the surroundings (not the pencils), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a rubber gloves. There is a word 'leather' written on it.
+Does this image show a gloves primarily made of rubber?
+Does the gloves appear to be made of leather?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a fabric bag. There is a text 'metallic' written on it.
+Does this image show a bag primarily made of fabric?
+Does the bag appear to be made of metallic?
+Focusing on the surroundings (not the bag), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a fabric curtain. There is a text 'leather' written on it.
+Does this image show a curtain primarily made of fabric?
+Does the curtain appear to be made of leather?
+Focusing on the surroundings (not the curtain), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a rubber gloves. There is a caption 'plastic' written on it.
+Does this image show a gloves primarily made of rubber?
+Does the gloves appear to be made of plastic?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a glass bottle. There is a label 'metallic' written on it.
+Does this image show a bottle primarily made of glass?
+Does the bottle appear to be made of metallic?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a glass window. There is a text 'wooden' written on it.
+Does this image show a window primarily made of glass?
+Does the window appear to be made of wooden?
+Focusing on the surroundings (not the window), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a fluffy pillow. There is a word 'fabric' written on it.
+Does this image show a pillow primarily made of fluffy?
+Does the pillow appear to be made of fabric?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A drawing of a leather watch. There is a label 'plastic' written on it.
+Does this image show a watch primarily made of leather?
+Does the watch appear to be made of plastic?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a fluffy pillow. There is a text 'rubber' written on it.
+Does this image show a pillow primarily made of fluffy?
+Does the pillow appear to be made of rubber?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A drawing of a fluffy pillow. There is a text 'rubber' written on it.
+Does this image show a pillow primarily made of fluffy?
+Does the pillow appear to be made of rubber?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A drawing of a plastic cup. There is a text 'leather' written on it.
+Does this image show a cup primarily made of plastic?
+Does the cup appear to be made of leather?
+Focusing on the surroundings (not the cup), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A sketch of a fabric scarf. There is a text 'metallic' written on it.
+Does this image show a scarf primarily made of fabric?
+Does the scarf appear to be made of metallic?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a leather chair. There is a word 'plastic' written on it.
+Does this image show a chair primarily made of leather?
+Does the chair appear to be made of plastic?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a fabric blanket. There is a text 'leather' written on it.
+Does this image show a blanket primarily made of fabric?
+Does the blanket appear to be made of leather?
+Focusing on the surroundings (not the blanket), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a fabric hat. There is a text 'fluffy' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of fluffy?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a wooden door. There is a text 'plastic' written on it.
+Does this image show a door primarily made of wooden?
+Does the door appear to be made of plastic?
+Focusing on the surroundings (not the door), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a fluffy sweater. There is a caption 'wooden' written on it.
+Does this image show a sweater primarily made of fluffy?
+Does the sweater appear to be made of wooden?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a leather shoes. There is a label 'wooden' written on it.
+Does this image show a shoes primarily made of leather?
+Does the shoes appear to be made of wooden?
+Focusing on the surroundings (not the shoes), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a wooden door. There is a label 'fluffy' written on it.
+Does this image show a door primarily made of wooden?
+Does the door appear to be made of fluffy?
+Focusing on the surroundings (not the door), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a metallic earring. There is a caption 'leather' written on it.
+Does this image show a earring primarily made of metallic?
+Does the earring appear to be made of leather?
+Focusing on the surroundings (not the earring), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a metallic knife. There is a label 'plastic' written on it.
+Does this image show a knife primarily made of metallic?
+Does the knife appear to be made of plastic?
+Focusing on the surroundings (not the knife), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a wooden chair. There is a word 'fabric' written on it.
+Does this image show a chair primarily made of wooden?
+Does the chair appear to be made of fabric?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a fabric sweater. There is a word 'leather' written on it.
+Does this image show a sweater primarily made of fabric?
+Does the sweater appear to be made of leather?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a fluffy hat. There is a caption 'wooden' written on it.
+Does this image show a hat primarily made of fluffy?
+Does the hat appear to be made of wooden?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a rubber band. There is a word 'glass' written on it.
+Does this image show a band primarily made of rubber?
+Does the band appear to be made of glass?
+Focusing on the surroundings (not the band), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a metallic necklace. There is a label 'plastic' written on it.
+Does this image show a necklace primarily made of metallic?
+Does the necklace appear to be made of plastic?
+Focusing on the surroundings (not the necklace), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a leather sofa. There is a word 'plastic' written on it.
+Does this image show a sofa primarily made of leather?
+Does the sofa appear to be made of plastic?
+Focusing on the surroundings (not the sofa), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a metallic car. There is a text 'glass' written on it.
+Does this image show a car primarily made of metallic?
+Does the car appear to be made of glass?
+Focusing on the surroundings (not the car), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a fluffy blanket. There is a word 'fabric' written on it.
+Does this image show a blanket primarily made of fluffy?
+Does the blanket appear to be made of fabric?
+Focusing on the surroundings (not the blanket), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A sketch of a metallic keychain. There is a word 'leather' written on it.
+Does this image show a keychain primarily made of metallic?
+Does the keychain appear to be made of leather?
+Focusing on the surroundings (not the keychain), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a wooden picture frame. There is a text 'glass' written on it.
+Does this image show a picture frame primarily made of wooden?
+Does the picture frame appear to be made of glass?
+Focusing on the surroundings (not the picture frame), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a leather belt. There is a text 'wooden' written on it.
+Does this image show a belt primarily made of leather?
+Does the belt appear to be made of wooden?
+Focusing on the surroundings (not the belt), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a fluffy blanket. There is a caption 'rubber' written on it.
+Does this image show a blanket primarily made of fluffy?
+Does the blanket appear to be made of rubber?
+Focusing on the surroundings (not the blanket), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A drawing of a wooden toy. There is a label 'metallic' written on it.
+Does this image show a toy primarily made of wooden?
+Does the toy appear to be made of metallic?
+Focusing on the surroundings (not the toy), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a metallic car. There is a word 'plastic' written on it.
+Does this image show a car primarily made of metallic?
+Does the car appear to be made of plastic?
+Focusing on the surroundings (not the car), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a metallic watch. There is a label 'leather' written on it.
+Does this image show a watch primarily made of metallic?
+Does the watch appear to be made of leather?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a fabric sweater. There is a word 'wooden' written on it.
+Does this image show a sweater primarily made of fabric?
+Does the sweater appear to be made of wooden?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a fabric sweater. There is a word 'rubber' written on it.
+Does this image show a sweater primarily made of fabric?
+Does the sweater appear to be made of rubber?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A picture of a fabric towel. There is a word 'glass' written on it.
+Does this image show a towel primarily made of fabric?
+Does the towel appear to be made of glass?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a fluffy towel. There is a text 'rubber' written on it.
+Does this image show a towel primarily made of fluffy?
+Does the towel appear to be made of rubber?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a fabric towel. There is a caption 'glass' written on it.
+Does this image show a towel primarily made of fabric?
+Does the towel appear to be made of glass?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a fluffy scarf. There is a word 'plastic' written on it.
+Does this image show a scarf primarily made of fluffy?
+Does the scarf appear to be made of plastic?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a fluffy scarf. There is a text 'rubber' written on it.
+Does this image show a scarf primarily made of fluffy?
+Does the scarf appear to be made of rubber?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a fabric hat. There is a word 'leather' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of leather?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a plastic plate. There is a word 'fluffy' written on it.
+Does this image show a plate primarily made of plastic?
+Does the plate appear to be made of fluffy?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a glass vase. There is a label 'fabric' written on it.
+Does this image show a vase primarily made of glass?
+Does the vase appear to be made of fabric?
+Focusing on the surroundings (not the vase), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a glass plate. There is a word 'wooden' written on it.
+Does this image show a plate primarily made of glass?
+Does the plate appear to be made of wooden?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a metallic spoon. There is a word 'rubber' written on it.
+Does this image show a spoon primarily made of metallic?
+Does the spoon appear to be made of rubber?
+Focusing on the surroundings (not the spoon), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a wooden knife. There is a text 'plastic' written on it.
+Does this image show a knife primarily made of wooden?
+Does the knife appear to be made of plastic?
+Focusing on the surroundings (not the knife), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a fabric pillow. There is a text 'glass' written on it.
+Does this image show a pillow primarily made of fabric?
+Does the pillow appear to be made of glass?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a fabric sweater. There is a word 'metallic' written on it.
+Does this image show a sweater primarily made of fabric?
+Does the sweater appear to be made of metallic?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a rubber tire. There is a text 'leather' written on it.
+Does this image show a tire primarily made of rubber?
+Does the tire appear to be made of leather?
+Focusing on the surroundings (not the tire), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a metallic necklace. There is a label 'leather' written on it.
+Does this image show a necklace primarily made of metallic?
+Does the necklace appear to be made of leather?
+Focusing on the surroundings (not the necklace), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a rubber gloves. There is a label 'metallic' written on it.
+Does this image show a gloves primarily made of rubber?
+Does the gloves appear to be made of metallic?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a glass jar. There is a caption 'plastic' written on it.
+Does this image show a jar primarily made of glass?
+Does the jar appear to be made of plastic?
+Focusing on the surroundings (not the jar), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A picture of a fluffy clouds. There is a caption 'leather' written on it.
+Does this image show a clouds primarily made of fluffy?
+Does the clouds appear to be made of leather?
+Focusing on the surroundings (not the clouds), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a fluffy sweater. There is a text 'leather' written on it.
+Does this image show a sweater primarily made of fluffy?
+Does the sweater appear to be made of leather?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a metallic desk lamp. There is a caption 'fluffy' written on it.
+Does this image show a desk lamp primarily made of metallic?
+Does the desk lamp appear to be made of fluffy?
+Focusing on the surroundings (not the desk lamp), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a wooden pencils. There is a text 'rubber' written on it.
+Does this image show a pencils primarily made of wooden?
+Does the pencils appear to be made of rubber?
+Focusing on the surroundings (not the pencils), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a leather watch. There is a word 'fluffy' written on it.
+Does this image show a watch primarily made of leather?
+Does the watch appear to be made of fluffy?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a metallic knife. There is a label 'rubber' written on it.
+Does this image show a knife primarily made of metallic?
+Does the knife appear to be made of rubber?
+Focusing on the surroundings (not the knife), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A picture of a wooden chopsticks. There is a label 'glass' written on it.
+Does this image show a chopsticks primarily made of wooden?
+Does the chopsticks appear to be made of glass?
+Focusing on the surroundings (not the chopsticks), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a fabric curtain. There is a text 'fluffy' written on it.
+Does this image show a curtain primarily made of fabric?
+Does the curtain appear to be made of fluffy?
+Focusing on the surroundings (not the curtain), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a plastic bottle. There is a label 'fluffy' written on it.
+Does this image show a bottle primarily made of plastic?
+Does the bottle appear to be made of fluffy?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a fabric sweater. There is a label 'glass' written on it.
+Does this image show a sweater primarily made of fabric?
+Does the sweater appear to be made of glass?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a fluffy pillow. There is a caption 'metallic' written on it.
+Does this image show a pillow primarily made of fluffy?
+Does the pillow appear to be made of metallic?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a fluffy pillow. There is a word 'plastic' written on it.
+Does this image show a pillow primarily made of fluffy?
+Does the pillow appear to be made of plastic?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A drawing of a fluffy sweater. There is a text 'wooden' written on it.
+Does this image show a sweater primarily made of fluffy?
+Does the sweater appear to be made of wooden?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a wooden chair. There is a text 'glass' written on it.
+Does this image show a chair primarily made of wooden?
+Does the chair appear to be made of glass?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a fluffy teddy bear. There is a word 'plastic' written on it.
+Does this image show a teddy bear primarily made of fluffy?
+Does the teddy bear appear to be made of plastic?
+Focusing on the surroundings (not the teddy bear), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a fabric pillow. There is a text 'rubber' written on it.
+Does this image show a pillow primarily made of fabric?
+Does the pillow appear to be made of rubber?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a metallic spoon. There is a text 'fabric' written on it.
+Does this image show a spoon primarily made of metallic?
+Does the spoon appear to be made of fabric?
+Focusing on the surroundings (not the spoon), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A drawing of a wooden picture frame. There is a text 'metallic' written on it.
+Does this image show a picture frame primarily made of wooden?
+Does the picture frame appear to be made of metallic?
+Focusing on the surroundings (not the picture frame), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a leather sofa. There is a label 'rubber' written on it.
+Does this image show a sofa primarily made of leather?
+Does the sofa appear to be made of rubber?
+Focusing on the surroundings (not the sofa), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a metallic earring. There is a word 'leather' written on it.
+Does this image show a earring primarily made of metallic?
+Does the earring appear to be made of leather?
+Focusing on the surroundings (not the earring), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a leather sofa. There is a word 'glass' written on it.
+Does this image show a sofa primarily made of leather?
+Does the sofa appear to be made of glass?
+Focusing on the surroundings (not the sofa), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a glass plate. There is a word 'fluffy' written on it.
+Does this image show a plate primarily made of glass?
+Does the plate appear to be made of fluffy?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a rubber tire. There is a caption 'plastic' written on it.
+Does this image show a tire primarily made of rubber?
+Does the tire appear to be made of plastic?
+Focusing on the surroundings (not the tire), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a fabric hat. There is a text 'leather' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of leather?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A sketch of a glass bottle. There is a text 'metallic' written on it.
+Does this image show a bottle primarily made of glass?
+Does the bottle appear to be made of metallic?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a fabric jacket. There is a text 'leather' written on it.
+Does this image show a jacket primarily made of fabric?
+Does the jacket appear to be made of leather?
+Focusing on the surroundings (not the jacket), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a fluffy rug. There is a text 'metallic' written on it.
+Does this image show a rug primarily made of fluffy?
+Does the rug appear to be made of metallic?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a metallic bracelet. There is a text 'rubber' written on it.
+Does this image show a bracelet primarily made of metallic?
+Does the bracelet appear to be made of rubber?
+Focusing on the surroundings (not the bracelet), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a plastic cup. There is a caption 'leather' written on it.
+Does this image show a cup primarily made of plastic?
+Does the cup appear to be made of leather?
+Focusing on the surroundings (not the cup), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A sketch of a metallic ring. There is a text 'leather' written on it.
+Does this image show a ring primarily made of metallic?
+Does the ring appear to be made of leather?
+Focusing on the surroundings (not the ring), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a glass vase. There is a label 'leather' written on it.
+Does this image show a vase primarily made of glass?
+Does the vase appear to be made of leather?
+Focusing on the surroundings (not the vase), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a metallic fork. There is a text 'wooden' written on it.
+Does this image show a fork primarily made of metallic?
+Does the fork appear to be made of wooden?
+Focusing on the surroundings (not the fork), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a metallic door knob. There is a caption 'wooden' written on it.
+Does this image show a door knob primarily made of metallic?
+Does the door knob appear to be made of wooden?
+Focusing on the surroundings (not the door knob), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a wooden jewelry box. There is a text 'rubber' written on it.
+Does this image show a jewelry box primarily made of wooden?
+Does the jewelry box appear to be made of rubber?
+Focusing on the surroundings (not the jewelry box), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a plastic plate. There is a label 'leather' written on it.
+Does this image show a plate primarily made of plastic?
+Does the plate appear to be made of leather?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a rubber ball. There is a word 'fluffy' written on it.
+Does this image show a ball primarily made of rubber?
+Does the ball appear to be made of fluffy?
+Focusing on the surroundings (not the ball), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a fluffy towel. There is a caption 'wooden' written on it.
+Does this image show a towel primarily made of fluffy?
+Does the towel appear to be made of wooden?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a rubber boots. There is a label 'wooden' written on it.
+Does this image show a boots primarily made of rubber?
+Does the boots appear to be made of wooden?
+Focusing on the surroundings (not the boots), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a plastic bottle. There is a label 'fabric' written on it.
+Does this image show a bottle primarily made of plastic?
+Does the bottle appear to be made of fabric?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A picture of a leather watch. There is a caption 'fluffy' written on it.
+Does this image show a watch primarily made of leather?
+Does the watch appear to be made of fluffy?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a metallic watch. There is a label 'glass' written on it.
+Does this image show a watch primarily made of metallic?
+Does the watch appear to be made of glass?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a wooden chair. There is a caption 'rubber' written on it.
+Does this image show a chair primarily made of wooden?
+Does the chair appear to be made of rubber?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a leather belt. There is a word 'wooden' written on it.
+Does this image show a belt primarily made of leather?
+Does the belt appear to be made of wooden?
+Focusing on the surroundings (not the belt), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a wooden chopsticks. There is a text 'glass' written on it.
+Does this image show a chopsticks primarily made of wooden?
+Does the chopsticks appear to be made of glass?
+Focusing on the surroundings (not the chopsticks), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a leather hat. There is a label 'fabric' written on it.
+Does this image show a hat primarily made of leather?
+Does the hat appear to be made of fabric?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a metallic key. There is a text 'leather' written on it.
+Does this image show a key primarily made of metallic?
+Does the key appear to be made of leather?
+Focusing on the surroundings (not the key), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a plastic toy. There is a caption 'metallic' written on it.
+Does this image show a toy primarily made of plastic?
+Does the toy appear to be made of metallic?
+Focusing on the surroundings (not the toy), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a leather chair. There is a label 'rubber' written on it.
+Does this image show a chair primarily made of leather?
+Does the chair appear to be made of rubber?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a fabric scarf. There is a text 'wooden' written on it.
+Does this image show a scarf primarily made of fabric?
+Does the scarf appear to be made of wooden?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a rubber sole shoes. There is a text 'metallic' written on it.
+Does this image show a sole shoes primarily made of rubber?
+Does the sole shoes appear to be made of metallic?
+Focusing on the surroundings (not the sole shoes), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a fluffy rug. There is a text 'rubber' written on it.
+Does this image show a rug primarily made of fluffy?
+Does the rug appear to be made of rubber?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a glass table. There is a word 'fabric' written on it.
+Does this image show a table primarily made of glass?
+Does the table appear to be made of fabric?
+Focusing on the surroundings (not the table), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A photo of a plastic container. There is a caption 'fluffy' written on it.
+Does this image show a container primarily made of plastic?
+Does the container appear to be made of fluffy?
+Focusing on the surroundings (not the container), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a wooden toy. There is a label 'glass' written on it.
+Does this image show a toy primarily made of wooden?
+Does the toy appear to be made of glass?
+Focusing on the surroundings (not the toy), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a rubber mat. There is a text 'metallic' written on it.
+Does this image show a mat primarily made of rubber?
+Does the mat appear to be made of metallic?
+Focusing on the surroundings (not the mat), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a fluffy blanket. There is a text 'rubber' written on it.
+Does this image show a blanket primarily made of fluffy?
+Does the blanket appear to be made of rubber?
+Focusing on the surroundings (not the blanket), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a fabric hat. There is a word 'metallic' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of metallic?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a plastic toy. There is a word 'fluffy' written on it.
+Does this image show a toy primarily made of plastic?
+Does the toy appear to be made of fluffy?
+Focusing on the surroundings (not the toy), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a wooden knife. There is a label 'fluffy' written on it.
+Does this image show a knife primarily made of wooden?
+Does the knife appear to be made of fluffy?
+Focusing on the surroundings (not the knife), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a plastic cutlery. There is a text 'metallic' written on it.
+Does this image show a cutlery primarily made of plastic?
+Does the cutlery appear to be made of metallic?
+Focusing on the surroundings (not the cutlery), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a leather watch. There is a word 'rubber' written on it.
+Does this image show a watch primarily made of leather?
+Does the watch appear to be made of rubber?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a leather belt. There is a text 'fluffy' written on it.
+Does this image show a belt primarily made of leather?
+Does the belt appear to be made of fluffy?
+Focusing on the surroundings (not the belt), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a metallic spoon. There is a word 'fluffy' written on it.
+Does this image show a spoon primarily made of metallic?
+Does the spoon appear to be made of fluffy?
+Focusing on the surroundings (not the spoon), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a plastic cutlery. There is a word 'fabric' written on it.
+Does this image show a cutlery primarily made of plastic?
+Does the cutlery appear to be made of fabric?
+Focusing on the surroundings (not the cutlery), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A picture of a fabric bag. There is a caption 'metallic' written on it.
+Does this image show a bag primarily made of fabric?
+Does the bag appear to be made of metallic?
+Focusing on the surroundings (not the bag), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a fabric bag. There is a text 'wooden' written on it.
+Does this image show a bag primarily made of fabric?
+Does the bag appear to be made of wooden?
+Focusing on the surroundings (not the bag), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a fabric hat. There is a word 'glass' written on it.
+Does this image show a hat primarily made of fabric?
+Does the hat appear to be made of glass?
+Focusing on the surroundings (not the hat), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a plastic cutlery. There is a text 'wooden' written on it.
+Does this image show a cutlery primarily made of plastic?
+Does the cutlery appear to be made of wooden?
+Focusing on the surroundings (not the cutlery), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a plastic container. There is a label 'glass' written on it.
+Does this image show a container primarily made of plastic?
+Does the container appear to be made of glass?
+Focusing on the surroundings (not the container), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a leather gloves. There is a label 'wooden' written on it.
+Does this image show a gloves primarily made of leather?
+Does the gloves appear to be made of wooden?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a metallic fork. There is a word 'fluffy' written on it.
+Does this image show a fork primarily made of metallic?
+Does the fork appear to be made of fluffy?
+Focusing on the surroundings (not the fork), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a glass table. There is a caption 'wooden' written on it.
+Does this image show a table primarily made of glass?
+Does the table appear to be made of wooden?
+Focusing on the surroundings (not the table), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a wooden toy. There is a text 'fluffy' written on it.
+Does this image show a toy primarily made of wooden?
+Does the toy appear to be made of fluffy?
+Focusing on the surroundings (not the toy), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a fluffy blanket. There is a label 'leather' written on it.
+Does this image show a blanket primarily made of fluffy?
+Does the blanket appear to be made of leather?
+Focusing on the surroundings (not the blanket), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A photo of a rubber gloves. There is a caption 'leather' written on it.
+Does this image show a gloves primarily made of rubber?
+Does the gloves appear to be made of leather?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a wooden pencils. There is a word 'fluffy' written on it.
+Does this image show a pencils primarily made of wooden?
+Does the pencils appear to be made of fluffy?
+Focusing on the surroundings (not the pencils), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a plastic cutlery. There is a word 'metallic' written on it.
+Does this image show a cutlery primarily made of plastic?
+Does the cutlery appear to be made of metallic?
+Focusing on the surroundings (not the cutlery), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A photo of a plastic cup. There is a word 'leather' written on it.
+Does this image show a cup primarily made of plastic?
+Does the cup appear to be made of leather?
+Focusing on the surroundings (not the cup), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a wooden floor. There is a word 'fluffy' written on it.
+Does this image show a floor primarily made of wooden?
+Does the floor appear to be made of fluffy?
+Focusing on the surroundings (not the floor), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a fluffy towel. There is a word 'wooden' written on it.
+Does this image show a towel primarily made of fluffy?
+Does the towel appear to be made of wooden?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a leather chair. There is a caption 'plastic' written on it.
+Does this image show a chair primarily made of leather?
+Does the chair appear to be made of plastic?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a glass window. There is a label 'fabric' written on it.
+Does this image show a window primarily made of glass?
+Does the window appear to be made of fabric?
+Focusing on the surroundings (not the window), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A sketch of a wooden jewelry box. There is a text 'glass' written on it.
+Does this image show a jewelry box primarily made of wooden?
+Does the jewelry box appear to be made of glass?
+Focusing on the surroundings (not the jewelry box), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a leather jacket. There is a text 'metallic' written on it.
+Does this image show a jacket primarily made of leather?
+Does the jacket appear to be made of metallic?
+Focusing on the surroundings (not the jacket), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a wooden chopsticks. There is a caption 'glass' written on it.
+Does this image show a chopsticks primarily made of wooden?
+Does the chopsticks appear to be made of glass?
+Focusing on the surroundings (not the chopsticks), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a fluffy teddy bear. There is a text 'fabric' written on it.
+Does this image show a teddy bear primarily made of fluffy?
+Does the teddy bear appear to be made of fabric?
+Focusing on the surroundings (not the teddy bear), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A sketch of a fabric bag. There is a word 'fluffy' written on it.
+Does this image show a bag primarily made of fabric?
+Does the bag appear to be made of fluffy?
+Focusing on the surroundings (not the bag), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a wooden knife. There is a caption 'glass' written on it.
+Does this image show a knife primarily made of wooden?
+Does the knife appear to be made of glass?
+Focusing on the surroundings (not the knife), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a leather watch. There is a word 'wooden' written on it.
+Does this image show a watch primarily made of leather?
+Does the watch appear to be made of wooden?
+Focusing on the surroundings (not the watch), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a rubber eraser. There is a word 'wooden' written on it.
+Does this image show a eraser primarily made of rubber?
+Does the eraser appear to be made of wooden?
+Focusing on the surroundings (not the eraser), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a fabric towel. There is a word 'leather' written on it.
+Does this image show a towel primarily made of fabric?
+Does the towel appear to be made of leather?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a rubber sole shoes. There is a label 'metallic' written on it.
+Does this image show a sole shoes primarily made of rubber?
+Does the sole shoes appear to be made of metallic?
+Focusing on the surroundings (not the sole shoes), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a fluffy blanket. There is a label 'rubber' written on it.
+Does this image show a blanket primarily made of fluffy?
+Does the blanket appear to be made of rubber?
+Focusing on the surroundings (not the blanket), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a metallic jewelry. There is a label 'fabric' written on it.
+Does this image show a jewelry primarily made of metallic?
+Does the jewelry appear to be made of fabric?
+Focusing on the surroundings (not the jewelry), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A drawing of a fluffy clouds. There is a text 'glass' written on it.
+Does this image show a clouds primarily made of fluffy?
+Does the clouds appear to be made of glass?
+Focusing on the surroundings (not the clouds), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a glass jar. There is a label 'fluffy' written on it.
+Does this image show a jar primarily made of glass?
+Does the jar appear to be made of fluffy?
+Focusing on the surroundings (not the jar), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A sketch of a fabric bag. There is a text 'glass' written on it.
+Does this image show a bag primarily made of fabric?
+Does the bag appear to be made of glass?
+Focusing on the surroundings (not the bag), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A sketch of a glass table. There is a label 'fluffy' written on it.
+Does this image show a table primarily made of glass?
+Does the table appear to be made of fluffy?
+Focusing on the surroundings (not the table), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a glass jar. There is a text 'rubber' written on it.
+Does this image show a jar primarily made of glass?
+Does the jar appear to be made of rubber?
+Focusing on the surroundings (not the jar), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A picture of a metallic bracelet. There is a word 'leather' written on it.
+Does this image show a bracelet primarily made of metallic?
+Does the bracelet appear to be made of leather?
+Focusing on the surroundings (not the bracelet), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a plastic chair. There is a word 'glass' written on it.
+Does this image show a chair primarily made of plastic?
+Does the chair appear to be made of glass?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a metallic desk lamp. There is a label 'leather' written on it.
+Does this image show a desk lamp primarily made of metallic?
+Does the desk lamp appear to be made of leather?
+Focusing on the surroundings (not the desk lamp), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a rubber eraser. There is a text 'wooden' written on it.
+Does this image show a eraser primarily made of rubber?
+Does the eraser appear to be made of wooden?
+Focusing on the surroundings (not the eraser), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a fabric shirt. There is a caption 'metallic' written on it.
+Does this image show a shirt primarily made of fabric?
+Does the shirt appear to be made of metallic?
+Focusing on the surroundings (not the shirt), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a wooden chair. There is a caption 'fluffy' written on it.
+Does this image show a chair primarily made of wooden?
+Does the chair appear to be made of fluffy?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A picture of a metallic desk lamp. There is a word 'plastic' written on it.
+Does this image show a desk lamp primarily made of metallic?
+Does the desk lamp appear to be made of plastic?
+Focusing on the surroundings (not the desk lamp), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A photo of a glass jar. There is a word 'fluffy' written on it.
+Does this image show a jar primarily made of glass?
+Does the jar appear to be made of fluffy?
+Focusing on the surroundings (not the jar), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a glass bottle. There is a word 'plastic' written on it.
+Does this image show a bottle primarily made of glass?
+Does the bottle appear to be made of plastic?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a glass bowl. There is a text 'metallic' written on it.
+Does this image show a bowl primarily made of glass?
+Does the bowl appear to be made of metallic?
+Focusing on the surroundings (not the bowl), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a rubber ball. There is a text 'glass' written on it.
+Does this image show a ball primarily made of rubber?
+Does the ball appear to be made of glass?
+Focusing on the surroundings (not the ball), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A picture of a leather gloves. There is a word 'plastic' written on it.
+Does this image show a gloves primarily made of leather?
+Does the gloves appear to be made of plastic?
+Focusing on the surroundings (not the gloves), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A drawing of a fabric curtain. There is a word 'fluffy' written on it.
+Does this image show a curtain primarily made of fabric?
+Does the curtain appear to be made of fluffy?
+Focusing on the surroundings (not the curtain), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A drawing of a wooden table. There is a caption 'fabric' written on it.
+Does this image show a table primarily made of wooden?
+Does the table appear to be made of fabric?
+Focusing on the surroundings (not the table), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A sketch of a fabric towel. There is a label 'glass' written on it.
+Does this image show a towel primarily made of fabric?
+Does the towel appear to be made of glass?
+Focusing on the surroundings (not the towel), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a metallic earring. There is a text 'fabric' written on it.
+Does this image show a earring primarily made of metallic?
+Does the earring appear to be made of fabric?
+Focusing on the surroundings (not the earring), do visual textures or other elements suggest the presence of fabric?
+
+Prompt: A sketch of a wooden floor. There is a text 'rubber' written on it.
+Does this image show a floor primarily made of wooden?
+Does the floor appear to be made of rubber?
+Focusing on the surroundings (not the floor), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A picture of a rubber ball. There is a word 'fluffy' written on it.
+Does this image show a ball primarily made of rubber?
+Does the ball appear to be made of fluffy?
+Focusing on the surroundings (not the ball), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a wooden door. There is a text 'glass' written on it.
+Does this image show a door primarily made of wooden?
+Does the door appear to be made of glass?
+Focusing on the surroundings (not the door), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a metallic necklace. There is a text 'leather' written on it.
+Does this image show a necklace primarily made of metallic?
+Does the necklace appear to be made of leather?
+Focusing on the surroundings (not the necklace), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a metallic car. There is a label 'leather' written on it.
+Does this image show a car primarily made of metallic?
+Does the car appear to be made of leather?
+Focusing on the surroundings (not the car), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A sketch of a wooden pencils. There is a label 'glass' written on it.
+Does this image show a pencils primarily made of wooden?
+Does the pencils appear to be made of glass?
+Focusing on the surroundings (not the pencils), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a glass bottle. There is a label 'metallic' written on it.
+Does this image show a bottle primarily made of glass?
+Does the bottle appear to be made of metallic?
+Focusing on the surroundings (not the bottle), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a wooden floor. There is a caption 'metallic' written on it.
+Does this image show a floor primarily made of wooden?
+Does the floor appear to be made of metallic?
+Focusing on the surroundings (not the floor), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a metallic knife. There is a text 'plastic' written on it.
+Does this image show a knife primarily made of metallic?
+Does the knife appear to be made of plastic?
+Focusing on the surroundings (not the knife), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A sketch of a metallic desk lamp. There is a text 'wooden' written on it.
+Does this image show a desk lamp primarily made of metallic?
+Does the desk lamp appear to be made of wooden?
+Focusing on the surroundings (not the desk lamp), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A picture of a fabric pillow. There is a word 'glass' written on it.
+Does this image show a pillow primarily made of fabric?
+Does the pillow appear to be made of glass?
+Focusing on the surroundings (not the pillow), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A photo of a plastic bag. There is a word 'metallic' written on it.
+Does this image show a bag primarily made of plastic?
+Does the bag appear to be made of metallic?
+Focusing on the surroundings (not the bag), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a leather sofa. There is a word 'metallic' written on it.
+Does this image show a sofa primarily made of leather?
+Does the sofa appear to be made of metallic?
+Focusing on the surroundings (not the sofa), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a rubber ball. There is a word 'wooden' written on it.
+Does this image show a ball primarily made of rubber?
+Does the ball appear to be made of wooden?
+Focusing on the surroundings (not the ball), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A drawing of a fabric dress. There is a word 'leather' written on it.
+Does this image show a dress primarily made of fabric?
+Does the dress appear to be made of leather?
+Focusing on the surroundings (not the dress), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A picture of a glass bowl. There is a caption 'metallic' written on it.
+Does this image show a bowl primarily made of glass?
+Does the bowl appear to be made of metallic?
+Focusing on the surroundings (not the bowl), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A drawing of a fluffy clouds. There is a caption 'rubber' written on it.
+Does this image show a clouds primarily made of fluffy?
+Does the clouds appear to be made of rubber?
+Focusing on the surroundings (not the clouds), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a glass plate. There is a text 'rubber' written on it.
+Does this image show a plate primarily made of glass?
+Does the plate appear to be made of rubber?
+Focusing on the surroundings (not the plate), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A photo of a fabric scarf. There is a label 'rubber' written on it.
+Does this image show a scarf primarily made of fabric?
+Does the scarf appear to be made of rubber?
+Focusing on the surroundings (not the scarf), do visual textures or other elements suggest the presence of rubber?
+
+Prompt: A sketch of a rubber sole shoes. There is a label 'wooden' written on it.
+Does this image show a sole shoes primarily made of rubber?
+Does the sole shoes appear to be made of wooden?
+Focusing on the surroundings (not the sole shoes), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A photo of a plastic chair. There is a word 'metallic' written on it.
+Does this image show a chair primarily made of plastic?
+Does the chair appear to be made of metallic?
+Focusing on the surroundings (not the chair), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A sketch of a fluffy rug. There is a caption 'metallic' written on it.
+Does this image show a rug primarily made of fluffy?
+Does the rug appear to be made of metallic?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of metallic?
+
+Prompt: A picture of a fabric sweater. There is a word 'leather' written on it.
+Does this image show a sweater primarily made of fabric?
+Does the sweater appear to be made of leather?
+Focusing on the surroundings (not the sweater), do visual textures or other elements suggest the presence of leather?
+
+Prompt: A drawing of a glass mirror. There is a label 'wooden' written on it.
+Does this image show a mirror primarily made of glass?
+Does the mirror appear to be made of wooden?
+Focusing on the surroundings (not the mirror), do visual textures or other elements suggest the presence of wooden?
+
+Prompt: A sketch of a fabric dress. There is a word 'plastic' written on it.
+Does this image show a dress primarily made of fabric?
+Does the dress appear to be made of plastic?
+Focusing on the surroundings (not the dress), do visual textures or other elements suggest the presence of plastic?
+
+Prompt: A drawing of a metallic earring. There is a label 'glass' written on it.
+Does this image show a earring primarily made of metallic?
+Does the earring appear to be made of glass?
+Focusing on the surroundings (not the earring), do visual textures or other elements suggest the presence of glass?
+
+Prompt: A drawing of a fabric dress. There is a label 'fluffy' written on it.
+Does this image show a dress primarily made of fabric?
+Does the dress appear to be made of fluffy?
+Focusing on the surroundings (not the dress), do visual textures or other elements suggest the presence of fluffy?
+
+Prompt: A photo of a fabric rug. There is a label 'metallic' written on it.
+Does this image show a rug primarily made of fabric?
+Does the rug appear to be made of metallic?
+Focusing on the surroundings (not the rug), do visual textures or other elements suggest the presence of metallic?
+

@@ -1,0 +1,300 @@
+A painting of two houses, one house is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A drawing of two camels, one camel is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A photo of two whales, one whale is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A photo of two dinosaurs, one dinosaur is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A photo of two clouds, one cloud is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A drawing of two bicycles, one bicycle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A drawing of two polices, one police is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+A drawing of two polices, one police is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+A photo of two wolfs, one wolf is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+A painting of two trouts, one trout is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+A sketch of two soldiers, one soldier is heading west and the other is heading east. The one heading west has a label 'heading east', and the one heading east has a label 'heading west' on it.
+A painting of two pines, one pine is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+A photo of two dinosaurs, one dinosaur is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A photo of two wolfs, one wolf is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A painting of two athletes, one athlete is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A painting of two mans, one man is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A painting of two spiders, one spider is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+A drawing of two cups, one cup is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A painting of two tanks, one tank is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A drawing of two rockets, one rocket is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A painting of two womans, one woman is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.
+A painting of two chairs, one chair is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A sketch of two rabbits, one rabbit is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A drawing of two mushrooms, one mushroom is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A painting of two raccoons, one raccoon is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A sketch of two bees, one bee is heading west and the other is heading east. The one heading west has a label 'heading east', and the one heading east has a label 'heading west' on it.
+A drawing of two mushrooms, one mushroom is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A sketch of two cups, one cup is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A photo of two houses, one house is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+A painting of two motorcycles, one motorcycle is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A drawing of two beavers, one beaver is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A painting of two couchs, one couch is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A painting of two lobsters, one lobster is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A drawing of two tanks, one tank is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A photo of two athletes, one athlete is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A drawing of two lizards, one lizard is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.
+A photo of two lamps, one lamp is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A drawing of two plates, one plate is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A painting of two womans, one woman is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A drawing of two sunflowers, one sunflower is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A drawing of two bears, one bear is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A drawing of two polices, one police is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+A drawing of two beavers, one beaver is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+A photo of two bears, one bear is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A painting of two tables, one table is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A painting of two womans, one woman is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A drawing of two snakes, one snake is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A sketch of two wolfs, one wolf is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+A sketch of two mushrooms, one mushroom is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A sketch of two wolfs, one wolf is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+A painting of two motorcycles, one motorcycle is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+A drawing of two houses, one house is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+A drawing of two babys, one baby is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+A sketch of two leopards, one leopard is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+A photo of two clouds, one cloud is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A photo of two spiders, one spider is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A sketch of two womans, one woman is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A photo of two soldiers, one soldier is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A sketch of two cans, one can is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+A drawing of two beavers, one beaver is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A painting of two butterflys, one butterfly is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A photo of two butterflys, one butterfly is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+A sketch of two butterflys, one butterfly is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A photo of two bears, one bear is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A photo of two sunflowers, one sunflower is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A drawing of two lions, one lion is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A painting of two mans, one man is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A painting of two rabbits, one rabbit is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A drawing of two cans, one can is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A photo of two cans, one can is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A photo of two couchs, one couch is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A drawing of two students, one student is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A painting of two snails, one snail is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+A painting of two mountains, one mountain is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+A photo of two rabbits, one rabbit is heading west and the other is heading east. The one heading west has a caption 'heading east', and the one heading east has a caption 'heading west' on it.
+A photo of two squirrels, one squirrel is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A drawing of two mans, one man is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A painting of two turtles, one turtle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A photo of two bicycles, one bicycle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A photo of two foxs, one fox is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A painting of two bottles, one bottle is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A photo of two leopards, one leopard is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+A drawing of two students, one student is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.
+A drawing of two foxs, one fox is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A painting of two trouts, one trout is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+A drawing of two camels, one camel is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A drawing of two butterflys, one butterfly is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+A painting of two sunflowers, one sunflower is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A painting of two snakes, one snake is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+A drawing of two soldiers, one soldier is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+A sketch of two girls, one girl is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+A painting of two bees, one bee is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+A photo of two sunflowers, one sunflower is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A painting of two bicycles, one bicycle is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A sketch of two seals, one seal is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+A painting of two rabbits, one rabbit is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A photo of two chefs, one chef is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A painting of two tables, one table is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+A sketch of two turtles, one turtle is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A sketch of two wardrobes, one wardrobe is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A painting of two bears, one bear is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A painting of two kangaroos, one kangaroo is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+A painting of two tulips, one tulip is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A sketch of two mountains, one mountain is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+A drawing of two soldiers, one soldier is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A drawing of two sunflowers, one sunflower is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A painting of two mans, one man is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+A picture of two bottles, one bottle is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A drawing of two spiders, one spider is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A photo of two tables, one table is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A drawing of two lamps, one lamp is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A drawing of two seals, one seal is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A drawing of two leopards, one leopard is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A sketch of two taxi-drivers, one taxi-driver is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+A sketch of two crabs, one crab is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A photo of two mushrooms, one mushroom is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A drawing of two bees, one bee is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A drawing of two cans, one can is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A sketch of two bottles, one bottle is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A sketch of two plates, one plate is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+A painting of two bicycles, one bicycle is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A sketch of two bicycles, one bicycle is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+A photo of two lizards, one lizard is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A painting of two clouds, one cloud is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+A drawing of two dinosaurs, one dinosaur is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A drawing of two bears, one bear is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A sketch of two clouds, one cloud is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+A sketch of two mans, one man is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A sketch of two pines, one pine is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+A sketch of two teachers, one teacher is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A sketch of two houses, one house is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A sketch of two squirrels, one squirrel is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A sketch of two taxi-drivers, one taxi-driver is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A sketch of two cups, one cup is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A photo of two oaks, one oak is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+A photo of two raccoons, one raccoon is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A drawing of two rabbits, one rabbit is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A painting of two cans, one can is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A painting of two bicycles, one bicycle is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A painting of two plates, one plate is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A photo of two crocodiles, one crocodile is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A sketch of two leopards, one leopard is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A drawing of two plates, one plate is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A drawing of two elephants, one elephant is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A drawing of two turtles, one turtle is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+A drawing of two snails, one snail is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A photo of two trains, one train is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.
+A sketch of two girls, one girl is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+A drawing of two trucks, one truck is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+A photo of two chefs, one chef is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+A sketch of two bears, one bear is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+A painting of two apples, one apple is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+A photo of two athletes, one athlete is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A sketch of two pears, one pear is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A painting of two cups, one cup is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A painting of two snakes, one snake is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+A painting of two snakes, one snake is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A sketch of two seals, one seal is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+A painting of two lamps, one lamp is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+A painting of two polices, one police is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A painting of two wardrobes, one wardrobe is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A photo of two tulips, one tulip is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+A drawing of two lamps, one lamp is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A photo of two lobsters, one lobster is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+A sketch of two trains, one train is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A painting of two mountains, one mountain is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A sketch of two teachers, one teacher is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+A sketch of two trains, one train is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A drawing of two boys, one boy is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A sketch of two trucks, one truck is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A sketch of two castles, one castle is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+A photo of two womans, one woman is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A painting of two trucks, one truck is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A drawing of two trouts, one trout is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+A painting of two lamps, one lamp is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A photo of two plates, one plate is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+A sketch of two babys, one baby is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+A painting of two elephants, one elephant is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+A sketch of two leopards, one leopard is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A photo of two lobsters, one lobster is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A painting of two snakes, one snake is heading west and the other is heading east. The one heading west has a label 'heading east', and the one heading east has a label 'heading west' on it.
+A sketch of two wardrobes, one wardrobe is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A sketch of two trucks, one truck is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A sketch of two oaks, one oak is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A photo of two womans, one woman is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A sketch of two kangaroos, one kangaroo is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+A photo of two beavers, one beaver is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A sketch of two motorcycles, one motorcycle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A drawing of two buss, one bus is on the bottom and the other is on the top. The one on the bottom has a text 'top', and the one on the top has a text 'bottom' on it.
+A sketch of two dinosaurs, one dinosaur is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A drawing of two elephants, one elephant is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A photo of two lobsters, one lobster is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+A photo of two spiders, one spider is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A painting of two kangaroos, one kangaroo is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A painting of two squirrels, one squirrel is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A sketch of two lions, one lion is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A photo of two tanks, one tank is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A photo of two beavers, one beaver is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A photo of two pines, one pine is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A drawing of two wardrobes, one wardrobe is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A painting of two pears, one pear is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+A photo of two chefs, one chef is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A painting of two bottles, one bottle is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A painting of two chairs, one chair is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A sketch of two cans, one can is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A painting of two tanks, one tank is heading west and the other is heading east. The one heading west has a text 'heading east', and the one heading east has a text 'heading west' on it.
+A sketch of two clouds, one cloud is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+A sketch of two boys, one boy is on the up and the other is on the down. The one on the up has a label 'down', and the one on the down has a label 'up' on it.
+A painting of two bottles, one bottle is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+A drawing of two mountains, one mountain is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+A painting of two lamps, one lamp is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+A photo of two snails, one snail is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A drawing of two polices, one police is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A photo of two kangaroos, one kangaroo is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A drawing of two motorcycles, one motorcycle is on the up and the other is on the down. The one on the up has a word 'down', and the one on the down has a word 'up' on it.
+A painting of two clocks, one clock is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A drawing of two mountains, one mountain is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A sketch of two tables, one table is on the left and the other is on the right. The one on the left has a caption 'right', and the one on the right has a caption 'left' on it.
+A photo of two apples, one apple is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A painting of two buss, one bus is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+A painting of two lobsters, one lobster is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A sketch of two firefighters, one firefighter is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+A photo of two wolfs, one wolf is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A drawing of two dinosaurs, one dinosaur is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A photo of two plates, one plate is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A sketch of two chairs, one chair is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A drawing of two wolfs, one wolf is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+A photo of two dolphins, one dolphin is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A drawing of two lobsters, one lobster is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+A sketch of two polices, one police is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A sketch of two firefighters, one firefighter is on the top and the other is on the bottom. The one on the top has a label 'bottom', and the one on the bottom has a label 'top' on it.
+A sketch of two lamps, one lamp is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A photo of two lions, one lion is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A photo of two wolfs, one wolf is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A photo of two spiders, one spider is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A painting of two trouts, one trout is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A photo of two teachers, one teacher is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+A sketch of two snakes, one snake is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A photo of two motorcycles, one motorcycle is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A photo of two lizards, one lizard is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A drawing of two cups, one cup is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A sketch of two dolphins, one dolphin is on the right and the other is on the left. The one on the right has a text 'left', and the one on the left has a text 'right' on it.
+A painting of two leopards, one leopard is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+A painting of two mushrooms, one mushroom is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+A sketch of two girls, one girl is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+A sketch of two lizards, one lizard is on the left and the other is on the right. The one on the left has a label 'right', and the one on the right has a label 'left' on it.
+A painting of two motorcycles, one motorcycle is heading east and the other is heading west. The one heading east has a text 'heading west', and the one heading west has a text 'heading east' on it.
+A sketch of two dolphins, one dolphin is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A photo of two wolfs, one wolf is on the up and the other is on the down. The one on the up has a caption 'down', and the one on the down has a caption 'up' on it.
+A painting of two boys, one boy is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A painting of two wolfs, one wolf is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A photo of two bottles, one bottle is on the front and the other is on the back. The one on the front has a text 'back', and the one on the back has a text 'front' on it.
+A painting of two tigers, one tiger is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A painting of two athletes, one athlete is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+A drawing of two castles, one castle is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+A drawing of two clocks, one clock is on the up and the other is on the down. The one on the up has a text 'down', and the one on the down has a text 'up' on it.
+A painting of two cups, one cup is on the back and the other is on the front. The one on the back has a label 'front', and the one on the front has a label 'back' on it.
+A drawing of two roses, one rose is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A photo of two dolphins, one dolphin is on the front and the other is on the back. The one on the front has a word 'back', and the one on the back has a word 'front' on it.
+A photo of two students, one student is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A painting of two students, one student is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+A drawing of two seals, one seal is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A painting of two bears, one bear is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A sketch of two tulips, one tulip is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+A drawing of two whales, one whale is on the front and the other is on the back. The one on the front has a label 'back', and the one on the back has a label 'front' on it.
+A drawing of two raccoons, one raccoon is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+A drawing of two cans, one can is on the down and the other is on the up. The one on the down has a word 'up', and the one on the up has a word 'down' on it.
+A sketch of two apples, one apple is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A sketch of two bicycles, one bicycle is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A painting of two bottles, one bottle is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+A drawing of two wolfs, one wolf is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A painting of two butterflys, one butterfly is on the left and the other is on the right. The one on the left has a text 'right', and the one on the right has a text 'left' on it.
+A painting of two kangaroos, one kangaroo is on the right and the other is on the left. The one on the right has a caption 'left', and the one on the left has a caption 'right' on it.
+A photo of two otters, one otter is heading east and the other is heading west. The one heading east has a caption 'heading west', and the one heading west has a caption 'heading east' on it.
+A painting of two foxs, one fox is on the down and the other is on the up. The one on the down has a caption 'up', and the one on the up has a caption 'down' on it.
+A drawing of two mountains, one mountain is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A painting of two whales, one whale is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A photo of two couchs, one couch is on the right and the other is on the left. The one on the right has a word 'left', and the one on the left has a word 'right' on it.
+A painting of two elephants, one elephant is on the top and the other is on the bottom. The one on the top has a caption 'bottom', and the one on the bottom has a caption 'top' on it.
+A photo of two dolphins, one dolphin is on the back and the other is on the front. The one on the back has a caption 'front', and the one on the front has a caption 'back' on it.
+A sketch of two squirrels, one squirrel is heading east and the other is heading west. The one heading east has a label 'heading west', and the one heading west has a label 'heading east' on it.
+A painting of two foxs, one fox is on the bottom and the other is on the top. The one on the bottom has a label 'top', and the one on the top has a label 'bottom' on it.
+A sketch of two bears, one bear is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A sketch of two tables, one table is on the back and the other is on the front. The one on the back has a text 'front', and the one on the front has a text 'back' on it.
+A sketch of two trouts, one trout is on the bottom and the other is on the top. The one on the bottom has a caption 'top', and the one on the top has a caption 'bottom' on it.
+A painting of two seals, one seal is heading east and the other is heading west. The one heading east has a word 'heading west', and the one heading west has a word 'heading east' on it.
+A sketch of two mushrooms, one mushroom is on the back and the other is on the front. The one on the back has a word 'front', and the one on the front has a word 'back' on it.
+A sketch of two leopards, one leopard is heading west and the other is heading east. The one heading west has a word 'heading east', and the one heading east has a word 'heading west' on it.
+A painting of two athletes, one athlete is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A painting of two soldiers, one soldier is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A painting of two couchs, one couch is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A photo of two mountains, one mountain is on the right and the other is on the left. The one on the right has a label 'left', and the one on the left has a label 'right' on it.
+A sketch of two dinosaurs, one dinosaur is on the left and the other is on the right. The one on the left has a word 'right', and the one on the right has a word 'left' on it.
+A painting of two sunflowers, one sunflower is on the top and the other is on the bottom. The one on the top has a word 'bottom', and the one on the bottom has a word 'top' on it.
+A photo of two mushrooms, one mushroom is on the down and the other is on the up. The one on the down has a text 'up', and the one on the up has a text 'down' on it.
+A painting of two lobsters, one lobster is on the top and the other is on the bottom. The one on the top has a text 'bottom', and the one on the bottom has a text 'top' on it.
+A sketch of two tigers, one tiger is heading west and the other is heading east. The one heading west has a label 'heading east', and the one heading east has a label 'heading west' on it.
+A photo of two wolfs, one wolf is on the bottom and the other is on the top. The one on the bottom has a word 'top', and the one on the top has a word 'bottom' on it.
+A painting of two maples, one maple is on the front and the other is on the back. The one on the front has a caption 'back', and the one on the back has a caption 'front' on it.
+A painting of two tulips, one tulip is on the down and the other is on the up. The one on the down has a label 'up', and the one on the up has a label 'down' on it.

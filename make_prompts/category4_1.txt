@@ -1,0 +1,300 @@
+A painting of two identical glasses next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a label '2kg', and the right one has a label '5kg' on it.
+A photo of two identical candles next to each other, which have same length. The left one has a label '15cm', and the right one has a label '30cm' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a caption '2kg', and the right one has a caption '5kg' on it.
+A sketch of two identical candles next to each other, which have same length. The left one has a text '14inch', and the right one has a text '27inch' on it.
+A sketch of two identical bottles next to each other, which have same length. The left one has a text 'small', and the right one has a text 'big' on it.
+A drawing of two identical stones next to each other, which have same weight. The left one has a text '2kg', and the right one has a text '5kg' on it.
+A sketch of two identical glasses next to each other, which have same size. The left one has a label '10L', and the right one has a label '20L' on it.
+A painting of two identical wooden balls next to each other, which have same weight. The left one has a label 'light', and the right one has a label 'heavy' on it.
+A sketch of two identical rulers next to each other, which have same length. The left one has a label '15cm', and the right one has a label '30cm' on it.
+A painting of two identical stones next to each other, which have same weight. The left one has a caption '1kg', and the right one has a caption '1ton' on it.
+A drawing of two identical glasses next to each other, which have same size. The left one has a text '10L', and the right one has a text '20L' on it.
+A photo of two identical glasses next to each other, which have same length. The left one has a word 'small', and the right one has a word 'big' on it.
+A painting of two identical stones next to each other, which have same weight. The left one has a caption '100g', and the right one has a caption '1kg' on it.
+A drawing of two identical wooden balls next to each other, which have same weight. The left one has a text 'light', and the right one has a text 'heavy' on it.
+A drawing of two identical glasses next to each other, which have same length. The left one has a caption '100ml', and the right one has a caption '4L' on it.
+A sketch of two identical cups next to each other, which have same size. The left one has a text '1L', and the right one has a text '3L' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a caption 'light', and the right one has a caption 'heavy' on it.
+A sketch of two identical bottles next to each other, which have same length. The left one has a text '300ml', and the right one has a text '500ml' on it.
+A painting of two identical glasses next to each other, which have same length. The left one has a caption 'small', and the right one has a caption 'big' on it.
+A sketch of two identical rulers next to each other, which have same length. The left one has a caption 'short', and the right one has a caption 'long' on it.
+A drawing of two identical stones next to each other, which have same weight. The left one has a text '2kg', and the right one has a text '5kg' on it.
+A painting of two identical candles next to each other, which have same length. The left one has a caption 'short', and the right one has a caption 'long' on it.
+A sketch of two identical cups next to each other, which have same length. The left one has a label '100ml', and the right one has a label '4L' on it.
+A drawing of two identical bottles next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A sketch of two identical candles next to each other, which have same length. The left one has a word '15cm', and the right one has a word '30cm' on it.
+A photo of two identical rulers next to each other, which have same length. The left one has a label '10cm', and the right one has a label '1m' on it.
+A photo of two identical stones next to each other, which have same weight. The left one has a text 'light', and the right one has a text 'heavy' on it.
+A sketch of two identical candles next to each other, which have same length. The left one has a label '14inch', and the right one has a label '27inch' on it.
+A drawing of two identical stones next to each other, which have same weight. The left one has a label '1kg', and the right one has a label '1ton' on it.
+A drawing of two identical stones next to each other, which have same weight. The left one has a caption '1kg', and the right one has a caption '1ton' on it.
+A photo of two identical wooden balls next to each other, which have same weight. The left one has a text '2kg', and the right one has a text '5kg' on it.
+A photo of two identical rulers next to each other, which have same length. The left one has a text '15cm', and the right one has a text '30cm' on it.
+A photo of two identical stones next to each other, which have same weight. The left one has a caption '2kg', and the right one has a caption '5kg' on it.
+A sketch of two identical glasses next to each other, which have same size. The left one has a label '10L', and the right one has a label '20L' on it.
+A sketch of two identical cups next to each other, which have same length. The left one has a caption 'small', and the right one has a caption 'big' on it.
+A sketch of two identical stones next to each other, which have same weight. The left one has a caption '1kg', and the right one has a caption '1ton' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a text 'light', and the right one has a text 'heavy' on it.
+A photo of two identical rulers next to each other, which have same length. The left one has a caption 'short', and the right one has a caption 'long' on it.
+A painting of two identical boxes next to each other, which have same weight. The left one has a label '1kg', and the right one has a label '3kg' on it.
+A drawing of two identical boxes next to each other, which have same weight. The left one has a label '1kg', and the right one has a label '1ton' on it.
+A drawing of two identical glasses next to each other, which have same size. The left one has a label '10L', and the right one has a label '20L' on it.
+A photo of two identical bottles next to each other, which have same length. The left one has a caption '300ml', and the right one has a caption '500ml' on it.
+A drawing of two identical stones next to each other, which have same weight. The left one has a caption '100g', and the right one has a caption '1kg' on it.
+A sketch of two identical rulers next to each other, which have same length. The left one has a word '14inch', and the right one has a word '27inch' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a word '1kg', and the right one has a word '3kg' on it.
+A sketch of two identical wooden balls next to each other, which have same weight. The left one has a word '100g', and the right one has a word '1kg' on it.
+A photo of two identical bottles next to each other, which have same size. The left one has a word '10L', and the right one has a word '20L' on it.
+A drawing of two identical wooden balls next to each other, which have same weight. The left one has a caption '1kg', and the right one has a caption '3kg' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a caption '1kg', and the right one has a caption '1ton' on it.
+A painting of two identical candles next to each other, which have same length. The left one has a word '14inch', and the right one has a word '27inch' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a label '1kg', and the right one has a label '3kg' on it.
+A photo of two identical bottles next to each other, which have same length. The left one has a label '100ml', and the right one has a label '4L' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a word '2kg', and the right one has a word '5kg' on it.
+A sketch of two identical rulers next to each other, which have same length. The left one has a label '14inch', and the right one has a label '27inch' on it.
+A photo of two identical cups next to each other, which have same size. The left one has a word '1L', and the right one has a word '3L' on it.
+A painting of two identical stones next to each other, which have same weight. The left one has a word '100g', and the right one has a word '1kg' on it.
+A drawing of two identical rulers next to each other, which have same length. The left one has a text '14inch', and the right one has a text '27inch' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a text '1kg', and the right one has a text '3kg' on it.
+A sketch of two identical bottles next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A photo of two identical bottles next to each other, which have same length. The left one has a caption '100ml', and the right one has a caption '4L' on it.
+A photo of two identical glasses next to each other, which have same length. The left one has a caption '100ml', and the right one has a caption '4L' on it.
+A drawing of two identical candles next to each other, which have same length. The left one has a label '15cm', and the right one has a label '30cm' on it.
+A painting of two identical glasses next to each other, which have same size. The left one has a text '1L', and the right one has a text '3L' on it.
+A drawing of two identical boxes next to each other, which have same weight. The left one has a text 'light', and the right one has a text 'heavy' on it.
+A painting of two identical candles next to each other, which have same length. The left one has a word '14inch', and the right one has a word '27inch' on it.
+A photo of two identical wooden balls next to each other, which have same weight. The left one has a word '1kg', and the right one has a word '3kg' on it.
+A drawing of two identical glasses next to each other, which have same size. The left one has a text '10L', and the right one has a text '20L' on it.
+A photo of two identical cups next to each other, which have same length. The left one has a caption '300ml', and the right one has a caption '500ml' on it.
+A drawing of two identical wooden balls next to each other, which have same weight. The left one has a word 'light', and the right one has a word 'heavy' on it.
+A photo of two identical stones next to each other, which have same weight. The left one has a text '1kg', and the right one has a text '1ton' on it.
+A painting of two identical glasses next to each other, which have same length. The left one has a label 'small', and the right one has a label 'big' on it.
+A drawing of two identical glasses next to each other, which have same length. The left one has a text '100ml', and the right one has a text '4L' on it.
+A drawing of two identical stones next to each other, which have same weight. The left one has a text '1kg', and the right one has a text '1ton' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a text 'light', and the right one has a text 'heavy' on it.
+A sketch of two identical bottles next to each other, which have same size. The left one has a text '10L', and the right one has a text '20L' on it.
+A painting of two identical bottles next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A sketch of two identical stones next to each other, which have same weight. The left one has a word '2kg', and the right one has a word '5kg' on it.
+A photo of two identical bottles next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A drawing of two identical bottles next to each other, which have same length. The left one has a word '300ml', and the right one has a word '500ml' on it.
+A painting of two identical cups next to each other, which have same size. The left one has a text '10L', and the right one has a text '20L' on it.
+A drawing of two identical bottles next to each other, which have same length. The left one has a caption '300ml', and the right one has a caption '500ml' on it.
+A sketch of two identical glasses next to each other, which have same length. The left one has a caption '300ml', and the right one has a caption '500ml' on it.
+A drawing of two identical boxes next to each other, which have same weight. The left one has a word '2kg', and the right one has a word '5kg' on it.
+A painting of two identical bottles next to each other, which have same length. The left one has a word 'small', and the right one has a word 'big' on it.
+A drawing of two identical boxes next to each other, which have same weight. The left one has a label 'light', and the right one has a label 'heavy' on it.
+A sketch of two identical candles next to each other, which have same length. The left one has a caption '15cm', and the right one has a caption '30cm' on it.
+A painting of two identical boxes next to each other, which have same weight. The left one has a text '100g', and the right one has a text '1kg' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a caption '2kg', and the right one has a caption '5kg' on it.
+A painting of two identical candles next to each other, which have same length. The left one has a label '10cm', and the right one has a label '1m' on it.
+A sketch of two identical stones next to each other, which have same weight. The left one has a text 'light', and the right one has a text 'heavy' on it.
+A painting of two identical bottles next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A photo of two identical stones next to each other, which have same weight. The left one has a word '1kg', and the right one has a word '3kg' on it.
+A sketch of two identical wooden balls next to each other, which have same weight. The left one has a label 'light', and the right one has a label 'heavy' on it.
+A painting of two identical candles next to each other, which have same length. The left one has a label '14inch', and the right one has a label '27inch' on it.
+A drawing of two identical candles next to each other, which have same length. The left one has a text '15cm', and the right one has a text '30cm' on it.
+A painting of two identical candles next to each other, which have same length. The left one has a text '15cm', and the right one has a text '30cm' on it.
+A painting of two identical glasses next to each other, which have same length. The left one has a word '300ml', and the right one has a word '500ml' on it.
+A painting of two identical wooden balls next to each other, which have same weight. The left one has a caption '100g', and the right one has a caption '1kg' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a caption '100g', and the right one has a caption '1kg' on it.
+A photo of two identical stones next to each other, which have same weight. The left one has a text '100g', and the right one has a text '1kg' on it.
+A sketch of two identical stones next to each other, which have same weight. The left one has a text '2kg', and the right one has a text '5kg' on it.
+A sketch of two identical rulers next to each other, which have same length. The left one has a caption 'short', and the right one has a caption 'long' on it.
+A photo of two identical rulers next to each other, which have same length. The left one has a text '14inch', and the right one has a text '27inch' on it.
+A drawing of two identical wooden balls next to each other, which have same weight. The left one has a text '1kg', and the right one has a text '3kg' on it.
+A drawing of two identical boxes next to each other, which have same weight. The left one has a label '2kg', and the right one has a label '5kg' on it.
+A sketch of two identical bottles next to each other, which have same length. The left one has a label 'small', and the right one has a label 'big' on it.
+A drawing of two identical rulers next to each other, which have same length. The left one has a word 'short', and the right one has a word 'long' on it.
+A drawing of two identical rulers next to each other, which have same length. The left one has a caption 'short', and the right one has a caption 'long' on it.
+A sketch of two identical bottles next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A sketch of two identical cups next to each other, which have same length. The left one has a label '100ml', and the right one has a label '4L' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a caption '1kg', and the right one has a caption '3kg' on it.
+A sketch of two identical rulers next to each other, which have same length. The left one has a word '10cm', and the right one has a word '1m' on it.
+A sketch of two identical rulers next to each other, which have same length. The left one has a word '14inch', and the right one has a word '27inch' on it.
+A painting of two identical stones next to each other, which have same weight. The left one has a word '2kg', and the right one has a word '5kg' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a label 'light', and the right one has a label 'heavy' on it.
+A painting of two identical stones next to each other, which have same weight. The left one has a text '2kg', and the right one has a text '5kg' on it.
+A photo of two identical wooden balls next to each other, which have same weight. The left one has a caption '1kg', and the right one has a caption '1ton' on it.
+A sketch of two identical cups next to each other, which have same length. The left one has a caption 'small', and the right one has a caption 'big' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a word '1kg', and the right one has a word '3kg' on it.
+A sketch of two identical wooden balls next to each other, which have same weight. The left one has a word '1kg', and the right one has a word '1ton' on it.
+A sketch of two identical bottles next to each other, which have same length. The left one has a word 'small', and the right one has a word 'big' on it.
+A sketch of two identical bottles next to each other, which have same length. The left one has a word '100ml', and the right one has a word '4L' on it.
+A painting of two identical bottles next to each other, which have same length. The left one has a word '300ml', and the right one has a word '500ml' on it.
+A sketch of two identical candles next to each other, which have same length. The left one has a caption '14inch', and the right one has a caption '27inch' on it.
+A sketch of two identical stones next to each other, which have same weight. The left one has a label '100g', and the right one has a label '1kg' on it.
+A sketch of two identical candles next to each other, which have same length. The left one has a caption '10cm', and the right one has a caption '1m' on it.
+A photo of two identical rulers next to each other, which have same length. The left one has a word '14inch', and the right one has a word '27inch' on it.
+A sketch of two identical bottles next to each other, which have same size. The left one has a caption '10L', and the right one has a caption '20L' on it.
+A photo of two identical rulers next to each other, which have same length. The left one has a text '14inch', and the right one has a text '27inch' on it.
+A drawing of two identical candles next to each other, which have same length. The left one has a word '10cm', and the right one has a word '1m' on it.
+A sketch of two identical wooden balls next to each other, which have same weight. The left one has a text 'light', and the right one has a text 'heavy' on it.
+A photo of two identical candles next to each other, which have same length. The left one has a word '10cm', and the right one has a word '1m' on it.
+A photo of two identical bottles next to each other, which have same length. The left one has a text '100ml', and the right one has a text '4L' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a label '1kg', and the right one has a label '3kg' on it.
+A photo of two identical boxes next to each other, which have same weight. The left one has a caption '2kg', and the right one has a caption '5kg' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a label '2kg', and the right one has a label '5kg' on it.
+A painting of two identical boxes next to each other, which have same weight. The left one has a text '100g', and the right one has a text '1kg' on it.
+A photo of two identical cups next to each other, which have same length. The left one has a caption '100ml', and the right one has a caption '4L' on it.
+A photo of two identical stones next to each other, which have same weight. The left one has a text '1kg', and the right one has a text '3kg' on it.
+A drawing of two identical candles next to each other, which have same length. The left one has a label 'short', and the right one has a label 'long' on it.
+A painting of two identical boxes next to each other, which have same weight. The left one has a label '1kg', and the right one has a label '3kg' on it.
+A sketch of two identical bottles next to each other, which have same length. The left one has a text '300ml', and the right one has a text '500ml' on it.
+A painting of two identical glasses next to each other, which have same length. The left one has a label '100ml', and the right one has a label '4L' on it.
+A photo of two identical candles next to each other, which have same length. The left one has a word 'short', and the right one has a word 'long' on it.
+A drawing of two identical wooden balls next to each other, which have same weight. The left one has a word '100g', and the right one has a word '1kg' on it.
+A painting of two identical cups next to each other, which have same length. The left one has a word '100ml', and the right one has a word '4L' on it.
+A painting of two identical rulers next to each other, which have same length. The left one has a text 'short', and the right one has a text 'long' on it.
+A painting of two identical boxes next to each other, which have same weight. The left one has a word '1kg', and the right one has a word '3kg' on it.
+A sketch of two identical boxes next to each other, which have same weight. The left one has a text '100g', and the right one has a text '1kg' on it.
+A painting of two bottles next to each other, where the left one is larger than the right one. The larger one has a caption '1L', and the smaller one has a caption '3L' on it.
+A painting of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '14inch', and the shorter one has a text '27inch' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a label 'light', and the lighter one has a label 'heavy' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a word '1kg', and the lighter one has a word '3kg' on it.
+A sketch of two rulers next to each other, where the left one is longer than the right one. The longer one has a word '14inch', and the shorter one has a word '27inch' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '15cm', and the shorter one has a text '30cm' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a text '100g', and the lighter one has a text '1kg' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a word '100g', and the lighter one has a word '1kg' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a text 'light', and the lighter one has a text 'heavy' on it.
+A drawing of two stones next to each other, where the left one is heavier than the right one. The heavier one has a label 'light', and the lighter one has a label 'heavy' on it.
+A photo of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a caption 'light', and the lighter one has a caption 'heavy' on it.
+A sketch of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a text '2kg', and the lighter one has a text '5kg' on it.
+A drawing of two stones next to each other, where the left one is heavier than the right one. The heavier one has a text '1kg', and the lighter one has a text '3kg' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a text 'light', and the lighter one has a text 'heavy' on it.
+A drawing of two bottles next to each other, where the left one is longer than the right one. The longer one has a text '100ml', and the shorter one has a text '4L' on it.
+A painting of two bottles next to each other, where the left one is larger than the right one. The larger one has a caption '10L', and the smaller one has a caption '20L' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '15cm', and the shorter one has a text '30cm' on it.
+A sketch of two rulers next to each other, where the left one is longer than the right one. The longer one has a text 'short', and the shorter one has a text 'long' on it.
+A painting of two cups next to each other, where the left one is larger than the right one. The larger one has a word '10L', and the smaller one has a word '20L' on it.
+A sketch of two glasses next to each other, where the left one is larger than the right one. The larger one has a word '10L', and the smaller one has a word '20L' on it.
+A photo of two glasses next to each other, where the left one is longer than the right one. The longer one has a caption '100ml', and the shorter one has a caption '4L' on it.
+A painting of two cups next to each other, where the left one is longer than the right one. The longer one has a label '100ml', and the shorter one has a label '4L' on it.
+A sketch of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a caption '1kg', and the lighter one has a caption '3kg' on it.
+A sketch of two candles next to each other, where the left one is longer than the right one. The longer one has a text 'short', and the shorter one has a text 'long' on it.
+A photo of two candles next to each other, where the left one is longer than the right one. The longer one has a label '10cm', and the shorter one has a label '1m' on it.
+A painting of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a label '2kg', and the lighter one has a label '5kg' on it.
+A drawing of two cups next to each other, where the left one is longer than the right one. The longer one has a label 'small', and the shorter one has a label 'big' on it.
+A sketch of two cups next to each other, where the left one is larger than the right one. The larger one has a word '10L', and the smaller one has a word '20L' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a caption '10cm', and the shorter one has a caption '1m' on it.
+A sketch of two stones next to each other, where the left one is heavier than the right one. The heavier one has a label 'light', and the lighter one has a label 'heavy' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a word 'light', and the lighter one has a word 'heavy' on it.
+A drawing of two glasses next to each other, where the left one is longer than the right one. The longer one has a caption '100ml', and the shorter one has a caption '4L' on it.
+A photo of two stones next to each other, where the left one is heavier than the right one. The heavier one has a label '2kg', and the lighter one has a label '5kg' on it.
+A painting of two cups next to each other, where the left one is longer than the right one. The longer one has a word '300ml', and the shorter one has a word '500ml' on it.
+A painting of two glasses next to each other, where the left one is larger than the right one. The larger one has a word '1L', and the smaller one has a word '3L' on it.
+A sketch of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word '1kg', and the lighter one has a word '1ton' on it.
+A photo of two glasses next to each other, where the left one is longer than the right one. The longer one has a word '100ml', and the shorter one has a word '4L' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a label '1kg', and the lighter one has a label '1ton' on it.
+A photo of two glasses next to each other, where the left one is longer than the right one. The longer one has a text 'small', and the shorter one has a text 'big' on it.
+A sketch of two bottles next to each other, where the left one is longer than the right one. The longer one has a word 'small', and the shorter one has a word 'big' on it.
+A sketch of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word '2kg', and the lighter one has a word '5kg' on it.
+A painting of two glasses next to each other, where the left one is larger than the right one. The larger one has a word '1L', and the smaller one has a word '3L' on it.
+A photo of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a caption 'light', and the lighter one has a caption 'heavy' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a text '100g', and the lighter one has a text '1kg' on it.
+A sketch of two candles next to each other, where the left one is longer than the right one. The longer one has a label '15cm', and the shorter one has a label '30cm' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a label 'light', and the lighter one has a label 'heavy' on it.
+A sketch of two candles next to each other, where the left one is longer than the right one. The longer one has a word '15cm', and the shorter one has a word '30cm' on it.
+A painting of two bottles next to each other, where the left one is longer than the right one. The longer one has a word 'small', and the shorter one has a word 'big' on it.
+A drawing of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '15cm', and the shorter one has a text '30cm' on it.
+A sketch of two cups next to each other, where the left one is longer than the right one. The longer one has a word '300ml', and the shorter one has a word '500ml' on it.
+A drawing of two glasses next to each other, where the left one is larger than the right one. The larger one has a caption '10L', and the smaller one has a caption '20L' on it.
+A photo of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word '1kg', and the lighter one has a word '1ton' on it.
+A photo of two glasses next to each other, where the left one is longer than the right one. The longer one has a word 'small', and the shorter one has a word 'big' on it.
+A sketch of two glasses next to each other, where the left one is longer than the right one. The longer one has a text 'small', and the shorter one has a text 'big' on it.
+A sketch of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word '100g', and the lighter one has a word '1kg' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a word '100g', and the lighter one has a word '1kg' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a label '1kg', and the lighter one has a label '1ton' on it.
+A painting of two stones next to each other, where the left one is heavier than the right one. The heavier one has a text '100g', and the lighter one has a text '1kg' on it.
+A painting of two bottles next to each other, where the left one is longer than the right one. The longer one has a word '300ml', and the shorter one has a word '500ml' on it.
+A sketch of two cups next to each other, where the left one is larger than the right one. The larger one has a text '1L', and the smaller one has a text '3L' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a word '1kg', and the lighter one has a word '1ton' on it.
+A drawing of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a word '2kg', and the lighter one has a word '5kg' on it.
+A photo of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a text '100g', and the lighter one has a text '1kg' on it.
+A sketch of two rulers next to each other, where the left one is longer than the right one. The longer one has a caption 'short', and the shorter one has a caption 'long' on it.
+A drawing of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '15cm', and the shorter one has a text '30cm' on it.
+A photo of two glasses next to each other, where the left one is larger than the right one. The larger one has a word '1L', and the smaller one has a word '3L' on it.
+A sketch of two bottles next to each other, where the left one is longer than the right one. The longer one has a caption 'small', and the shorter one has a caption 'big' on it.
+A painting of two glasses next to each other, where the left one is larger than the right one. The larger one has a text '1L', and the smaller one has a text '3L' on it.
+A painting of two candles next to each other, where the left one is longer than the right one. The longer one has a word '15cm', and the shorter one has a word '30cm' on it.
+A photo of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a label '100g', and the lighter one has a label '1kg' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a label 'light', and the lighter one has a label 'heavy' on it.
+A photo of two candles next to each other, where the left one is longer than the right one. The longer one has a word '15cm', and the shorter one has a word '30cm' on it.
+A photo of two cups next to each other, where the left one is longer than the right one. The longer one has a label '300ml', and the shorter one has a label '500ml' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a text '1kg', and the lighter one has a text '3kg' on it.
+A drawing of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a caption '100g', and the lighter one has a caption '1kg' on it.
+A drawing of two candles next to each other, where the left one is longer than the right one. The longer one has a caption '14inch', and the shorter one has a caption '27inch' on it.
+A sketch of two glasses next to each other, where the left one is longer than the right one. The longer one has a caption '100ml', and the shorter one has a caption '4L' on it.
+A drawing of two rulers next to each other, where the left one is longer than the right one. The longer one has a word '14inch', and the shorter one has a word '27inch' on it.
+A painting of two stones next to each other, where the left one is heavier than the right one. The heavier one has a label '100g', and the lighter one has a label '1kg' on it.
+A drawing of two rulers next to each other, where the left one is longer than the right one. The longer one has a label '10cm', and the shorter one has a label '1m' on it.
+A painting of two rulers next to each other, where the left one is longer than the right one. The longer one has a word '10cm', and the shorter one has a word '1m' on it.
+A painting of two stones next to each other, where the left one is heavier than the right one. The heavier one has a caption '100g', and the lighter one has a caption '1kg' on it.
+A photo of two candles next to each other, where the left one is longer than the right one. The longer one has a caption 'short', and the shorter one has a caption 'long' on it.
+A painting of two candles next to each other, where the left one is longer than the right one. The longer one has a text '10cm', and the shorter one has a text '1m' on it.
+A painting of two bottles next to each other, where the left one is larger than the right one. The larger one has a label '1L', and the smaller one has a label '3L' on it.
+A sketch of two bottles next to each other, where the left one is longer than the right one. The longer one has a text '100ml', and the shorter one has a text '4L' on it.
+A painting of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a caption '1kg', and the lighter one has a caption '1ton' on it.
+A painting of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a caption '1kg', and the lighter one has a caption '1ton' on it.
+A painting of two glasses next to each other, where the left one is larger than the right one. The larger one has a word '10L', and the smaller one has a word '20L' on it.
+A painting of two bottles next to each other, where the left one is longer than the right one. The longer one has a caption '100ml', and the shorter one has a caption '4L' on it.
+A painting of two glasses next to each other, where the left one is longer than the right one. The longer one has a word '300ml', and the shorter one has a word '500ml' on it.
+A drawing of two cups next to each other, where the left one is longer than the right one. The longer one has a text 'small', and the shorter one has a text 'big' on it.
+A painting of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word '2kg', and the lighter one has a word '5kg' on it.
+A photo of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word 'light', and the lighter one has a word 'heavy' on it.
+A drawing of two glasses next to each other, where the left one is longer than the right one. The longer one has a word 'small', and the shorter one has a word 'big' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a label '1kg', and the lighter one has a label '3kg' on it.
+A photo of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word '1kg', and the lighter one has a word '1ton' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a text 'light', and the lighter one has a text 'heavy' on it.
+A sketch of two glasses next to each other, where the left one is longer than the right one. The longer one has a label 'small', and the shorter one has a label 'big' on it.
+A drawing of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a label '1kg', and the lighter one has a label '1ton' on it.
+A sketch of two rulers next to each other, where the left one is longer than the right one. The longer one has a label '10cm', and the shorter one has a label '1m' on it.
+A photo of two cups next to each other, where the left one is larger than the right one. The larger one has a text '10L', and the smaller one has a text '20L' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a caption '15cm', and the shorter one has a caption '30cm' on it.
+A sketch of two cups next to each other, where the left one is larger than the right one. The larger one has a text '1L', and the smaller one has a text '3L' on it.
+A sketch of two candles next to each other, where the left one is longer than the right one. The longer one has a label '14inch', and the shorter one has a label '27inch' on it.
+A painting of two rulers next to each other, where the left one is longer than the right one. The longer one has a label 'short', and the shorter one has a label 'long' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a word '2kg', and the lighter one has a word '5kg' on it.
+A photo of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a text 'light', and the lighter one has a text 'heavy' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a text '1kg', and the lighter one has a text '3kg' on it.
+A sketch of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a label '1kg', and the lighter one has a label '3kg' on it.
+A photo of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a label '1kg', and the lighter one has a label '1ton' on it.
+A drawing of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a caption '2kg', and the lighter one has a caption '5kg' on it.
+A drawing of two glasses next to each other, where the left one is longer than the right one. The longer one has a caption '100ml', and the shorter one has a caption '4L' on it.
+A drawing of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a label 'light', and the lighter one has a label 'heavy' on it.
+A drawing of two stones next to each other, where the left one is heavier than the right one. The heavier one has a text '2kg', and the lighter one has a text '5kg' on it.
+A photo of two cups next to each other, where the left one is larger than the right one. The larger one has a caption '10L', and the smaller one has a caption '20L' on it.
+A drawing of two bottles next to each other, where the left one is longer than the right one. The longer one has a text '300ml', and the shorter one has a text '500ml' on it.
+A painting of two bottles next to each other, where the left one is longer than the right one. The longer one has a label 'small', and the shorter one has a label 'big' on it.
+A photo of two cups next to each other, where the left one is larger than the right one. The larger one has a label '1L', and the smaller one has a label '3L' on it.
+A painting of two rulers next to each other, where the left one is longer than the right one. The longer one has a label 'short', and the shorter one has a label 'long' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '14inch', and the shorter one has a text '27inch' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a word '15cm', and the shorter one has a word '30cm' on it.
+A photo of two candles next to each other, where the left one is longer than the right one. The longer one has a word 'short', and the shorter one has a word 'long' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '15cm', and the shorter one has a text '30cm' on it.
+A drawing of two cups next to each other, where the left one is larger than the right one. The larger one has a text '10L', and the smaller one has a text '20L' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a word '100g', and the lighter one has a word '1kg' on it.
+A photo of two candles next to each other, where the left one is longer than the right one. The longer one has a caption '15cm', and the shorter one has a caption '30cm' on it.
+A drawing of two candles next to each other, where the left one is longer than the right one. The longer one has a word 'short', and the shorter one has a word 'long' on it.
+A sketch of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a word '100g', and the lighter one has a word '1kg' on it.
+A sketch of two glasses next to each other, where the left one is longer than the right one. The longer one has a text '300ml', and the shorter one has a text '500ml' on it.
+A drawing of two stones next to each other, where the left one is heavier than the right one. The heavier one has a word 'light', and the lighter one has a word 'heavy' on it.
+A photo of two glasses next to each other, where the left one is larger than the right one. The larger one has a label '10L', and the smaller one has a label '20L' on it.
+A painting of two candles next to each other, where the left one is longer than the right one. The longer one has a caption '15cm', and the shorter one has a caption '30cm' on it.
+A painting of two bottles next to each other, where the left one is longer than the right one. The longer one has a label '100ml', and the shorter one has a label '4L' on it.
+A sketch of two candles next to each other, where the left one is longer than the right one. The longer one has a label '10cm', and the shorter one has a label '1m' on it.
+A painting of two stones next to each other, where the left one is heavier than the right one. The heavier one has a text '1kg', and the lighter one has a text '1ton' on it.
+A drawing of two glasses next to each other, where the left one is longer than the right one. The longer one has a caption '100ml', and the shorter one has a caption '4L' on it.
+A photo of two rulers next to each other, where the left one is longer than the right one. The longer one has a text '14inch', and the shorter one has a text '27inch' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a caption '1kg', and the lighter one has a caption '3kg' on it.
+A painting of two candles next to each other, where the left one is longer than the right one. The longer one has a label '15cm', and the shorter one has a label '30cm' on it.
+A painting of two cups next to each other, where the left one is longer than the right one. The longer one has a text '300ml', and the shorter one has a text '500ml' on it.
+A drawing of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a caption '1kg', and the lighter one has a caption '3kg' on it.
+A drawing of two candles next to each other, where the left one is longer than the right one. The longer one has a label '15cm', and the shorter one has a label '30cm' on it.
+A drawing of two glasses next to each other, where the left one is longer than the right one. The longer one has a word '100ml', and the shorter one has a word '4L' on it.
+A painting of two candles next to each other, where the left one is longer than the right one. The longer one has a caption 'short', and the shorter one has a caption 'long' on it.
+A painting of two wooden balls next to each other, where the left one is heavier than the right one. The heavier one has a label 'light', and the lighter one has a label 'heavy' on it.
+A drawing of two bottles next to each other, where the left one is longer than the right one. The longer one has a label 'small', and the shorter one has a label 'big' on it.
+A sketch of two glasses next to each other, where the left one is longer than the right one. The longer one has a word '300ml', and the shorter one has a word '500ml' on it.
+A sketch of two rulers next to each other, where the left one is longer than the right one. The longer one has a text 'short', and the shorter one has a text 'long' on it.
+A photo of two boxes next to each other, where the left one is heavier than the right one. The heavier one has a text '1kg', and the lighter one has a text '1ton' on it.

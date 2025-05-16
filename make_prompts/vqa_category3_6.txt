@@ -1,0 +1,750 @@
+Prompt: A photo of girl and soldier. There is a label 'fighting' written between them.
+Does this image primarily depict both girl and soldier?
+Do the poses or interactions of girl and soldier visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of man and taxi-driver. There is a word 'fighting' written on it.
+Does this image primarily depict both man and taxi-driver?
+Do the poses or interactions of man and taxi-driver visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of woman and baby. There is a word 'fighting' written on it.
+Does this image primarily depict both woman and baby?
+Do the poses or interactions of woman and baby visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of taxi-driver and firefighter. There is a text 'fighting' written between them.
+Does this image primarily depict both taxi-driver and firefighter?
+Do the poses or interactions of taxi-driver and firefighter visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of firefighter and athlete. There is a word 'married' written on it.
+Does this image primarily depict both firefighter and athlete?
+Do the poses or interactions of firefighter and athlete visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of kangaroo and aquarium fish. There is a word 'staring' written on it.
+Does this image primarily depict both kangaroo and aquarium fish?
+Do the poses or interactions of kangaroo and aquarium fish visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of man and woman. There is a caption 'fighting' written on it.
+Does this image primarily depict both man and woman?
+Do the poses or interactions of man and woman visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of student and firefighter. There is a label 'arguing' written between them.
+Does this image primarily depict both student and firefighter?
+Do the poses or interactions of student and firefighter visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A painting of squirrel and shrew. There is a text 'fighting' written on it.
+Does this image primarily depict both squirrel and shrew?
+Do the poses or interactions of squirrel and shrew visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of woman and student. There is a caption 'arguing' written on it.
+Does this image primarily depict both woman and student?
+Do the poses or interactions of woman and student visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A painting of camel and fox. There is a label 'staring' written on it.
+Does this image primarily depict both camel and fox?
+Do the poses or interactions of camel and fox visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of chef and police. There is a caption 'parent and child' written between them.
+Does this image primarily depict both chef and police?
+Do the poses or interactions of chef and police visually depict them as parent and child?
+Does the scene's overall mood or composition subtly suggest the relationship parent and child?
+
+Prompt: A drawing of teacher and taxi-driver. There is a text 'married' written on it.
+Does this image primarily depict both teacher and taxi-driver?
+Do the poses or interactions of teacher and taxi-driver visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A sketch of girl and teacher. There is a word 'arguing' written between them.
+Does this image primarily depict both girl and teacher?
+Do the poses or interactions of girl and teacher visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A photo of girl and student. There is a label 'arguing' written on it.
+Does this image primarily depict both girl and student?
+Do the poses or interactions of girl and student visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A photo of skunk and spider. There is a word 'staring' written between them.
+Does this image primarily depict both skunk and spider?
+Do the poses or interactions of skunk and spider visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of cattle and ray. There is a label 'staring' written between them.
+Does this image primarily depict both cattle and ray?
+Do the poses or interactions of cattle and ray visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of soldier and taxi-driver. There is a caption 'married' written between them.
+Does this image primarily depict both soldier and taxi-driver?
+Do the poses or interactions of soldier and taxi-driver visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A drawing of snail and snake. There is a label 'fighting' written between them.
+Does this image primarily depict both snail and snake?
+Do the poses or interactions of snail and snake visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of spider and beaver. There is a text 'staring' written on it.
+Does this image primarily depict both spider and beaver?
+Do the poses or interactions of spider and beaver visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of wolf and bear. There is a label 'fighting' written on it.
+Does this image primarily depict both wolf and bear?
+Do the poses or interactions of wolf and bear visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of whale and worm. There is a label 'fighting' written on it.
+Does this image primarily depict both whale and worm?
+Do the poses or interactions of whale and worm visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of athlete and police. There is a word 'arguing' written on it.
+Does this image primarily depict both thlete and police?
+Do the poses or interactions of thlete and police visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A drawing of mouse and elephant. There is a text 'staring' written between them.
+Does this image primarily depict both mouse and elephant?
+Do the poses or interactions of mouse and elephant visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of firefighter and baby. There is a label 'fighting' written on it.
+Does this image primarily depict both firefighter and baby?
+Do the poses or interactions of firefighter and baby visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of seal and cockroach. There is a label 'fighting' written on it.
+Does this image primarily depict both seal and cockroach?
+Do the poses or interactions of seal and cockroach visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of lion and rabbit. There is a text 'staring' written on it.
+Does this image primarily depict both lion and rabbit?
+Do the poses or interactions of lion and rabbit visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of chef and police. There is a caption 'arguing' written between them.
+Does this image primarily depict both chef and police?
+Do the poses or interactions of chef and police visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A photo of police and chef. There is a label 'fighting' written between them.
+Does this image primarily depict both police and chef?
+Do the poses or interactions of police and chef visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of flatfish and bear. There is a label 'fighting' written between them.
+Does this image primarily depict both flatfish and bear?
+Do the poses or interactions of flatfish and bear visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of woman and chef. There is a word 'arguing' written on it.
+Does this image primarily depict both woman and chef?
+Do the poses or interactions of woman and chef visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A photo of teacher and baby. There is a word 'fighting' written on it.
+Does this image primarily depict both teacher and baby?
+Do the poses or interactions of teacher and baby visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of man and police. There is a caption 'fighting' written between them.
+Does this image primarily depict both man and police?
+Do the poses or interactions of man and police visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of leopard and skunk. There is a word 'staring' written on it.
+Does this image primarily depict both leopard and skunk?
+Do the poses or interactions of leopard and skunk visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of man and baby. There is a word 'fighting' written on it.
+Does this image primarily depict both man and baby?
+Do the poses or interactions of man and baby visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of snail and spider. There is a label 'fighting' written on it.
+Does this image primarily depict both snail and spider?
+Do the poses or interactions of snail and spider visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of boy and student. There is a label 'fighting' written on it.
+Does this image primarily depict both boy and student?
+Do the poses or interactions of boy and student visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of otter and turtle. There is a label 'fighting' written on it.
+Does this image primarily depict both otter and turtle?
+Do the poses or interactions of otter and turtle visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of soldier and firefighter. There is a text 'arguing' written between them.
+Does this image primarily depict both soldier and firefighter?
+Do the poses or interactions of soldier and firefighter visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A painting of wolf and skunk. There is a word 'staring' written on it.
+Does this image primarily depict both wolf and skunk?
+Do the poses or interactions of wolf and skunk visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of dinosaur and flatfish. There is a label 'fighting' written between them.
+Does this image primarily depict both dinosaur and flatfish?
+Do the poses or interactions of dinosaur and flatfish visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of whale and bear. There is a text 'staring' written on it.
+Does this image primarily depict both whale and bear?
+Do the poses or interactions of whale and bear visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of wolf and turtle. There is a caption 'fighting' written between them.
+Does this image primarily depict both wolf and turtle?
+Do the poses or interactions of wolf and turtle visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of boy and soldier. There is a label 'fighting' written on it.
+Does this image primarily depict both boy and soldier?
+Do the poses or interactions of boy and soldier visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of caterpillar and shrew. There is a text 'staring' written on it.
+Does this image primarily depict both caterpillar and shrew?
+Do the poses or interactions of caterpillar and shrew visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of police and woman. There is a text 'fighting' written on it.
+Does this image primarily depict both police and woman?
+Do the poses or interactions of police and woman visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of leopard and bee. There is a text 'staring' written on it.
+Does this image primarily depict both leopard and bee?
+Do the poses or interactions of leopard and bee visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of soldier and girl. There is a label 'fighting' written on it.
+Does this image primarily depict both soldier and girl?
+Do the poses or interactions of soldier and girl visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of woman and firefighter. There is a caption 'fighting' written between them.
+Does this image primarily depict both woman and firefighter?
+Do the poses or interactions of woman and firefighter visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of chimpanzee and crocodile. There is a caption 'staring' written on it.
+Does this image primarily depict both chimpanzee and crocodile?
+Do the poses or interactions of chimpanzee and crocodile visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of beetle and porcupine. There is a caption 'fighting' written on it.
+Does this image primarily depict both beetle and porcupine?
+Do the poses or interactions of beetle and porcupine visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of bear and lion. There is a text 'fighting' written between them.
+Does this image primarily depict both bear and lion?
+Do the poses or interactions of bear and lion visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of cockroach and butterfly. There is a word 'staring' written on it.
+Does this image primarily depict both cockroach and butterfly?
+Do the poses or interactions of cockroach and butterfly visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of student and man. There is a text 'parent and child' written on it.
+Does this image primarily depict both student and man?
+Do the poses or interactions of student and man visually depict them as parent and child?
+Does the scene's overall mood or composition subtly suggest the relationship parent and child?
+
+Prompt: A painting of lion and chimpanzee. There is a text 'staring' written on it.
+Does this image primarily depict both lion and chimpanzee?
+Do the poses or interactions of lion and chimpanzee visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of leopard and beetle. There is a label 'staring' written on it.
+Does this image primarily depict both leopard and beetle?
+Do the poses or interactions of leopard and beetle visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of taxi-driver and firefighter. There is a label 'parent and child' written between them.
+Does this image primarily depict both taxi-driver and firefighter?
+Do the poses or interactions of taxi-driver and firefighter visually depict them as parent and child?
+Does the scene's overall mood or composition subtly suggest the relationship parent and child?
+
+Prompt: A photo of soldier and police. There is a word 'fighting' written on it.
+Does this image primarily depict both soldier and police?
+Do the poses or interactions of soldier and police visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of student and firefighter. There is a text 'married' written between them.
+Does this image primarily depict both student and firefighter?
+Do the poses or interactions of student and firefighter visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of camel and fox. There is a text 'staring' written between them.
+Does this image primarily depict both camel and fox?
+Do the poses or interactions of camel and fox visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of kangaroo and shrew. There is a caption 'fighting' written between them.
+Does this image primarily depict both kangaroo and shrew?
+Do the poses or interactions of kangaroo and shrew visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of man and police. There is a word 'married' written on it.
+Does this image primarily depict both man and police?
+Do the poses or interactions of man and police visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A sketch of snail and crab. There is a word 'fighting' written between them.
+Does this image primarily depict both snail and crab?
+Do the poses or interactions of snail and crab visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of taxi-driver and man. There is a text 'married' written between them.
+Does this image primarily depict both taxi-driver and man?
+Do the poses or interactions of taxi-driver and man visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A drawing of man and chef. There is a caption 'fighting' written on it.
+Does this image primarily depict both man and chef?
+Do the poses or interactions of man and chef visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of kangaroo and lobster. There is a word 'staring' written on it.
+Does this image primarily depict both kangaroo and lobster?
+Do the poses or interactions of kangaroo and lobster visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of flatfish and possum. There is a caption 'fighting' written on it.
+Does this image primarily depict both flatfish and possum?
+Do the poses or interactions of flatfish and possum visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of ray and skunk. There is a word 'fighting' written on it.
+Does this image primarily depict both ray and skunk?
+Do the poses or interactions of ray and skunk visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of snail and possum. There is a text 'staring' written between them.
+Does this image primarily depict both snail and possum?
+Do the poses or interactions of snail and possum visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of man and student. There is a word 'married' written between them.
+Does this image primarily depict both man and student?
+Do the poses or interactions of man and student visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A sketch of soldier and woman. There is a caption 'arguing' written between them.
+Does this image primarily depict both soldier and woman?
+Do the poses or interactions of soldier and woman visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A painting of aquarium fish and shark. There is a text 'fighting' written between them.
+Does this image primarily depict both quarium fish and shark?
+Do the poses or interactions of quarium fish and shark visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of whale and porcupine. There is a word 'staring' written on it.
+Does this image primarily depict both whale and porcupine?
+Do the poses or interactions of whale and porcupine visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of police and taxi-driver. There is a word 'fighting' written between them.
+Does this image primarily depict both police and taxi-driver?
+Do the poses or interactions of police and taxi-driver visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of wolf and kangaroo. There is a word 'staring' written on it.
+Does this image primarily depict both wolf and kangaroo?
+Do the poses or interactions of wolf and kangaroo visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of chef and baby. There is a word 'arguing' written on it.
+Does this image primarily depict both chef and baby?
+Do the poses or interactions of chef and baby visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A painting of shark and turtle. There is a word 'fighting' written on it.
+Does this image primarily depict both shark and turtle?
+Do the poses or interactions of shark and turtle visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of shark and skunk. There is a label 'fighting' written on it.
+Does this image primarily depict both shark and skunk?
+Do the poses or interactions of shark and skunk visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of chef and firefighter. There is a text 'married' written between them.
+Does this image primarily depict both chef and firefighter?
+Do the poses or interactions of chef and firefighter visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A sketch of boy and chef. There is a text 'fighting' written between them.
+Does this image primarily depict both boy and chef?
+Do the poses or interactions of boy and chef visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of mouse and otter. There is a text 'fighting' written on it.
+Does this image primarily depict both mouse and otter?
+Do the poses or interactions of mouse and otter visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of bear and shark. There is a caption 'staring' written on it.
+Does this image primarily depict both bear and shark?
+Do the poses or interactions of bear and shark visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of elephant and bee. There is a caption 'fighting' written between them.
+Does this image primarily depict both elephant and bee?
+Do the poses or interactions of elephant and bee visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of wolf and dinosaur. There is a text 'staring' written on it.
+Does this image primarily depict both wolf and dinosaur?
+Do the poses or interactions of wolf and dinosaur visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of hamster and bear. There is a caption 'fighting' written on it.
+Does this image primarily depict both hamster and bear?
+Do the poses or interactions of hamster and bear visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of police and student. There is a label 'married' written on it.
+Does this image primarily depict both police and student?
+Do the poses or interactions of police and student visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of lobster and flatfish. There is a text 'staring' written on it.
+Does this image primarily depict both lobster and flatfish?
+Do the poses or interactions of lobster and flatfish visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of soldier and teacher. There is a word 'married' written on it.
+Does this image primarily depict both soldier and teacher?
+Do the poses or interactions of soldier and teacher visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A sketch of lizard and lion. There is a word 'staring' written between them.
+Does this image primarily depict both lizard and lion?
+Do the poses or interactions of lizard and lion visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of bear and skunk. There is a label 'staring' written between them.
+Does this image primarily depict both bear and skunk?
+Do the poses or interactions of bear and skunk visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of beetle and lobster. There is a label 'fighting' written between them.
+Does this image primarily depict both beetle and lobster?
+Do the poses or interactions of beetle and lobster visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of athlete and soldier. There is a text 'married' written between them.
+Does this image primarily depict both thlete and soldier?
+Do the poses or interactions of thlete and soldier visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of police and chef. There is a caption 'arguing' written on it.
+Does this image primarily depict both police and chef?
+Do the poses or interactions of police and chef visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A sketch of aquarium fish and tiger. There is a word 'fighting' written between them.
+Does this image primarily depict both quarium fish and tiger?
+Do the poses or interactions of quarium fish and tiger visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of elephant and crab. There is a caption 'staring' written between them.
+Does this image primarily depict both elephant and crab?
+Do the poses or interactions of elephant and crab visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of lion and wolf. There is a text 'staring' written between them.
+Does this image primarily depict both lion and wolf?
+Do the poses or interactions of lion and wolf visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of soldier and teacher. There is a label 'arguing' written on it.
+Does this image primarily depict both soldier and teacher?
+Do the poses or interactions of soldier and teacher visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A drawing of athlete and teacher. There is a caption 'married' written between them.
+Does this image primarily depict both thlete and teacher?
+Do the poses or interactions of thlete and teacher visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of girl and woman. There is a caption 'fighting' written between them.
+Does this image primarily depict both girl and woman?
+Do the poses or interactions of girl and woman visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of crocodile and tiger. There is a text 'fighting' written on it.
+Does this image primarily depict both crocodile and tiger?
+Do the poses or interactions of crocodile and tiger visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of crab and raccoon. There is a label 'staring' written on it.
+Does this image primarily depict both crab and raccoon?
+Do the poses or interactions of crab and raccoon visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of crab and ray. There is a label 'fighting' written between them.
+Does this image primarily depict both crab and ray?
+Do the poses or interactions of crab and ray visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of shrew and seal. There is a word 'fighting' written on it.
+Does this image primarily depict both shrew and seal?
+Do the poses or interactions of shrew and seal visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of ray and crocodile. There is a text 'staring' written on it.
+Does this image primarily depict both ray and crocodile?
+Do the poses or interactions of ray and crocodile visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of wolf and lizard. There is a word 'staring' written between them.
+Does this image primarily depict both wolf and lizard?
+Do the poses or interactions of wolf and lizard visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of caterpillar and hamster. There is a label 'fighting' written on it.
+Does this image primarily depict both caterpillar and hamster?
+Do the poses or interactions of caterpillar and hamster visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of teacher and boy. There is a label 'fighting' written on it.
+Does this image primarily depict both teacher and boy?
+Do the poses or interactions of teacher and boy visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of crab and tiger. There is a word 'fighting' written between them.
+Does this image primarily depict both crab and tiger?
+Do the poses or interactions of crab and tiger visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of skunk and whale. There is a text 'fighting' written between them.
+Does this image primarily depict both skunk and whale?
+Do the poses or interactions of skunk and whale visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of man and student. There is a caption 'arguing' written between them.
+Does this image primarily depict both man and student?
+Do the poses or interactions of man and student visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A painting of taxi-driver and woman. There is a caption 'married' written on it.
+Does this image primarily depict both taxi-driver and woman?
+Do the poses or interactions of taxi-driver and woman visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A sketch of squirrel and fox. There is a label 'staring' written between them.
+Does this image primarily depict both squirrel and fox?
+Do the poses or interactions of squirrel and fox visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of possum and camel. There is a word 'staring' written on it.
+Does this image primarily depict both possum and camel?
+Do the poses or interactions of possum and camel visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of dinosaur and lizard. There is a label 'fighting' written on it.
+Does this image primarily depict both dinosaur and lizard?
+Do the poses or interactions of dinosaur and lizard visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of student and chef. There is a label 'married' written on it.
+Does this image primarily depict both student and chef?
+Do the poses or interactions of student and chef visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A drawing of crab and chimpanzee. There is a word 'staring' written between them.
+Does this image primarily depict both crab and chimpanzee?
+Do the poses or interactions of crab and chimpanzee visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of cattle and porcupine. There is a text 'staring' written on it.
+Does this image primarily depict both cattle and porcupine?
+Do the poses or interactions of cattle and porcupine visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of firefighter and woman. There is a word 'married' written on it.
+Does this image primarily depict both firefighter and woman?
+Do the poses or interactions of firefighter and woman visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of worm and skunk. There is a word 'staring' written on it.
+Does this image primarily depict both worm and skunk?
+Do the poses or interactions of worm and skunk visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of lobster and hamster. There is a caption 'staring' written between them.
+Does this image primarily depict both lobster and hamster?
+Do the poses or interactions of lobster and hamster visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of tiger and raccoon. There is a caption 'staring' written between them.
+Does this image primarily depict both tiger and raccoon?
+Do the poses or interactions of tiger and raccoon visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of wolf and crocodile. There is a label 'fighting' written on it.
+Does this image primarily depict both wolf and crocodile?
+Do the poses or interactions of wolf and crocodile visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of ray and skunk. There is a label 'fighting' written on it.
+Does this image primarily depict both ray and skunk?
+Do the poses or interactions of ray and skunk visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A drawing of lion and porcupine. There is a word 'staring' written between them.
+Does this image primarily depict both lion and porcupine?
+Do the poses or interactions of lion and porcupine visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of kangaroo and butterfly. There is a caption 'fighting' written between them.
+Does this image primarily depict both kangaroo and butterfly?
+Do the poses or interactions of kangaroo and butterfly visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of taxi-driver and teacher. There is a text 'married' written between them.
+Does this image primarily depict both taxi-driver and teacher?
+Do the poses or interactions of taxi-driver and teacher visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of lizard and rabbit. There is a text 'staring' written between them.
+Does this image primarily depict both lizard and rabbit?
+Do the poses or interactions of lizard and rabbit visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of teacher and taxi-driver. There is a word 'parent and child' written between them.
+Does this image primarily depict both teacher and taxi-driver?
+Do the poses or interactions of teacher and taxi-driver visually depict them as parent and child?
+Does the scene's overall mood or composition subtly suggest the relationship parent and child?
+
+Prompt: A sketch of bear and dinosaur. There is a text 'staring' written on it.
+Does this image primarily depict both bear and dinosaur?
+Do the poses or interactions of bear and dinosaur visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A drawing of chef and soldier. There is a word 'parent and child' written on it.
+Does this image primarily depict both chef and soldier?
+Do the poses or interactions of chef and soldier visually depict them as parent and child?
+Does the scene's overall mood or composition subtly suggest the relationship parent and child?
+
+Prompt: A sketch of shark and snail. There is a caption 'staring' written between them.
+Does this image primarily depict both shark and snail?
+Do the poses or interactions of shark and snail visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of skunk and beaver. There is a word 'fighting' written on it.
+Does this image primarily depict both skunk and beaver?
+Do the poses or interactions of skunk and beaver visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of woman and firefighter. There is a caption 'parent and child' written on it.
+Does this image primarily depict both woman and firefighter?
+Do the poses or interactions of woman and firefighter visually depict them as parent and child?
+Does the scene's overall mood or composition subtly suggest the relationship parent and child?
+
+Prompt: A photo of hamster and lobster. There is a text 'fighting' written between them.
+Does this image primarily depict both hamster and lobster?
+Do the poses or interactions of hamster and lobster visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of aquarium fish and possum. There is a caption 'fighting' written between them.
+Does this image primarily depict both quarium fish and possum?
+Do the poses or interactions of quarium fish and possum visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A photo of dolphin and otter. There is a word 'staring' written on it.
+Does this image primarily depict both dolphin and otter?
+Do the poses or interactions of dolphin and otter visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A photo of girl and man. There is a text 'arguing' written between them.
+Does this image primarily depict both girl and man?
+Do the poses or interactions of girl and man visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A drawing of police and athlete. There is a caption 'arguing' written on it.
+Does this image primarily depict both police and athlete?
+Do the poses or interactions of police and athlete visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+
+Prompt: A sketch of woman and chef. There is a caption 'married' written on it.
+Does this image primarily depict both woman and chef?
+Do the poses or interactions of woman and chef visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A photo of bee and whale. There is a word 'staring' written between them.
+Does this image primarily depict both bee and whale?
+Do the poses or interactions of bee and whale visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of skunk and wolf. There is a text 'fighting' written between them.
+Does this image primarily depict both skunk and wolf?
+Do the poses or interactions of skunk and wolf visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of athlete and firefighter. There is a word 'married' written on it.
+Does this image primarily depict both thlete and firefighter?
+Do the poses or interactions of thlete and firefighter visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A painting of athlete and student. There is a label 'fighting' written between them.
+Does this image primarily depict both thlete and student?
+Do the poses or interactions of thlete and student visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of chimpanzee and cockroach. There is a text 'fighting' written on it.
+Does this image primarily depict both chimpanzee and cockroach?
+Do the poses or interactions of chimpanzee and cockroach visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A painting of mouse and otter. There is a caption 'staring' written on it.
+Does this image primarily depict both mouse and otter?
+Do the poses or interactions of mouse and otter visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of aquarium fish and tiger. There is a label 'staring' written between them.
+Does this image primarily depict both quarium fish and tiger?
+Do the poses or interactions of quarium fish and tiger visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A sketch of teacher and firefighter. There is a caption 'married' written on it.
+Does this image primarily depict both teacher and firefighter?
+Do the poses or interactions of teacher and firefighter visually depict them as married?
+Does the scene's overall mood or composition subtly suggest the relationship married?
+
+Prompt: A drawing of tiger and cattle. There is a text 'fighting' written between them.
+Does this image primarily depict both tiger and cattle?
+Do the poses or interactions of tiger and cattle visually depict them as fighting?
+Does the scene's overall mood or composition subtly suggest the relationship fighting?
+
+Prompt: A sketch of cockroach and shrew. There is a label 'staring' written on it.
+Does this image primarily depict both cockroach and shrew?
+Do the poses or interactions of cockroach and shrew visually depict them as staring?
+Does the scene's overall mood or composition subtly suggest the relationship staring?
+
+Prompt: A painting of teacher and boy. There is a label 'arguing' written between them.
+Does this image primarily depict both teacher and boy?
+Do the poses or interactions of teacher and boy visually depict them as arguing?
+Does the scene's overall mood or composition subtly suggest the relationship arguing?
+

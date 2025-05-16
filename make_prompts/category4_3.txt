@@ -1,0 +1,300 @@
+A photo of 5 boxes. There is a label '4 boxes' written on it.
+A drawing of 2 boxes. There is a caption '9 boxes' written on it.
+A photo of 1 banana. There is a word '2 bananas' written on it.
+A drawing of 10 mugs. There is a caption '1 mug' written on it.
+A drawing of 8 books. There is a word '10 books' written on it.
+A painting of 7 carrots. There is a label '6 carrots' written on it.
+A painting of 6 bottles. There is a caption '2 bottles' written on it.
+A photo of 6 donuts. There is a word '10 donuts' written on it.
+A painting of 8 boxes. There is a label '9 boxes' written on it.
+A photo of 9 cookies. There is a word '5 cookies' written on it.
+A painting of 2 toies. There is a caption '1 toy' written on it.
+A drawing of 4 cookies. There is a text '2 cookies' written on it.
+A sketch of 6 soccer balls. There is a text '3 soccer balls' written on it.
+A painting of 5 bottles. There is a text '2 bottles' written on it.
+A drawing of 8 carrots. There is a caption '7 carrots' written on it.
+A painting of 6 plants. There is a caption '1 plant' written on it.
+A drawing of 7 shoes. There is a label '5 shoes' written on it.
+A photo of 6 plates. There is a caption '4 plates' written on it.
+A sketch of 8 candles. There is a word '3 candles' written on it.
+A painting of 9 books. There is a caption '5 books' written on it.
+A sketch of 4 teddy bears. There is a word '3 teddy bears' written on it.
+A sketch of 2 bananas. There is a label '3 bananas' written on it.
+A drawing of 2 clocks. There is a word '7 clocks' written on it.
+A sketch of 5 mugs. There is a word '9 mugs' written on it.
+A photo of 9 plants. There is a label '5 plants' written on it.
+A painting of 7 chairs. There is a label '3 chairs' written on it.
+A sketch of 5 boxes. There is a label '9 boxes' written on it.
+A drawing of 5 candles. There is a label '9 candles' written on it.
+A drawing of 3 teddy bears. There is a caption '9 teddy bears' written on it.
+A photo of 1 cup. There is a text '2 cups' written on it.
+A painting of 1 book. There is a text '4 books' written on it.
+A photo of 8 boxes. There is a label '2 boxes' written on it.
+A drawing of 8 plants. There is a caption '9 plants' written on it.
+A drawing of 10 mugs. There is a text '7 mugs' written on it.
+A drawing of 5 toies. There is a caption '7 toies' written on it.
+A painting of 8 mugs. There is a word '2 mugs' written on it.
+A drawing of 6 cookies. There is a caption '1 cookie' written on it.
+A drawing of 2 apples. There is a caption '1 apple' written on it.
+A drawing of 6 bananas. There is a label '2 bananas' written on it.
+A drawing of 8 plants. There is a text '4 plants' written on it.
+A drawing of 8 books. There is a word '7 books' written on it.
+A drawing of 7 donuts. There is a label '6 donuts' written on it.
+A sketch of 1 soccer ball. There is a word '2 soccer balls' written on it.
+A photo of 6 boxes. There is a word '2 boxes' written on it.
+A drawing of 9 bottles. There is a caption '8 bottles' written on it.
+A drawing of 5 carrots. There is a word '8 carrots' written on it.
+A drawing of 9 soccer balls. There is a label '2 soccer balls' written on it.
+A photo of 4 cookies. There is a label '3 cookies' written on it.
+A sketch of 4 cups. There is a word '7 cups' written on it.
+A photo of 1 ball. There is a caption '7 balls' written on it.
+A painting of 7 chairs. There is a word '9 chairs' written on it.
+A sketch of 5 bottles. There is a caption '4 bottles' written on it.
+A photo of 6 boxes. There is a label '1 box' written on it.
+A photo of 9 mugs. There is a word '3 mugs' written on it.
+A photo of 2 carrots. There is a label '10 carrots' written on it.
+A photo of 2 balls. There is a caption '10 balls' written on it.
+A drawing of 2 clocks. There is a label '7 clocks' written on it.
+A painting of 6 bottles. There is a text '4 bottles' written on it.
+A painting of 5 cupcakes. There is a word '8 cupcakes' written on it.
+A painting of 8 apples. There is a label '10 apples' written on it.
+A photo of 4 bowls. There is a label '9 bowls' written on it.
+A painting of 2 teddy bears. There is a caption '4 teddy bears' written on it.
+A painting of 8 carrots. There is a text '9 carrots' written on it.
+A painting of 9 plants. There is a label '5 plants' written on it.
+A photo of 2 pens. There is a caption '9 pens' written on it.
+A drawing of 10 chairs. There is a text '4 chairs' written on it.
+A painting of 5 plants. There is a caption '9 plants' written on it.
+A sketch of 2 bananas. There is a text '7 bananas' written on it.
+A painting of 6 apples. There is a label '3 apples' written on it.
+A painting of 8 boxes. There is a caption '9 boxes' written on it.
+A sketch of 2 donuts. There is a label '3 donuts' written on it.
+A photo of 9 plates. There is a text '3 plates' written on it.
+A sketch of 5 bananas. There is a caption '6 bananas' written on it.
+A photo of 4 bottles. There is a text '2 bottles' written on it.
+A painting of 3 clocks. There is a word '4 clocks' written on it.
+A drawing of 1 jelly. There is a caption '3 jellies' written on it.
+A painting of 4 plants. There is a word '5 plants' written on it.
+A drawing of 1 ball. There is a label '8 balls' written on it.
+A drawing of 6 soccer balls. There is a caption '5 soccer balls' written on it.
+A drawing of 4 apples. There is a caption '7 apples' written on it.
+A painting of 5 cookies. There is a text '6 cookies' written on it.
+A sketch of 2 apples. There is a text '5 apples' written on it.
+A drawing of 2 bananas. There is a text '10 bananas' written on it.
+A sketch of 6 boxes. There is a text '7 boxes' written on it.
+A photo of 4 plates. There is a word '5 plates' written on it.
+A photo of 9 apples. There is a word '4 apples' written on it.
+A painting of 6 cookies. There is a word '10 cookies' written on it.
+A painting of 5 boxes. There is a label '9 boxes' written on it.
+A painting of 7 shoes. There is a word '5 shoes' written on it.
+A drawing of 7 jellies. There is a caption '3 jellies' written on it.
+A painting of 1 bowl. There is a word '5 bowls' written on it.
+A painting of 10 jellies. There is a caption '6 jellies' written on it.
+A sketch of 4 soccer balls. There is a word '9 soccer balls' written on it.
+A sketch of 2 plants. There is a caption '5 plants' written on it.
+A painting of 5 books. There is a label '4 books' written on it.
+A drawing of 1 apple. There is a caption '4 apples' written on it.
+A sketch of 7 soccer balls. There is a label '10 soccer balls' written on it.
+A drawing of 7 cups. There is a word '4 cups' written on it.
+A drawing of 7 donuts. There is a label '4 donuts' written on it.
+A drawing of 9 bananas. There is a word '4 bananas' written on it.
+A photo of 8 cupcakes. There is a word '9 cupcakes' written on it.
+A painting of 9 clocks. There is a word '7 clocks' written on it.
+A sketch of 8 boxes. There is a caption '5 boxes' written on it.
+A drawing of 8 mugs. There is a text '4 mugs' written on it.
+A painting of 5 cookies. There is a word '4 cookies' written on it.
+A painting of 9 shoes. There is a text '2 shoes' written on it.
+A drawing of 7 books. There is a caption '3 books' written on it.
+A drawing of 7 jellies. There is a label '6 jellies' written on it.
+A sketch of 4 bananas. There is a word '7 bananas' written on it.
+A sketch of 7 plates. There is a label '8 plates' written on it.
+A photo of 7 chairs. There is a text '9 chairs' written on it.
+A drawing of 5 books. There is a word '7 books' written on it.
+A sketch of 6 balls. There is a label '7 balls' written on it.
+A drawing of 10 cupcakes. There is a word '9 cupcakes' written on it.
+A photo of 10 plates. There is a word '1 plate' written on it.
+A photo of 8 cupcakes. There is a word '3 cupcakes' written on it.
+A photo of 6 balls. There is a text '4 balls' written on it.
+A sketch of 7 shoes. There is a text '5 shoes' written on it.
+A sketch of 8 cookies. There is a text '1 cookie' written on it.
+A photo of 2 books. There is a text '1 book' written on it.
+A photo of 1 bottle. There is a caption '10 bottles' written on it.
+A drawing of 8 cupcakes. There is a caption '2 cupcakes' written on it.
+A drawing of 5 toies. There is a word '6 toies' written on it.
+A drawing of 5 carrots. There is a label '2 carrots' written on it.
+A photo of 7 plates. There is a text '4 plates' written on it.
+A photo of 5 donuts. There is a caption '10 donuts' written on it.
+A photo of 9 teddy bears. There is a label '7 teddy bears' written on it.
+A painting of 6 mugs. There is a label '1 mug' written on it.
+A sketch of 7 donuts. There is a word '6 donuts' written on it.
+A sketch of 3 jellies. There is a caption '9 jellies' written on it.
+A painting of 7 soccer balls. There is a word '10 soccer balls' written on it.
+A painting of 2 books. There is a text '5 books' written on it.
+A sketch of 10 soccer balls. There is a caption '7 soccer balls' written on it.
+A painting of 6 cups. There is a label '3 cups' written on it.
+A sketch of 5 teddy bears. There is a caption '6 teddy bears' written on it.
+A painting of 1 bowl. There is a text '9 bowls' written on it.
+A drawing of 7 books. There is a label '8 books' written on it.
+A drawing of 8 candles. There is a word '1 candle' written on it.
+A photo of 7 books. There is a text '4 books' written on it.
+A painting of 9 cups. There is a text '6 cups' written on it.
+A sketch of 8 teddy bears. There is a text '5 teddy bears' written on it.
+A painting of 2 books. There is a text '4 books' written on it.
+A painting of 9 boxes. There is a label '3 boxes' written on it.
+A drawing of 8 boxes. There is a caption '5 boxes' written on it.
+A painting of 5 bottles. There is a label '4 bottles' written on it.
+A painting of 1 chair. There is a caption '9 chairs' written on it.
+A drawing of 1 banana. There is a text '9 bananas' written on it.
+A painting of 8 candles. There is a caption '2 candles' written on it.
+A photo of 8 cups. There is a text '6 cups' written on it.
+A drawing of 8 pens. There is a label '2 pens' written on it.
+A photo of 2 cups. There is a word '10 cups' written on it.
+A photo of 10 cupcakes. There is a caption '5 cupcakes' written on it.
+A photo of 9 donuts. There is a caption '7 donuts' written on it.
+A drawing of 8 soccer balls. There is a word '5 soccer balls' written on it.
+A sketch of 10 plates. There is a text '1 plate' written on it.
+A photo of 4 candles. There is a caption '5 candles' written on it.
+A photo of 3 books. There is a caption '9 books' written on it.
+A photo of 7 apples. There is a caption '8 apples' written on it.
+A sketch of 4 bananas. There is a text '5 bananas' written on it.
+A painting of 4 cookies. There is a word '5 cookies' written on it.
+A drawing of 9 donuts. There is a word '4 donuts' written on it.
+A drawing of 2 cupcakes. There is a text '1 cupcake' written on it.
+A drawing of 10 clocks. There is a text '5 clocks' written on it.
+A sketch of 5 soccer balls. There is a label '7 soccer balls' written on it.
+A painting of 2 soccer balls. There is a word '10 soccer balls' written on it.
+A photo of 6 boxes. There is a word '10 boxes' written on it.
+A painting of 4 cookies. There is a label '10 cookies' written on it.
+A photo of 1 plate. There is a text '3 plates' written on it.
+A sketch of 3 pens. There is a word '10 pens' written on it.
+A sketch of 8 cookies. There is a word '6 cookies' written on it.
+A sketch of 2 shoes. There is a text '3 shoes' written on it.
+A painting of 8 toies. There is a word '5 toies' written on it.
+A sketch of 2 soccer balls. There is a label '6 soccer balls' written on it.
+A painting of 7 donuts. There is a text '9 donuts' written on it.
+A photo of 1 jelly. There is a word '4 jellies' written on it.
+A painting of 8 candles. There is a word '1 candle' written on it.
+A drawing of 3 bowls. There is a text '5 bowls' written on it.
+A sketch of 1 donut. There is a word '10 donuts' written on it.
+A drawing of 9 chairs. There is a caption '1 chair' written on it.
+A sketch of 2 books. There is a label '8 books' written on it.
+A photo of 5 cups. There is a caption '9 cups' written on it.
+A painting of 8 cups. There is a word '4 cups' written on it.
+A sketch of 4 balls. There is a caption '10 balls' written on it.
+A drawing of 7 pens. There is a label '6 pens' written on it.
+A painting of 5 chairs. There is a label '10 chairs' written on it.
+A sketch of 9 soccer balls. There is a caption '8 soccer balls' written on it.
+A painting of 9 bowls. There is a text '7 bowls' written on it.
+A sketch of 4 bottles. There is a text '10 bottles' written on it.
+A sketch of 1 jelly. There is a caption '6 jellies' written on it.
+A sketch of 3 balls. There is a word '8 balls' written on it.
+A photo of 10 mugs. There is a caption '6 mugs' written on it.
+A photo of 9 donuts. There is a word '8 donuts' written on it.
+A photo of 3 jellies. There is a caption '2 jellies' written on it.
+A sketch of 10 shoes. There is a text '7 shoes' written on it.
+A photo of 9 plants. There is a text '7 plants' written on it.
+A painting of 1 bowl. There is a word '10 bowls' written on it.
+A photo of 5 candles. There is a caption '4 candles' written on it.
+A photo of 2 donuts. There is a word '8 donuts' written on it.
+A drawing of 1 apple. There is a text '6 apples' written on it.
+A photo of 6 teddy bears. There is a text '7 teddy bears' written on it.
+A drawing of 7 mugs. There is a caption '10 mugs' written on it.
+A drawing of 2 carrots. There is a caption '10 carrots' written on it.
+A sketch of 10 cups. There is a caption '3 cups' written on it.
+A drawing of 5 candles. There is a word '8 candles' written on it.
+A painting of 5 soccer balls. There is a label '9 soccer balls' written on it.
+A drawing of 6 soccer balls. There is a label '10 soccer balls' written on it.
+A painting of 5 toies. There is a word '8 toies' written on it.
+A painting of 8 balls. There is a caption '2 balls' written on it.
+A drawing of 6 plates. There is a word '10 plates' written on it.
+A painting of 7 apples. There is a text '5 apples' written on it.
+A photo of 8 clocks. There is a label '5 clocks' written on it.
+A drawing of 4 books. There is a text '10 books' written on it.
+A painting of 2 candles. There is a caption '1 candle' written on it.
+A painting of 10 bananas. There is a word '6 bananas' written on it.
+A drawing of 6 chairs. There is a label '7 chairs' written on it.
+A drawing of 9 cupcakes. There is a caption '6 cupcakes' written on it.
+A painting of 8 pens. There is a caption '5 pens' written on it.
+A painting of 2 soccer balls. There is a label '3 soccer balls' written on it.
+A drawing of 6 bowls. There is a word '2 bowls' written on it.
+A sketch of 9 pens. There is a label '2 pens' written on it.
+A sketch of 5 plants. There is a text '10 plants' written on it.
+A sketch of 4 donuts. There is a text '8 donuts' written on it.
+A photo of 4 clocks. There is a text '2 clocks' written on it.
+A sketch of 7 candles. There is a text '2 candles' written on it.
+A drawing of 5 bananas. There is a label '8 bananas' written on it.
+A photo of 9 books. There is a label '3 books' written on it.
+A sketch of 9 teddy bears. There is a word '7 teddy bears' written on it.
+A drawing of 2 candles. There is a word '8 candles' written on it.
+A sketch of 6 bananas. There is a text '4 bananas' written on it.
+A sketch of 6 books. There is a word '2 books' written on it.
+A painting of 7 bananas. There is a text '5 bananas' written on it.
+A drawing of 2 soccer balls. There is a label '4 soccer balls' written on it.
+A photo of 4 shoes. There is a label '3 shoes' written on it.
+A drawing of 4 bowls. There is a label '10 bowls' written on it.
+A drawing of 3 shoes. There is a caption '10 shoes' written on it.
+A photo of 3 cupcakes. There is a text '9 cupcakes' written on it.
+A painting of 1 donut. There is a caption '3 donuts' written on it.
+A photo of 10 books. There is a text '6 books' written on it.
+A photo of 1 pen. There is a caption '3 pens' written on it.
+A sketch of 2 boxes. There is a label '8 boxes' written on it.
+A sketch of 10 mugs. There is a text '2 mugs' written on it.
+A sketch of 1 clock. There is a caption '9 clocks' written on it.
+A painting of 1 candle. There is a word '8 candles' written on it.
+A sketch of 2 plants. There is a word '8 plants' written on it.
+A sketch of 6 cookies. There is a label '10 cookies' written on it.
+A drawing of 5 cupcakes. There is a label '10 cupcakes' written on it.
+A painting of 9 clocks. There is a word '5 clocks' written on it.
+A sketch of 2 donuts. There is a word '9 donuts' written on it.
+A drawing of 4 soccer balls. There is a word '7 soccer balls' written on it.
+A painting of 7 balls. There is a word '2 balls' written on it.
+A painting of 5 shoes. There is a word '6 shoes' written on it.
+A drawing of 2 cookies. There is a word '7 cookies' written on it.
+A photo of 9 cupcakes. There is a text '1 cupcake' written on it.
+A painting of 6 jellies. There is a label '7 jellies' written on it.
+A photo of 5 clocks. There is a text '6 clocks' written on it.
+A photo of 8 cupcakes. There is a caption '4 cupcakes' written on it.
+A photo of 6 bowls. There is a text '2 bowls' written on it.
+A painting of 9 jellies. There is a caption '10 jellies' written on it.
+A photo of 3 apples. There is a text '5 apples' written on it.
+A painting of 1 teddy bear. There is a text '3 teddy bears' written on it.
+A drawing of 3 cookies. There is a word '1 cookie' written on it.
+A photo of 7 balls. There is a caption '8 balls' written on it.
+A painting of 5 teddy bears. There is a caption '6 teddy bears' written on it.
+A photo of 3 cupcakes. There is a label '10 cupcakes' written on it.
+A photo of 8 pens. There is a label '7 pens' written on it.
+A sketch of 5 jellies. There is a word '4 jellies' written on it.
+A photo of 2 jellies. There is a text '5 jellies' written on it.
+A sketch of 4 bananas. There is a text '7 bananas' written on it.
+A photo of 5 bottles. There is a label '4 bottles' written on it.
+A drawing of 6 chairs. There is a text '2 chairs' written on it.
+A photo of 7 boxes. There is a word '3 boxes' written on it.
+A drawing of 4 bowls. There is a word '9 bowls' written on it.
+A painting of 1 ball. There is a label '7 balls' written on it.
+A photo of 6 cookies. There is a word '10 cookies' written on it.
+A sketch of 7 toies. There is a word '5 toies' written on it.
+A photo of 6 apples. There is a word '3 apples' written on it.
+A sketch of 7 cookies. There is a text '2 cookies' written on it.
+A drawing of 7 plates. There is a word '9 plates' written on it.
+A photo of 6 chairs. There is a word '4 chairs' written on it.
+A painting of 9 cookies. There is a caption '2 cookies' written on it.
+A drawing of 3 teddy bears. There is a text '4 teddy bears' written on it.
+A photo of 4 pens. There is a caption '3 pens' written on it.
+A drawing of 8 carrots. There is a label '10 carrots' written on it.
+A sketch of 6 candles. There is a text '3 candles' written on it.
+A sketch of 8 cups. There is a label '5 cups' written on it.
+A painting of 9 teddy bears. There is a label '2 teddy bears' written on it.
+A painting of 1 soccer ball. There is a word '6 soccer balls' written on it.
+A painting of 2 candles. There is a label '10 candles' written on it.
+A sketch of 9 plates. There is a word '1 plate' written on it.
+A sketch of 10 shoes. There is a caption '8 shoes' written on it.
+A drawing of 2 soccer balls. There is a label '6 soccer balls' written on it.
+A photo of 4 bananas. There is a caption '8 bananas' written on it.
+A sketch of 6 teddy bears. There is a caption '5 teddy bears' written on it.
+A sketch of 10 shoes. There is a word '1 shoe' written on it.
+A painting of 2 shoes. There is a label '9 shoes' written on it.
+A sketch of 10 pens. There is a text '3 pens' written on it.
+A painting of 3 plates. There is a label '6 plates' written on it.
+A painting of 10 cupcakes. There is a word '2 cupcakes' written on it.
+A painting of 6 candles. There is a word '3 candles' written on it.
+A photo of 6 mugs. There is a word '1 mug' written on it.
